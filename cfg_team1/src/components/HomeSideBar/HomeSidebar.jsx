@@ -13,12 +13,12 @@ const HomeSidebar = () => {
         ></div>
         <div
           className='sidebar-item'
-          onClick={() => navigate('/paitentoverview')}
+          onClick={() => navigate('/patient_overview')}
         >
           {' '}
           Paitient Page
         </div>
-        <div className='sidebar-item' onClick={() => navigate('/HR_report')}>
+        <div className='sidebar-item' onClick={() => navigate('/hr-report')}>
           Reports
         </div>
         <div className='sidebar-item' onClick={() => navigate('/logout')}>
