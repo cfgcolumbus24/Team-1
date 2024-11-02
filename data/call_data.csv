@@ -1,0 +1,1001 @@
+id,name,call_date,call_duration,caller_status,urgency,support_requested,mental_health_history,support_recommended,notes
+0,Charles Burch,2024-03-08,25.37,New Caller,Critical,Immediate Intervention,None,Peer Support Group,Caller feels isolated as a new parent and is seeking resources for support.
+1,Brenda Wilson,2024-01-26,18.19,Repeat Caller,Moderate,Emotional Support,None,Medication Referral,Caller mentioned ongoing nightmares and difficulty sleeping due to past trauma.
+2,Christopher Farley,2024-03-08,30.38,Repeat Caller,Critical,Immediate Intervention,None,Peer Support Group,Caller reported feeling isolated and anxious due to recent job loss.
+3,Janet Davis,2024-04-16,51.39,Repeat Caller,Moderate,Emotional Support,Prior Diagnosis,Crisis Intervention,"Caller mentioned physical symptoms related to anxiety, like shortness of breath."
+4,Joel Sutton,2024-04-19,24.5,New Caller,Low,Immediate Intervention,None,Medication Referral,Caller mentioned struggling with chronic illness and feeling worn out emotionally.
+5,Laura Brown,2024-01-07,54.73,New Caller,Moderate,Immediate Intervention,Prior Diagnosis,Medication Referral,Caller is worried about their health and experiencing symptoms of health anxiety.
+6,Paul Turner,2023-11-14,38.11,Repeat Caller,High,Immediate Intervention,Ongoing Treatment,Peer Support Group,Caller reported feeling out of control and unable to manage emotional triggers.
+7,Troy Nguyen,2024-10-07,15.61,Repeat Caller,Critical,Emotional Support,Ongoing Treatment,Medication Referral,Caller is fearful of going outside due to recent traumatic experience in public space.
+8,Nicholas Wright,2024-10-04,22.4,Repeat Caller,High,Immediate Intervention,None,Crisis Intervention,Caller expressed difficulty coping with family pressures and expectations.
+9,Lisa Green,2024-02-15,47.21,New Caller,High,Follow-Up Support,Ongoing Treatment,Peer Support Group,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+10,Christine Benitez,2023-11-21,50.79,New Caller,High,Immediate Intervention,Prior Diagnosis,Medication Referral,Caller expressed concerns about managing time and work-life balance.
+11,Leah Hernandez,2024-10-18,35.33,Repeat Caller,Critical,Immediate Intervention,None,Counseling,Caller is experiencing relationship issues and feeling misunderstood by partner.
+12,Patrick Williams,2023-12-23,48.65,Repeat Caller,Critical,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller reported feeling trapped in their current situation with no way out.
+13,Monica Larson,2024-01-11,9.7,New Caller,Low,Emotional Support,Ongoing Treatment,Counseling,Caller expressed frustration with the mental health care system and long wait times.
+14,Laura Young,2024-07-12,39.33,Repeat Caller,Low,Resource Referral,Ongoing Treatment,Peer Support Group,Caller reported overwhelming feelings of guilt and shame about past actions.
+15,Craig Bernard,2024-07-18,29.89,Repeat Caller,Critical,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller expressed fear of being judged for their mental health struggles.
+16,Samantha Nelson,2024-08-04,29.95,Repeat Caller,High,Follow-Up Support,None,Peer Support Group,Caller expressed fear of being judged for their mental health struggles.
+17,Bryan Mills,2024-03-16,54.4,Repeat Caller,High,Resource Referral,Ongoing Treatment,Medication Referral,Caller recently lost a loved one and is struggling with grief and sadness.
+18,Michael Berg,2024-06-20,8.65,New Caller,Low,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller shared that they often feel like a burden to others and prefer isolation.
+19,Shawn Clark,2024-06-23,28.45,Repeat Caller,Critical,Emotional Support,Ongoing Treatment,Peer Support Group,Caller recently lost a loved one and is struggling with grief and sadness.
+20,Stephanie Hopkins,2024-08-19,55.79,New Caller,Moderate,Emotional Support,Ongoing Treatment,Counseling,Caller reported feeling exhausted from caring for a family member and needs support.
+21,James Guzman,2023-12-17,31.72,New Caller,Moderate,Resource Referral,Prior Diagnosis,Peer Support Group,Caller expressed concerns about their mental health and confusion about next steps.
+22,Timothy Moore,2024-10-04,56.65,Repeat Caller,High,Emotional Support,Prior Diagnosis,Peer Support Group,Caller expressed concerns about their mental health and confusion about next steps.
+23,Donald Bartlett,2024-10-15,24.95,Repeat Caller,Low,Emotional Support,Ongoing Treatment,Counseling,Caller is experiencing social anxiety and avoids interactions with friends or family.
+24,Tiffany Carter,2024-02-27,12.37,New Caller,Low,Immediate Intervention,Prior Diagnosis,Crisis Intervention,Caller reported feeling out of control and unable to manage emotional triggers.
+25,Veronica Mendoza,2024-08-11,25.27,Repeat Caller,Critical,Emotional Support,Prior Diagnosis,Counseling,Caller is experiencing social anxiety and avoids interactions with friends or family.
+26,Alexander Washington,2024-04-06,18.64,New Caller,High,Follow-Up Support,None,Peer Support Group,Caller expressed concern about worsening mental health symptoms and lack of motivation.
+27,Joseph Warren,2024-05-13,34.5,New Caller,High,Emotional Support,Ongoing Treatment,Peer Support Group,Caller expressed concerns about managing time and work-life balance.
+28,Kelsey Hall MD,2023-11-30,9.73,Repeat Caller,High,Immediate Intervention,Prior Diagnosis,Counseling,Caller is experiencing relationship issues and feeling misunderstood by partner.
+29,Mark Freeman,2024-04-26,41.72,New Caller,Moderate,Immediate Intervention,Prior Diagnosis,Crisis Intervention,Caller expressed concern about worsening mental health symptoms and lack of motivation.
+30,William Moses,2024-05-11,57.91,New Caller,Critical,Immediate Intervention,Prior Diagnosis,Counseling,Caller feels overwhelmed with schoolwork and is unsure of how to manage stress.
+31,Spencer Jackson,2024-01-05,10.79,Repeat Caller,High,Emotional Support,Ongoing Treatment,Medication Referral,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+32,Jimmy Ho,2024-07-11,25.78,New Caller,High,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller feels they lack a sense of purpose and often wonder why they feel this way.
+33,Samantha Watson,2024-02-11,41.89,New Caller,High,Emotional Support,Ongoing Treatment,Medication Referral,Caller mentioned experiencing intense social isolation and lack of close friends.
+34,Pamela Moore,2024-06-10,17.24,Repeat Caller,Low,Emotional Support,Prior Diagnosis,Medication Referral,Caller stated they are feeling alone and have limited social support.
+35,Jean Blake,2024-04-27,14.14,Repeat Caller,Low,Emotional Support,None,Crisis Intervention,Caller mentioned experiencing intense social isolation and lack of close friends.
+36,Mitchell Swanson,2024-05-09,27.52,Repeat Caller,Low,Emotional Support,Ongoing Treatment,Peer Support Group,Caller shared that they have been feeling numb and disconnected from others.
+37,Raven Moody,2024-02-28,54.35,Repeat Caller,Low,Immediate Intervention,None,Crisis Intervention,Caller mentioned having financial struggles which are impacting their mental health.
+38,Matthew Grant,2023-12-15,21.43,New Caller,Critical,Follow-Up Support,Ongoing Treatment,Crisis Intervention,Caller feels isolated as a new parent and is seeking resources for support.
+39,Melissa Moran,2024-06-02,48.87,New Caller,Moderate,Resource Referral,None,Crisis Intervention,Caller reported thoughts of self-harm but no immediate plans or intent.
+40,Kenneth Ellis,2024-05-30,59.27,New Caller,Low,Follow-Up Support,Ongoing Treatment,Peer Support Group,Caller has recently experienced bullying and is struggling with self-esteem.
+41,Emily Howe,2023-11-29,16.43,Repeat Caller,Low,Follow-Up Support,None,Counseling,Caller reported thoughts of self-harm but no immediate plans or intent.
+42,Thomas Jefferson,2024-03-08,49.88,New Caller,High,Emotional Support,Ongoing Treatment,Peer Support Group,Caller shared that they are struggling with low self-worth and negative self-talk.
+43,Nicholas Solis,2023-12-01,44.06,New Caller,Low,Resource Referral,None,Medication Referral,Caller expressed concerns about their mental health and confusion about next steps.
+44,Joseph Cox DDS,2024-03-06,27.54,New Caller,High,Emotional Support,Ongoing Treatment,Peer Support Group,Caller mentioned experiencing intense social isolation and lack of close friends.
+45,Amy Henderson,2024-05-16,7.88,New Caller,Low,Emotional Support,Ongoing Treatment,Peer Support Group,Caller expressed frustration with the mental health care system and long wait times.
+46,Kevin Doyle,2024-09-16,32.18,Repeat Caller,Moderate,Resource Referral,None,Peer Support Group,Caller reported feeling isolated and anxious due to recent job loss.
+47,Patrick Knight,2024-10-12,54.7,New Caller,Low,Emotional Support,Prior Diagnosis,Medication Referral,"Caller mentioned physical symptoms related to anxiety, like shortness of breath."
+48,Maria Robinson,2023-12-10,44.01,New Caller,Critical,Follow-Up Support,Prior Diagnosis,Crisis Intervention,Caller reported feeling isolated and anxious due to recent job loss.
+49,Jacqueline Walker,2024-06-30,37.16,New Caller,Critical,Emotional Support,Ongoing Treatment,Medication Referral,Caller expressed fear of relapse into past negative behaviors and wants support.
+50,James Fletcher,2024-09-19,56.44,New Caller,High,Follow-Up Support,None,Medication Referral,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+51,Philip Oliver,2024-10-24,6.46,New Caller,Critical,Immediate Intervention,None,Peer Support Group,Caller feels they are losing control over their emotions and doesn’t know why.
+52,Ian Mcintyre,2024-07-26,25.37,New Caller,High,Immediate Intervention,None,Counseling,Caller recently lost a loved one and is struggling with grief and sadness.
+53,Zachary Sullivan,2024-01-03,6.77,Repeat Caller,Critical,Resource Referral,Prior Diagnosis,Counseling,Caller reported overwhelming feelings of guilt and shame about past actions.
+54,Cynthia Anderson,2023-12-20,41.66,Repeat Caller,High,Follow-Up Support,Ongoing Treatment,Counseling,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+55,Jennifer Rodriguez,2024-08-15,50.64,Repeat Caller,Critical,Follow-Up Support,None,Counseling,Caller is having difficulty adjusting to major life changes and feels overwhelmed.
+56,James Hernandez,2024-09-27,6.45,New Caller,Moderate,Emotional Support,None,Peer Support Group,Caller reported feeling exhausted from caring for a family member and needs support.
+57,Jennifer Allen,2024-04-15,35.08,Repeat Caller,Moderate,Resource Referral,None,Peer Support Group,Caller reported feeling out of control and unable to manage emotional triggers.
+58,Marc Stevens,2024-02-18,33.67,Repeat Caller,High,Immediate Intervention,Ongoing Treatment,Crisis Intervention,Caller is seeking guidance on managing anger issues affecting their relationships.
+59,Erin Hart,2024-10-14,53.73,New Caller,High,Follow-Up Support,Prior Diagnosis,Counseling,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+60,Sherry Wong,2024-02-18,58.89,Repeat Caller,Moderate,Emotional Support,Ongoing Treatment,Medication Referral,Caller shared that they are struggling with low self-worth and negative self-talk.
+61,Joseph Houston,2024-03-06,21.55,New Caller,Low,Emotional Support,None,Medication Referral,Caller reported thoughts of self-harm but no immediate plans or intent.
+62,Hunter Lewis,2024-07-26,21.23,Repeat Caller,Critical,Emotional Support,Prior Diagnosis,Counseling,Caller reported feeling out of control and unable to manage emotional triggers.
+63,Ashley Webster,2024-03-06,31.34,Repeat Caller,Low,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller recently lost a loved one and is struggling with grief and sadness.
+64,John Wood,2024-03-09,38.38,Repeat Caller,High,Resource Referral,Ongoing Treatment,Medication Referral,Caller reported feeling isolated and anxious due to recent job loss.
+65,Lindsey Ramirez,2024-03-23,47.46,New Caller,Low,Immediate Intervention,None,Peer Support Group,Caller mentioned experiencing frequent panic attacks and sleep disturbances.
+66,Kristen Gonzalez,2024-03-03,25.48,Repeat Caller,Critical,Emotional Support,Ongoing Treatment,Counseling,Caller reported ongoing feelings of worthlessness and inability to see a positive future.
+67,Oscar Duffy,2023-12-17,7.84,Repeat Caller,High,Emotional Support,None,Counseling,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+68,Charles Craig,2024-06-22,28.38,Repeat Caller,Moderate,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller mentioned experiencing intense social isolation and lack of close friends.
+69,Barbara Wilkerson,2023-12-17,6.38,New Caller,Low,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller mentioned experiencing intense social isolation and lack of close friends.
+70,Jose Gomez,2024-01-17,26.45,New Caller,Moderate,Follow-Up Support,Prior Diagnosis,Counseling,Caller is experiencing social anxiety and avoids interactions with friends or family.
+71,April Ferguson,2024-03-01,6.64,Repeat Caller,Moderate,Resource Referral,None,Crisis Intervention,Caller expressed frustration with the mental health care system and long wait times.
+72,Dr. Stephanie Bailey MD,2024-05-13,11.23,Repeat Caller,Moderate,Follow-Up Support,Prior Diagnosis,Crisis Intervention,Caller reported feeling out of control and unable to manage emotional triggers.
+73,Stephanie Brady,2024-02-11,56.73,Repeat Caller,Low,Emotional Support,Prior Diagnosis,Medication Referral,Caller expressed difficulty coping with family pressures and expectations.
+74,John Johnson,2024-05-22,51.49,New Caller,High,Resource Referral,Ongoing Treatment,Peer Support Group,Caller expressed fear of being judged for their mental health struggles.
+75,Ashley Allen,2024-02-09,24.99,Repeat Caller,Low,Emotional Support,None,Crisis Intervention,Caller mentioned experiencing intense social isolation and lack of close friends.
+76,Brian Hamilton,2024-08-20,51.65,New Caller,Low,Immediate Intervention,None,Medication Referral,Caller stated they are feeling alone and have limited social support.
+77,Taylor Acosta,2024-06-10,25.61,Repeat Caller,Moderate,Emotional Support,None,Peer Support Group,Caller feels unsupported by family and is unsure where to turn for help.
+78,Philip Farley,2024-10-15,46.61,Repeat Caller,Low,Resource Referral,Prior Diagnosis,Counseling,Caller expressed doubt about their abilities and feels stuck in a career rut.
+79,April Lester,2023-11-11,49.05,New Caller,Low,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller feels they are losing control over their emotions and doesn’t know why.
+80,Linda Munoz,2023-11-01,30.53,Repeat Caller,Critical,Follow-Up Support,Prior Diagnosis,Counseling,Caller expressed concerns about their mental health and confusion about next steps.
+81,Brian Stewart,2024-02-11,32.57,New Caller,Low,Immediate Intervention,None,Counseling,Caller stated they are feeling alone and have limited social support.
+82,Melissa Tran,2024-09-25,50.89,New Caller,Low,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller shared that they often feel like a burden to others and prefer isolation.
+83,Brian Hale,2024-01-19,7.64,Repeat Caller,Low,Emotional Support,Prior Diagnosis,Peer Support Group,Caller feels they lack a sense of purpose and often wonder why they feel this way.
+84,Steve Gould,2023-11-06,5.34,Repeat Caller,Critical,Immediate Intervention,Prior Diagnosis,Counseling,Caller expressed fear of relapse into past negative behaviors and wants support.
+85,Raymond Mclaughlin,2024-02-21,28.67,New Caller,High,Emotional Support,Ongoing Treatment,Crisis Intervention,Caller reported ongoing feelings of worthlessness and inability to see a positive future.
+86,Jose Norman,2024-02-05,7.14,Repeat Caller,High,Emotional Support,Prior Diagnosis,Peer Support Group,Caller is fearful of going outside due to recent traumatic experience in public space.
+87,Catherine Peterson,2024-07-19,13.71,New Caller,Moderate,Resource Referral,Prior Diagnosis,Peer Support Group,Caller shared experiences of workplace discrimination affecting mental health.
+88,Ronnie Smith,2024-03-19,50.14,New Caller,Critical,Resource Referral,Ongoing Treatment,Crisis Intervention,Caller feels unsupported by family and is unsure where to turn for help.
+89,Justin Burns,2024-08-26,56.5,Repeat Caller,Critical,Follow-Up Support,Prior Diagnosis,Peer Support Group,Caller reported feeling isolated and anxious due to recent job loss.
+90,Stephanie Phillips,2024-03-30,50.88,Repeat Caller,Critical,Follow-Up Support,Prior Diagnosis,Peer Support Group,Caller recently lost a loved one and is struggling with grief and sadness.
+91,Amanda Gilmore,2024-10-07,27.35,New Caller,High,Immediate Intervention,Prior Diagnosis,Counseling,Caller reported feeling out of control and unable to manage emotional triggers.
+92,Dennis Smith,2024-10-15,29.55,New Caller,Moderate,Emotional Support,Ongoing Treatment,Crisis Intervention,"Caller reported constant worry and inability to relax, affecting daily functioning."
+93,Ann Rosales,2024-10-11,49.01,Repeat Caller,Critical,Resource Referral,Prior Diagnosis,Medication Referral,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+94,Mallory Bell,2024-05-21,27.47,Repeat Caller,Low,Resource Referral,Prior Diagnosis,Peer Support Group,Caller reported feeling trapped in their current situation with no way out.
+95,Christopher Davis,2024-01-13,8.01,New Caller,High,Resource Referral,Prior Diagnosis,Peer Support Group,Caller has been feeling anxious about the future and uncertain about next steps.
+96,Rachel Kelly,2024-01-27,59.97,New Caller,High,Emotional Support,Prior Diagnosis,Crisis Intervention,Caller mentioned struggling with chronic illness and feeling worn out emotionally.
+97,Pamela Moran,2024-09-16,43.46,New Caller,Moderate,Follow-Up Support,Ongoing Treatment,Counseling,Caller shared that they have been feeling numb and disconnected from others.
+98,Alice Joseph,2024-10-03,44.89,New Caller,High,Immediate Intervention,None,Peer Support Group,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+99,John Copeland,2024-01-10,55.59,Repeat Caller,Critical,Emotional Support,None,Medication Referral,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+100,Joshua Hunter,2024-07-30,17.57,Repeat Caller,Low,Immediate Intervention,None,Medication Referral,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+101,Zachary Rogers,2024-08-02,27.74,Repeat Caller,Low,Follow-Up Support,Prior Diagnosis,Peer Support Group,Caller mentioned struggling with chronic illness and feeling worn out emotionally.
+102,Nancy Walsh,2024-03-13,35.17,New Caller,Moderate,Immediate Intervention,Ongoing Treatment,Crisis Intervention,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+103,Robert Ramirez,2024-09-30,20.64,Repeat Caller,Moderate,Follow-Up Support,Prior Diagnosis,Crisis Intervention,Caller expressed frustration with the mental health care system and long wait times.
+104,Gregory Hall,2024-10-17,19.05,New Caller,Low,Immediate Intervention,Prior Diagnosis,Crisis Intervention,Caller is worried about their health and experiencing symptoms of health anxiety.
+105,Rebecca Snow,2024-09-29,58.85,Repeat Caller,Low,Emotional Support,Ongoing Treatment,Crisis Intervention,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+106,Joshua Smith,2024-01-02,20.83,New Caller,Critical,Follow-Up Support,Ongoing Treatment,Counseling,Caller expressed concerns about their mental health and confusion about next steps.
+107,Robert Sanders,2024-07-27,5.2,Repeat Caller,High,Immediate Intervention,Prior Diagnosis,Counseling,Caller expressed difficulty coping with family pressures and expectations.
+108,Dr. Laura Smith MD,2023-12-04,41.33,Repeat Caller,Moderate,Follow-Up Support,Ongoing Treatment,Peer Support Group,Caller expressed concerns about their mental health and confusion about next steps.
+109,Jonathan Tucker,2024-07-14,25.04,Repeat Caller,High,Immediate Intervention,Prior Diagnosis,Medication Referral,Caller is worried about their health and experiencing symptoms of health anxiety.
+110,Stanley Barton,2023-12-11,17.35,New Caller,High,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller expressed concerns about their mental health and confusion about next steps.
+111,Arthur Hayes,2024-05-13,38.25,Repeat Caller,Moderate,Emotional Support,Prior Diagnosis,Medication Referral,Caller stated they are feeling alone and have limited social support.
+112,Alexander Gardner,2024-09-26,15.08,Repeat Caller,Low,Emotional Support,None,Medication Referral,Caller expressed doubt about their abilities and feels stuck in a career rut.
+113,Cynthia Turner,2024-09-14,7.23,Repeat Caller,Moderate,Resource Referral,None,Crisis Intervention,Caller expressed concerns about their mental health and confusion about next steps.
+114,Sara Rodriguez,2024-08-03,25.6,New Caller,High,Emotional Support,None,Crisis Intervention,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+115,Jessica Acosta,2024-04-08,13.64,New Caller,High,Follow-Up Support,None,Peer Support Group,Caller is seeking guidance on managing anger issues affecting their relationships.
+116,Christopher Shields,2023-12-01,14.85,New Caller,High,Follow-Up Support,None,Counseling,Caller shared experiences of workplace discrimination affecting mental health.
+117,Andrea Saunders,2024-07-30,50.04,Repeat Caller,Low,Emotional Support,Prior Diagnosis,Medication Referral,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+118,Maureen Hardin,2024-04-16,25.21,New Caller,Critical,Immediate Intervention,Ongoing Treatment,Crisis Intervention,Caller mentioned experiencing frequent panic attacks and sleep disturbances.
+119,Omar Santos,2024-10-12,28.39,Repeat Caller,High,Resource Referral,Prior Diagnosis,Medication Referral,Caller expressed doubt about their abilities and feels stuck in a career rut.
+120,Carla Randolph,2024-06-19,25.75,New Caller,Moderate,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller expressed fear of relapse into past negative behaviors and wants support.
+121,Corey Newton,2024-08-04,18.31,Repeat Caller,Moderate,Emotional Support,Prior Diagnosis,Medication Referral,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+122,Samuel Grimes,2024-04-05,34.33,Repeat Caller,High,Resource Referral,None,Medication Referral,Caller reported feeling isolated and anxious due to recent job loss.
+123,Heather Burns,2024-09-22,29.02,Repeat Caller,Low,Emotional Support,Ongoing Treatment,Peer Support Group,Caller expressed concerns about managing time and work-life balance.
+124,Henry Rice,2024-09-25,54.68,Repeat Caller,Low,Follow-Up Support,Prior Diagnosis,Crisis Intervention,Caller reported feeling out of control and unable to manage emotional triggers.
+125,Brian Weaver,2024-03-24,5.48,New Caller,Critical,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller reported ongoing feelings of worthlessness and inability to see a positive future.
+126,Brett Miller,2024-04-06,48.78,Repeat Caller,Moderate,Follow-Up Support,None,Peer Support Group,Caller shared that they are dealing with cultural expectations that feel overwhelming.
+127,Rebecca Ayala,2024-02-12,36.54,New Caller,Low,Follow-Up Support,Prior Diagnosis,Peer Support Group,Caller mentioned ongoing nightmares and difficulty sleeping due to past trauma.
+128,Timothy Jensen,2023-12-12,52.56,New Caller,Critical,Resource Referral,None,Medication Referral,Caller mentioned ongoing nightmares and difficulty sleeping due to past trauma.
+129,Edward Rodriguez,2023-12-18,41.25,Repeat Caller,High,Emotional Support,Prior Diagnosis,Medication Referral,Caller is experiencing relationship issues and feeling misunderstood by partner.
+130,Christina Sanchez,2024-09-16,49.05,New Caller,High,Emotional Support,Ongoing Treatment,Crisis Intervention,Caller reported feeling isolated and anxious due to recent job loss.
+131,Robert Smith,2024-06-16,57.39,New Caller,Critical,Emotional Support,Ongoing Treatment,Peer Support Group,Caller reported mood swings and trouble controlling outbursts in social settings.
+132,Alicia Richards,2024-01-27,17.3,New Caller,Low,Follow-Up Support,None,Crisis Intervention,Caller expressed difficulty coping with family pressures and expectations.
+133,William Moore,2024-04-04,54.09,Repeat Caller,Critical,Follow-Up Support,Prior Diagnosis,Counseling,Caller expressed fear of relapse into past negative behaviors and wants support.
+134,Angela Barrera,2024-03-14,23.04,Repeat Caller,Critical,Immediate Intervention,Prior Diagnosis,Counseling,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+135,Jeffrey Horne,2023-11-06,19.51,New Caller,High,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller is worried about their health and experiencing symptoms of health anxiety.
+136,Emily Snow,2024-03-16,24.14,Repeat Caller,Low,Follow-Up Support,None,Peer Support Group,Caller has recently experienced bullying and is struggling with self-esteem.
+137,Krista Stanley,2024-03-21,17.35,New Caller,High,Follow-Up Support,None,Peer Support Group,Caller reported feeling out of control and unable to manage emotional triggers.
+138,Erin Terry,2024-09-30,8.62,New Caller,Low,Resource Referral,Ongoing Treatment,Counseling,Caller expressed frustration with the mental health care system and long wait times.
+139,Jacob Owens,2023-11-18,43.39,New Caller,Critical,Resource Referral,None,Medication Referral,Caller shared experiences of workplace discrimination affecting mental health.
+140,Nicole Richard,2024-01-21,14.82,New Caller,Critical,Immediate Intervention,Ongoing Treatment,Counseling,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+141,Dr. Patrick Ellis,2024-06-04,25.75,Repeat Caller,Low,Resource Referral,None,Peer Support Group,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+142,William Warren,2024-06-22,54.17,New Caller,Critical,Immediate Intervention,Prior Diagnosis,Medication Referral,Caller shared that they often feel like a burden to others and prefer isolation.
+143,Angela Dawson,2024-05-01,32.9,New Caller,High,Emotional Support,Ongoing Treatment,Peer Support Group,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+144,Nathaniel Byrd,2024-02-05,33.3,New Caller,High,Resource Referral,Prior Diagnosis,Medication Referral,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+145,Tracy Shaw,2023-12-14,50.21,New Caller,High,Follow-Up Support,Ongoing Treatment,Medication Referral,Caller recently lost a loved one and is struggling with grief and sadness.
+146,Tiffany Alvarez,2024-04-14,35.82,Repeat Caller,Low,Resource Referral,None,Crisis Intervention,Caller reported feeling trapped in their current situation with no way out.
+147,Jeremy Cannon,2024-03-18,24.1,Repeat Caller,Low,Immediate Intervention,Prior Diagnosis,Medication Referral,Caller expressed concerns about managing time and work-life balance.
+148,Christopher Woodward,2024-06-21,24.35,Repeat Caller,Low,Emotional Support,Ongoing Treatment,Medication Referral,Caller is fearful of going outside due to recent traumatic experience in public space.
+149,Vanessa Blake,2023-11-22,18.86,Repeat Caller,Low,Follow-Up Support,None,Peer Support Group,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+150,Ricardo Jones,2024-01-07,17.34,New Caller,Critical,Resource Referral,Ongoing Treatment,Peer Support Group,Caller feels overwhelmed with schoolwork and is unsure of how to manage stress.
+151,Christopher Harrison,2024-09-13,45.6,Repeat Caller,Moderate,Resource Referral,Prior Diagnosis,Crisis Intervention,Caller mentioned experiencing frequent panic attacks and sleep disturbances.
+152,Dr. Carla Todd MD,2024-04-14,22.93,Repeat Caller,High,Follow-Up Support,Ongoing Treatment,Peer Support Group,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+153,Timothy Reyes,2024-10-08,40.68,New Caller,High,Emotional Support,Ongoing Treatment,Counseling,Caller reported ongoing feelings of worthlessness and inability to see a positive future.
+154,Alexander Whitaker,2024-02-13,11.61,Repeat Caller,High,Follow-Up Support,Ongoing Treatment,Counseling,Caller reported feeling isolated and anxious due to recent job loss.
+155,Michael Anderson,2023-11-12,42.05,Repeat Caller,Low,Resource Referral,None,Medication Referral,Caller reported feeling trapped in their current situation with no way out.
+156,Jessica Dorsey,2023-12-15,39.96,Repeat Caller,Low,Immediate Intervention,None,Counseling,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+157,Kelly Bird,2024-08-04,35.18,Repeat Caller,Moderate,Resource Referral,Ongoing Treatment,Crisis Intervention,Caller is worried about the impact of their mental health on their family members.
+158,Martin Young,2024-06-24,59.75,New Caller,Critical,Resource Referral,None,Crisis Intervention,Caller expressed difficulty coping with family pressures and expectations.
+159,Leah Burgess,2024-01-04,36.62,Repeat Caller,Moderate,Resource Referral,None,Crisis Intervention,Caller is worried about their health and experiencing symptoms of health anxiety.
+160,Shawn Pierce DDS,2024-04-26,32.61,New Caller,High,Follow-Up Support,Prior Diagnosis,Counseling,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+161,Brian Deleon,2024-08-20,13.38,Repeat Caller,High,Immediate Intervention,None,Counseling,Caller reported thoughts of self-harm but no immediate plans or intent.
+162,Ann Duran,2024-07-02,9.5,New Caller,High,Follow-Up Support,Ongoing Treatment,Peer Support Group,Caller is experiencing social anxiety and avoids interactions with friends or family.
+163,David Garrett,2024-05-15,6.63,Repeat Caller,Low,Resource Referral,Ongoing Treatment,Peer Support Group,Caller is worried about their health and experiencing symptoms of health anxiety.
+164,Steven Kelly,2023-12-09,25.31,New Caller,Moderate,Emotional Support,None,Counseling,Caller expressed frustration with the mental health care system and long wait times.
+165,Ashley Murphy,2024-04-04,52.06,New Caller,Low,Resource Referral,None,Medication Referral,Caller is worried about the impact of their mental health on their family members.
+166,Diamond Salazar,2024-04-06,57.39,New Caller,Low,Resource Referral,None,Peer Support Group,Caller has recently experienced bullying and is struggling with self-esteem.
+167,Christopher Warren,2024-02-13,51.12,Repeat Caller,High,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller shared that they have been feeling numb and disconnected from others.
+168,Timothy Glenn,2024-10-29,16.78,Repeat Caller,Low,Follow-Up Support,None,Peer Support Group,Caller is fearful of going outside due to recent traumatic experience in public space.
+169,Jason Perkins,2023-11-02,9.63,New Caller,Critical,Immediate Intervention,None,Crisis Intervention,Caller shared that they have been feeling numb and disconnected from others.
+170,Angela Davis,2024-09-04,39.76,Repeat Caller,Low,Emotional Support,Prior Diagnosis,Crisis Intervention,Caller is having difficulty adjusting to major life changes and feels overwhelmed.
+171,Anthony Coleman,2024-01-16,53.51,Repeat Caller,Critical,Resource Referral,None,Medication Referral,Caller shared that they are struggling with low self-worth and negative self-talk.
+172,Douglas Bailey,2024-07-12,9.46,New Caller,High,Emotional Support,None,Peer Support Group,Caller shared that they are struggling with low self-worth and negative self-talk.
+173,Jonathan Smith,2024-02-19,37.12,New Caller,Low,Immediate Intervention,Ongoing Treatment,Counseling,Caller has been feeling anxious about the future and uncertain about next steps.
+174,Justin Perez,2024-05-05,38.54,Repeat Caller,Moderate,Follow-Up Support,Ongoing Treatment,Counseling,Caller expressed fear of relapse into past negative behaviors and wants support.
+175,Laura Martin,2024-02-08,31.76,New Caller,Moderate,Emotional Support,Ongoing Treatment,Medication Referral,Caller is worried about their health and experiencing symptoms of health anxiety.
+176,Christopher Franklin,2024-02-19,32.0,Repeat Caller,High,Resource Referral,Prior Diagnosis,Medication Referral,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+177,Walter Martin,2023-12-05,9.78,Repeat Caller,Moderate,Emotional Support,None,Counseling,Caller expressed fear of relapse into past negative behaviors and wants support.
+178,Jennifer Williams,2024-10-30,25.47,Repeat Caller,Moderate,Resource Referral,Ongoing Treatment,Counseling,Caller expressed concerns about managing time and work-life balance.
+179,Justin Foster Jr.,2024-04-29,42.35,New Caller,Low,Emotional Support,None,Medication Referral,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+180,Denise Day,2024-07-06,12.35,Repeat Caller,High,Emotional Support,Ongoing Treatment,Counseling,Caller feels they are losing control over their emotions and doesn’t know why.
+181,Zachary Mcclure,2024-03-22,47.74,New Caller,Low,Follow-Up Support,None,Crisis Intervention,"Caller mentioned physical symptoms related to anxiety, like shortness of breath."
+182,Joseph Coleman,2024-06-03,14.36,Repeat Caller,High,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller is worried about their health and experiencing symptoms of health anxiety.
+183,Richard Bell,2023-11-29,15.58,Repeat Caller,High,Follow-Up Support,Prior Diagnosis,Peer Support Group,Caller reported feeling isolated and anxious due to recent job loss.
+184,Linda Knight,2023-11-25,20.26,New Caller,High,Emotional Support,Ongoing Treatment,Crisis Intervention,Caller mentioned feeling like they don’t belong and struggling with identity issues.
+185,Stephanie Huber,2024-02-21,29.99,Repeat Caller,Low,Follow-Up Support,Prior Diagnosis,Peer Support Group,Caller is worried about their health and experiencing symptoms of health anxiety.
+186,Jay Miranda,2024-09-11,49.94,New Caller,Low,Follow-Up Support,Ongoing Treatment,Medication Referral,Caller reported feeling exhausted from caring for a family member and needs support.
+187,Ian Day,2024-08-09,30.58,New Caller,High,Resource Referral,None,Counseling,Caller is experiencing relationship issues and feeling misunderstood by partner.
+188,Paul Wright,2024-02-11,58.65,Repeat Caller,Low,Emotional Support,Prior Diagnosis,Crisis Intervention,Caller expressed difficulty coping with family pressures and expectations.
+189,Connie Blankenship,2024-10-15,44.24,Repeat Caller,Low,Follow-Up Support,None,Medication Referral,Caller reported overwhelming feelings of guilt and shame about past actions.
+190,David Porter,2024-08-31,20.04,New Caller,Low,Resource Referral,Ongoing Treatment,Peer Support Group,Caller reported feeling out of control and unable to manage emotional triggers.
+191,Barbara Combs,2024-10-07,25.41,Repeat Caller,Critical,Resource Referral,Prior Diagnosis,Peer Support Group,Caller feels they are losing control over their emotions and doesn’t know why.
+192,Joshua Keith,2023-11-14,36.58,New Caller,Critical,Emotional Support,Prior Diagnosis,Medication Referral,Caller shared that they are struggling with low self-worth and negative self-talk.
+193,Randall Gonzalez,2024-03-27,21.46,Repeat Caller,Critical,Resource Referral,None,Peer Support Group,Caller feels overwhelmed with schoolwork and is unsure of how to manage stress.
+194,Janet Farley PhD,2024-07-06,39.69,New Caller,High,Resource Referral,Ongoing Treatment,Medication Referral,Caller is seeking guidance on managing anger issues affecting their relationships.
+195,Larry Hughes,2024-08-16,55.49,New Caller,High,Resource Referral,Prior Diagnosis,Medication Referral,Caller expressed frustration with the mental health care system and long wait times.
+196,Sarah Johnson,2024-03-26,17.74,Repeat Caller,Low,Immediate Intervention,None,Crisis Intervention,Caller is experiencing relationship issues and feeling misunderstood by partner.
+197,Samuel Mendoza,2024-07-22,48.95,Repeat Caller,Moderate,Resource Referral,Ongoing Treatment,Counseling,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+198,Crystal Osborne,2023-11-19,42.32,New Caller,Moderate,Resource Referral,Prior Diagnosis,Peer Support Group,Caller shared that they are dealing with cultural expectations that feel overwhelming.
+199,Eric Ortega,2024-04-03,35.18,Repeat Caller,Low,Immediate Intervention,Prior Diagnosis,Crisis Intervention,Caller feels isolated as a new parent and is seeking resources for support.
+200,Melissa Schmidt,2024-03-27,9.44,Repeat Caller,Critical,Emotional Support,None,Medication Referral,Caller expressed concerns about their mental health and confusion about next steps.
+201,Zachary Howell,2024-01-10,36.53,New Caller,Moderate,Resource Referral,Ongoing Treatment,Peer Support Group,Caller expressed concerns about managing time and work-life balance.
+202,Jose Velasquez,2024-05-01,35.21,Repeat Caller,Moderate,Immediate Intervention,Ongoing Treatment,Counseling,Caller is seeking guidance on managing anger issues affecting their relationships.
+203,Heather Gay,2023-12-08,14.15,New Caller,Critical,Emotional Support,None,Peer Support Group,Caller is worried about the impact of their mental health on their family members.
+204,Samantha Garza DDS,2024-09-02,31.64,Repeat Caller,Moderate,Emotional Support,None,Counseling,Caller expressed doubt about their abilities and feels stuck in a career rut.
+205,Maria Paul,2023-12-14,14.82,New Caller,Critical,Emotional Support,None,Peer Support Group,Caller has recently experienced bullying and is struggling with self-esteem.
+206,Darin Welch,2024-02-27,50.31,New Caller,Low,Follow-Up Support,None,Peer Support Group,Caller is experiencing social anxiety and avoids interactions with friends or family.
+207,Christopher Reed,2024-10-09,51.25,Repeat Caller,Low,Resource Referral,Ongoing Treatment,Medication Referral,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+208,Michael Russell,2024-05-28,42.33,Repeat Caller,Low,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller reported feeling out of control and unable to manage emotional triggers.
+209,Ryan White,2024-03-27,57.99,Repeat Caller,Low,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller shared that they have been feeling numb and disconnected from others.
+210,Melissa Young,2023-12-27,33.11,Repeat Caller,High,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller expressed concerns about managing time and work-life balance.
+211,Denise Howell,2024-09-01,26.7,Repeat Caller,Low,Follow-Up Support,None,Peer Support Group,Caller reported feeling isolated and anxious due to recent job loss.
+212,Richard Bond,2024-04-29,6.73,New Caller,High,Immediate Intervention,Ongoing Treatment,Counseling,Caller mentioned ongoing nightmares and difficulty sleeping due to past trauma.
+213,Ronald Williams,2024-03-05,25.35,New Caller,Critical,Resource Referral,None,Peer Support Group,Caller expressed doubt about their abilities and feels stuck in a career rut.
+214,Thomas Stephens PhD,2024-04-21,18.87,Repeat Caller,High,Emotional Support,Ongoing Treatment,Medication Referral,"Caller mentioned physical symptoms related to anxiety, like shortness of breath."
+215,Michelle Davidson,2023-11-24,55.83,Repeat Caller,Low,Emotional Support,None,Medication Referral,Caller feels unsupported by family and is unsure where to turn for help.
+216,Rebecca Jones,2024-03-15,14.43,New Caller,High,Emotional Support,Prior Diagnosis,Peer Support Group,Caller expressed concern about worsening mental health symptoms and lack of motivation.
+217,Joe Fernandez,2024-04-12,45.45,New Caller,High,Immediate Intervention,Ongoing Treatment,Crisis Intervention,Caller has recently experienced bullying and is struggling with self-esteem.
+218,Tammy Wood,2024-08-17,37.35,New Caller,High,Emotional Support,None,Medication Referral,Caller reported thoughts of self-harm but no immediate plans or intent.
+219,Alexis Ferguson,2024-07-04,33.12,New Caller,Critical,Immediate Intervention,Ongoing Treatment,Peer Support Group,Caller shared that they are struggling with low self-worth and negative self-talk.
+220,Jacqueline Lee,2024-09-30,36.18,Repeat Caller,Critical,Resource Referral,Ongoing Treatment,Crisis Intervention,Caller expressed concerns about managing time and work-life balance.
+221,Andrea Todd,2024-09-04,6.36,New Caller,High,Resource Referral,Ongoing Treatment,Crisis Intervention,Caller reported feeling isolated and anxious due to recent job loss.
+222,Wesley Bates,2024-06-24,19.98,New Caller,Low,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller feels they lack a sense of purpose and often wonder why they feel this way.
+223,Shelley Jones,2024-09-06,35.62,New Caller,Moderate,Resource Referral,None,Crisis Intervention,Caller expressed fear of being judged for their mental health struggles.
+224,Matthew Evans,2024-05-31,21.02,Repeat Caller,High,Follow-Up Support,Ongoing Treatment,Counseling,Caller is having difficulty adjusting to major life changes and feels overwhelmed.
+225,Deborah Gillespie,2023-12-05,29.75,New Caller,Moderate,Resource Referral,Prior Diagnosis,Medication Referral,Caller reported overwhelming feelings of guilt and shame about past actions.
+226,Curtis Rollins,2024-03-08,46.9,New Caller,Moderate,Immediate Intervention,Ongoing Treatment,Counseling,Caller feels unsupported by family and is unsure where to turn for help.
+227,Misty Parks,2024-03-26,6.76,Repeat Caller,Critical,Immediate Intervention,Ongoing Treatment,Peer Support Group,Caller expressed doubt about their abilities and feels stuck in a career rut.
+228,Marcus Oconnell,2024-04-03,5.51,New Caller,High,Immediate Intervention,Prior Diagnosis,Medication Referral,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+229,Christopher Matthews,2024-02-04,11.98,Repeat Caller,Critical,Follow-Up Support,Ongoing Treatment,Counseling,Caller reported feeling trapped in their current situation with no way out.
+230,Cody Smith,2024-10-24,42.2,Repeat Caller,Moderate,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller stated they are feeling alone and have limited social support.
+231,Geoffrey Chapman PhD,2024-09-12,7.48,Repeat Caller,High,Emotional Support,None,Counseling,Caller reported feeling exhausted from caring for a family member and needs support.
+232,Anthony Thomas,2023-11-18,13.91,New Caller,Low,Emotional Support,Prior Diagnosis,Medication Referral,Caller feels unsupported by family and is unsure where to turn for help.
+233,Michael Stewart,2024-03-20,14.02,New Caller,Critical,Follow-Up Support,Prior Diagnosis,Counseling,Caller expressed concerns about managing time and work-life balance.
+234,James Dennis,2024-02-24,38.81,Repeat Caller,Low,Resource Referral,Ongoing Treatment,Counseling,"Caller reported constant worry and inability to relax, affecting daily functioning."
+235,Desiree Nash,2024-03-26,14.4,New Caller,Moderate,Resource Referral,Prior Diagnosis,Counseling,Caller reported feeling isolated and anxious due to recent job loss.
+236,Joseph Henderson,2024-01-28,41.7,New Caller,Moderate,Resource Referral,None,Medication Referral,Caller feels they lack a sense of purpose and often wonder why they feel this way.
+237,Dana Newton,2024-05-11,23.59,New Caller,Moderate,Resource Referral,None,Crisis Intervention,Caller expressed fear of being judged for their mental health struggles.
+238,Ana Villa MD,2024-08-03,18.53,New Caller,Low,Follow-Up Support,Prior Diagnosis,Counseling,Caller reported overwhelming feelings of guilt and shame about past actions.
+239,Nicole Garza,2024-02-01,28.15,Repeat Caller,Critical,Emotional Support,None,Crisis Intervention,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+240,Paige Thompson,2023-11-06,30.61,Repeat Caller,Moderate,Follow-Up Support,Ongoing Treatment,Crisis Intervention,Caller shared that they are struggling with low self-worth and negative self-talk.
+241,David Collins,2023-12-01,6.59,New Caller,Critical,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller is experiencing social anxiety and avoids interactions with friends or family.
+242,Emily Newton,2024-08-30,28.83,Repeat Caller,High,Immediate Intervention,None,Medication Referral,Caller is worried about their health and experiencing symptoms of health anxiety.
+243,Dana Brewer,2023-11-18,22.94,Repeat Caller,Critical,Resource Referral,None,Peer Support Group,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+244,Jeffery Stein,2024-08-22,57.4,Repeat Caller,Low,Follow-Up Support,Ongoing Treatment,Crisis Intervention,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+245,Bradley Mitchell,2023-11-29,40.77,New Caller,High,Follow-Up Support,None,Counseling,Caller is experiencing social anxiety and avoids interactions with friends or family.
+246,Heidi Ward,2024-07-03,28.95,Repeat Caller,Critical,Emotional Support,None,Crisis Intervention,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+247,Erika Yoder,2024-05-13,45.79,New Caller,Low,Emotional Support,None,Peer Support Group,Caller expressed fear of relapse into past negative behaviors and wants support.
+248,Nancy Deleon,2024-10-05,42.87,New Caller,Low,Resource Referral,Ongoing Treatment,Counseling,Caller reported feeling out of control and unable to manage emotional triggers.
+249,Susan Reeves,2023-11-17,32.68,Repeat Caller,Low,Emotional Support,None,Peer Support Group,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+250,Cynthia Bentley,2024-01-03,36.76,New Caller,Critical,Emotional Support,Ongoing Treatment,Peer Support Group,Caller reported feeling isolated and anxious due to recent job loss.
+251,Rodney Wagner,2024-05-20,25.69,New Caller,Critical,Follow-Up Support,None,Medication Referral,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+252,Lisa Mills,2024-09-29,45.87,New Caller,Critical,Emotional Support,Ongoing Treatment,Medication Referral,Caller expressed fear of relapse into past negative behaviors and wants support.
+253,Gabriel Mcbride,2023-11-19,58.2,Repeat Caller,Critical,Resource Referral,Ongoing Treatment,Counseling,Caller is fearful of going outside due to recent traumatic experience in public space.
+254,Susan Joyce,2024-05-10,8.48,Repeat Caller,Moderate,Follow-Up Support,Ongoing Treatment,Peer Support Group,Caller feels unsupported by family and is unsure where to turn for help.
+255,Justin Calhoun,2024-04-04,58.33,Repeat Caller,Critical,Emotional Support,None,Medication Referral,Caller reported feeling out of control and unable to manage emotional triggers.
+256,Michael Wood,2023-11-27,43.79,Repeat Caller,High,Emotional Support,Prior Diagnosis,Medication Referral,Caller expressed difficulty coping with family pressures and expectations.
+257,Karen Mcmahon,2024-09-19,11.84,New Caller,Low,Emotional Support,Ongoing Treatment,Counseling,Caller reported feeling trapped in their current situation with no way out.
+258,Tamara Mendez,2024-07-23,33.64,New Caller,Low,Resource Referral,Prior Diagnosis,Peer Support Group,Caller reported feeling exhausted from caring for a family member and needs support.
+259,Karen Michael,2023-11-17,17.22,Repeat Caller,Low,Immediate Intervention,Ongoing Treatment,Counseling,Caller feels they lack a sense of purpose and often wonder why they feel this way.
+260,Matthew Flynn,2024-09-02,44.76,New Caller,Moderate,Emotional Support,Prior Diagnosis,Counseling,Caller is having difficulty adjusting to major life changes and feels overwhelmed.
+261,Samantha Lee,2023-11-10,32.7,Repeat Caller,Critical,Emotional Support,Prior Diagnosis,Peer Support Group,Caller feels isolated as a new parent and is seeking resources for support.
+262,Jason Jackson,2024-04-21,19.25,Repeat Caller,Critical,Resource Referral,Ongoing Treatment,Peer Support Group,"Caller reported constant worry and inability to relax, affecting daily functioning."
+263,Elizabeth Moss,2024-03-09,32.33,New Caller,High,Resource Referral,Ongoing Treatment,Counseling,Caller mentioned having financial struggles which are impacting their mental health.
+264,Courtney Lee,2023-11-27,34.03,Repeat Caller,Low,Resource Referral,Prior Diagnosis,Counseling,Caller mentioned feeling like they don’t belong and struggling with identity issues.
+265,Melissa Harvey,2024-02-29,41.52,New Caller,Low,Immediate Intervention,None,Medication Referral,Caller shared that they often feel like a burden to others and prefer isolation.
+266,Diana Bowman,2024-07-29,48.64,New Caller,Critical,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller shared that they are struggling with low self-worth and negative self-talk.
+267,Henry King,2024-08-09,26.91,Repeat Caller,Low,Immediate Intervention,Prior Diagnosis,Medication Referral,Caller reported ongoing feelings of worthlessness and inability to see a positive future.
+268,Bryan Hughes,2023-11-11,30.27,Repeat Caller,Critical,Follow-Up Support,None,Medication Referral,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+269,Richard Jackson,2024-02-22,16.76,New Caller,High,Resource Referral,Ongoing Treatment,Medication Referral,Caller reported feeling out of control and unable to manage emotional triggers.
+270,Meredith Rowe,2024-02-25,50.51,Repeat Caller,Critical,Immediate Intervention,Ongoing Treatment,Crisis Intervention,Caller mentioned feeling like they don’t belong and struggling with identity issues.
+271,Robert Riggs,2024-07-17,29.04,Repeat Caller,Critical,Follow-Up Support,Ongoing Treatment,Crisis Intervention,Caller feels unsupported by family and is unsure where to turn for help.
+272,James Flores,2024-05-22,27.22,Repeat Caller,Critical,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller expressed concern about worsening mental health symptoms and lack of motivation.
+273,Danielle Crane,2024-10-10,41.07,Repeat Caller,Critical,Immediate Intervention,Prior Diagnosis,Counseling,Caller expressed concerns about managing time and work-life balance.
+274,Alicia Guerrero,2023-11-23,12.72,Repeat Caller,Critical,Follow-Up Support,None,Counseling,Caller mentioned struggling with chronic illness and feeling worn out emotionally.
+275,John Dodson,2024-01-21,33.83,New Caller,High,Immediate Intervention,Prior Diagnosis,Crisis Intervention,Caller mentioned feeling like they don’t belong and struggling with identity issues.
+276,Noah Davis,2024-09-15,45.41,New Caller,Critical,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller expressed concerns about their mental health and confusion about next steps.
+277,Makayla Peterson,2024-03-02,10.34,Repeat Caller,Low,Immediate Intervention,None,Medication Referral,Caller is worried about their health and experiencing symptoms of health anxiety.
+278,Dr. Rachael Hendrix,2023-11-17,9.51,Repeat Caller,Moderate,Resource Referral,Prior Diagnosis,Medication Referral,Caller expressed difficulty coping with family pressures and expectations.
+279,James Patterson,2024-04-24,55.45,Repeat Caller,Moderate,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller feels they are losing control over their emotions and doesn’t know why.
+280,Daniel Cole,2024-07-06,15.38,Repeat Caller,Moderate,Resource Referral,Prior Diagnosis,Counseling,Caller has been feeling anxious about the future and uncertain about next steps.
+281,James Willis,2024-09-22,37.9,Repeat Caller,Moderate,Emotional Support,Ongoing Treatment,Crisis Intervention,Caller is experiencing social anxiety and avoids interactions with friends or family.
+282,Laura Sherman,2024-04-20,28.66,New Caller,Low,Emotional Support,Ongoing Treatment,Counseling,Caller is fearful of going outside due to recent traumatic experience in public space.
+283,Shawn Williams,2024-08-09,20.19,Repeat Caller,Moderate,Immediate Intervention,Ongoing Treatment,Counseling,Caller feels overwhelmed with schoolwork and is unsure of how to manage stress.
+284,Tammy Allen,2024-02-15,16.42,New Caller,Critical,Immediate Intervention,Ongoing Treatment,Peer Support Group,Caller shared that they often feel like a burden to others and prefer isolation.
+285,Julia Hamilton,2024-01-10,16.42,New Caller,High,Emotional Support,Prior Diagnosis,Medication Referral,Caller feels they are losing control over their emotions and doesn’t know why.
+286,John Brown,2024-08-14,35.42,New Caller,High,Follow-Up Support,Ongoing Treatment,Counseling,Caller mentioned having financial struggles which are impacting their mental health.
+287,Victoria Bennett,2024-07-18,57.11,New Caller,Moderate,Resource Referral,Ongoing Treatment,Medication Referral,Caller expressed concerns about their mental health and confusion about next steps.
+288,Jessica Alexander,2024-07-28,48.96,Repeat Caller,High,Resource Referral,None,Crisis Intervention,Caller feels they are losing control over their emotions and doesn’t know why.
+289,Brittany Dunlap,2023-12-31,37.01,New Caller,Moderate,Emotional Support,Prior Diagnosis,Crisis Intervention,Caller expressed concerns about their mental health and confusion about next steps.
+290,Denise Evans,2024-09-02,55.09,Repeat Caller,Moderate,Immediate Intervention,None,Medication Referral,Caller reported ongoing feelings of worthlessness and inability to see a positive future.
+291,Karen Weaver,2023-12-29,25.39,Repeat Caller,Low,Immediate Intervention,Ongoing Treatment,Crisis Intervention,Caller expressed concern about worsening mental health symptoms and lack of motivation.
+292,Larry Williams,2023-12-04,36.96,Repeat Caller,Moderate,Emotional Support,Prior Diagnosis,Peer Support Group,Caller has been feeling anxious about the future and uncertain about next steps.
+293,Joshua Reed,2024-07-26,30.29,Repeat Caller,Low,Immediate Intervention,None,Counseling,Caller expressed difficulty coping with family pressures and expectations.
+294,Troy Gonzalez,2024-10-05,53.79,New Caller,Moderate,Emotional Support,Prior Diagnosis,Counseling,Caller is worried about the impact of their mental health on their family members.
+295,Joseph Johnson,2024-10-04,22.98,Repeat Caller,Low,Follow-Up Support,None,Crisis Intervention,"Caller mentioned physical symptoms related to anxiety, like shortness of breath."
+296,Jared Cardenas,2024-01-12,15.98,New Caller,Critical,Emotional Support,None,Peer Support Group,Caller reported feeling isolated and anxious due to recent job loss.
+297,Erica Massey,2024-04-26,56.85,Repeat Caller,Moderate,Follow-Up Support,Ongoing Treatment,Peer Support Group,Caller mentioned feeling like they don’t belong and struggling with identity issues.
+298,Michelle Powers,2024-01-28,7.82,Repeat Caller,Moderate,Follow-Up Support,Ongoing Treatment,Peer Support Group,Caller reported ongoing feelings of worthlessness and inability to see a positive future.
+299,Joseph Smith,2024-06-15,42.82,New Caller,Moderate,Follow-Up Support,Ongoing Treatment,Peer Support Group,Caller expressed frustration with the mental health care system and long wait times.
+300,Russell Jenkins,2024-06-07,17.81,Repeat Caller,Low,Resource Referral,Ongoing Treatment,Counseling,Caller expressed doubt about their abilities and feels stuck in a career rut.
+301,Nancy Morris,2024-02-09,38.85,Repeat Caller,High,Resource Referral,Prior Diagnosis,Peer Support Group,Caller shared that they are struggling with low self-worth and negative self-talk.
+302,William Thompson,2023-11-18,40.52,Repeat Caller,Critical,Immediate Intervention,None,Crisis Intervention,Caller feels they are losing control over their emotions and doesn’t know why.
+303,Ellen Jones MD,2024-04-30,12.18,Repeat Caller,High,Follow-Up Support,Prior Diagnosis,Crisis Intervention,Caller shared experiences of workplace discrimination affecting mental health.
+304,Lacey Gordon,2024-10-18,25.07,Repeat Caller,High,Follow-Up Support,Ongoing Treatment,Medication Referral,Caller shared that they have been feeling numb and disconnected from others.
+305,Aimee Larson,2024-06-13,19.32,New Caller,High,Emotional Support,None,Medication Referral,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+306,Linda Davis,2023-12-09,8.5,Repeat Caller,High,Follow-Up Support,Ongoing Treatment,Counseling,Caller reported feeling out of control and unable to manage emotional triggers.
+307,Monique Hayes,2024-07-19,9.61,Repeat Caller,Low,Resource Referral,Prior Diagnosis,Crisis Intervention,Caller expressed doubt about their abilities and feels stuck in a career rut.
+308,Chase Vasquez,2024-01-07,52.1,Repeat Caller,Critical,Follow-Up Support,Prior Diagnosis,Counseling,Caller reported overwhelming feelings of guilt and shame about past actions.
+309,Kristina Curtis,2023-11-11,42.24,New Caller,Low,Follow-Up Support,None,Counseling,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+310,Christopher Davis,2024-06-04,30.72,New Caller,Moderate,Resource Referral,Prior Diagnosis,Medication Referral,Caller mentioned having financial struggles which are impacting their mental health.
+311,Michelle Aguilar,2023-12-01,16.93,Repeat Caller,Critical,Immediate Intervention,Ongoing Treatment,Peer Support Group,Caller shared experiences of workplace discrimination affecting mental health.
+312,Paul Armstrong,2024-07-23,12.12,New Caller,Moderate,Emotional Support,None,Medication Referral,Caller mentioned experiencing frequent panic attacks and sleep disturbances.
+313,Brittney Bradley,2024-05-06,15.97,Repeat Caller,High,Resource Referral,None,Counseling,Caller feels they lack a sense of purpose and often wonder why they feel this way.
+314,Cassandra Wells,2024-07-14,14.65,New Caller,High,Immediate Intervention,Ongoing Treatment,Counseling,Caller mentioned having financial struggles which are impacting their mental health.
+315,Maria Woods,2023-11-03,21.41,Repeat Caller,Critical,Immediate Intervention,None,Peer Support Group,Caller mentioned struggling with chronic illness and feeling worn out emotionally.
+316,Andrew Taylor,2023-12-28,17.84,Repeat Caller,Critical,Follow-Up Support,Prior Diagnosis,Peer Support Group,Caller expressed fear of being judged for their mental health struggles.
+317,Tina Taylor,2024-02-04,9.31,New Caller,Moderate,Emotional Support,Prior Diagnosis,Peer Support Group,"Caller mentioned physical symptoms related to anxiety, like shortness of breath."
+318,Glenn Diaz,2024-07-12,26.82,New Caller,Critical,Immediate Intervention,None,Crisis Intervention,Caller shared that they are dealing with cultural expectations that feel overwhelming.
+319,Patricia Mccoy,2024-07-31,55.51,New Caller,Moderate,Immediate Intervention,None,Counseling,Caller mentioned struggling with chronic illness and feeling worn out emotionally.
+320,Jesus Garcia,2023-11-09,30.87,Repeat Caller,Low,Follow-Up Support,None,Crisis Intervention,Caller mentioned experiencing frequent panic attacks and sleep disturbances.
+321,Jack Mercer,2024-10-22,36.7,New Caller,Low,Immediate Intervention,Prior Diagnosis,Counseling,Caller expressed difficulty coping with family pressures and expectations.
+322,Samantha Haley,2024-09-30,59.38,New Caller,Low,Immediate Intervention,Ongoing Treatment,Peer Support Group,Caller has been feeling anxious about the future and uncertain about next steps.
+323,Scott Barajas,2024-05-16,19.6,Repeat Caller,Critical,Resource Referral,Ongoing Treatment,Counseling,Caller reported overwhelming feelings of guilt and shame about past actions.
+324,Jack Richards,2023-11-12,16.31,Repeat Caller,Low,Resource Referral,Ongoing Treatment,Counseling,Caller expressed concerns about managing time and work-life balance.
+325,Jesus Jones,2024-03-05,11.84,Repeat Caller,Low,Follow-Up Support,None,Counseling,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+326,Jason Newman,2023-12-07,48.01,New Caller,Moderate,Resource Referral,Ongoing Treatment,Crisis Intervention,Caller expressed frustration with the mental health care system and long wait times.
+327,Gregory Costa,2024-07-20,27.9,New Caller,Critical,Immediate Intervention,None,Peer Support Group,Caller expressed concerns about their mental health and confusion about next steps.
+328,Erica Blevins,2024-03-22,45.77,Repeat Caller,Low,Follow-Up Support,None,Medication Referral,Caller mentioned experiencing frequent panic attacks and sleep disturbances.
+329,Hannah Poole,2023-12-26,46.45,New Caller,Low,Immediate Intervention,None,Counseling,Caller is fearful of going outside due to recent traumatic experience in public space.
+330,Dennis Kerr,2024-02-04,11.12,New Caller,Critical,Immediate Intervention,Prior Diagnosis,Counseling,Caller shared that they often feel like a burden to others and prefer isolation.
+331,Matthew Barnes,2024-10-31,40.83,Repeat Caller,Critical,Immediate Intervention,None,Peer Support Group,Caller has been feeling anxious about the future and uncertain about next steps.
+332,Erin Newton,2024-03-05,57.96,Repeat Caller,Low,Emotional Support,Ongoing Treatment,Peer Support Group,Caller is worried about their health and experiencing symptoms of health anxiety.
+333,Miranda Grant,2024-04-19,12.64,New Caller,Moderate,Immediate Intervention,None,Crisis Intervention,Caller mentioned struggling with chronic illness and feeling worn out emotionally.
+334,Terry Holmes,2024-10-28,11.81,New Caller,Low,Follow-Up Support,Prior Diagnosis,Counseling,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+335,Jasmine Buckley,2024-02-16,50.72,Repeat Caller,Critical,Emotional Support,Prior Diagnosis,Peer Support Group,Caller reported overwhelming feelings of guilt and shame about past actions.
+336,Tiffany Ramirez,2024-03-16,45.56,New Caller,Moderate,Follow-Up Support,Ongoing Treatment,Counseling,Caller feels unsupported by family and is unsure where to turn for help.
+337,Matthew Larson,2024-09-04,7.66,Repeat Caller,High,Follow-Up Support,Prior Diagnosis,Crisis Intervention,Caller shared that they are struggling with low self-worth and negative self-talk.
+338,Diane Stokes,2024-08-06,13.74,Repeat Caller,Low,Emotional Support,Prior Diagnosis,Peer Support Group,Caller expressed concern about worsening mental health symptoms and lack of motivation.
+339,Janice Taylor,2024-08-18,48.89,Repeat Caller,Low,Emotional Support,Prior Diagnosis,Peer Support Group,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+340,Michelle Oconnor,2024-02-17,35.71,Repeat Caller,Critical,Emotional Support,Ongoing Treatment,Peer Support Group,Caller feels unsupported by family and is unsure where to turn for help.
+341,Jeremy Garza,2024-04-14,46.84,Repeat Caller,Moderate,Resource Referral,Prior Diagnosis,Crisis Intervention,Caller feels unsupported by family and is unsure where to turn for help.
+342,Kayla Landry,2024-02-07,44.36,Repeat Caller,Moderate,Follow-Up Support,Ongoing Treatment,Medication Referral,Caller feels overwhelmed with schoolwork and is unsure of how to manage stress.
+343,Brian Orr,2024-10-07,42.55,Repeat Caller,Critical,Follow-Up Support,Ongoing Treatment,Counseling,Caller has been feeling anxious about the future and uncertain about next steps.
+344,Colleen Brewer,2023-12-29,37.58,New Caller,High,Immediate Intervention,None,Counseling,Caller shared that they are struggling with low self-worth and negative self-talk.
+345,David Montgomery,2023-11-15,20.98,New Caller,Critical,Emotional Support,None,Crisis Intervention,Caller reported mood swings and trouble controlling outbursts in social settings.
+346,Derrick Oliver,2024-07-12,47.04,New Caller,High,Resource Referral,Ongoing Treatment,Peer Support Group,Caller reported feeling isolated and anxious due to recent job loss.
+347,Marc Joyce,2024-03-20,5.66,New Caller,Critical,Follow-Up Support,Prior Diagnosis,Crisis Intervention,Caller recently lost a loved one and is struggling with grief and sadness.
+348,Colleen Reilly,2024-05-09,13.76,Repeat Caller,High,Follow-Up Support,Prior Diagnosis,Crisis Intervention,Caller stated they are feeling alone and have limited social support.
+349,Eric Franklin,2024-01-21,12.54,Repeat Caller,Critical,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller reported feeling isolated and anxious due to recent job loss.
+350,William Myers,2024-05-05,43.73,New Caller,High,Follow-Up Support,Prior Diagnosis,Counseling,Caller expressed concerns about their mental health and confusion about next steps.
+351,Andrew Cooper,2024-06-13,15.77,New Caller,High,Immediate Intervention,Prior Diagnosis,Counseling,Caller mentioned having financial struggles which are impacting their mental health.
+352,Scott Hinton,2024-03-04,34.66,Repeat Caller,Low,Immediate Intervention,None,Counseling,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+353,Anthony Wise,2023-11-19,12.82,New Caller,Critical,Immediate Intervention,None,Medication Referral,Caller reported feeling isolated and anxious due to recent job loss.
+354,Mckenzie Allen,2024-08-27,51.28,Repeat Caller,Critical,Resource Referral,None,Counseling,Caller is seeking guidance on managing anger issues affecting their relationships.
+355,Patrick Jones,2024-08-18,12.84,Repeat Caller,Low,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller reported thoughts of self-harm but no immediate plans or intent.
+356,Jared Rios,2024-05-16,23.74,New Caller,Critical,Emotional Support,None,Peer Support Group,Caller feels isolated as a new parent and is seeking resources for support.
+357,Angela Robinson,2023-12-06,27.44,New Caller,Moderate,Immediate Intervention,None,Crisis Intervention,Caller reported feeling out of control and unable to manage emotional triggers.
+358,Lisa Smith,2024-03-11,12.06,New Caller,Critical,Follow-Up Support,None,Crisis Intervention,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+359,Daniel Garcia,2024-08-09,25.14,Repeat Caller,Low,Emotional Support,None,Crisis Intervention,Caller expressed fear of being judged for their mental health struggles.
+360,Lance Stein,2024-03-08,35.25,Repeat Caller,Moderate,Follow-Up Support,Ongoing Treatment,Counseling,Caller reported mood swings and trouble controlling outbursts in social settings.
+361,Kim Rodriguez,2024-07-13,21.82,Repeat Caller,Critical,Follow-Up Support,Prior Diagnosis,Counseling,Caller shared that they often feel like a burden to others and prefer isolation.
+362,Jared Rosales,2023-12-13,53.49,New Caller,Low,Resource Referral,Prior Diagnosis,Medication Referral,Caller expressed fear of being judged for their mental health struggles.
+363,Terry Church,2024-05-06,19.17,Repeat Caller,Moderate,Resource Referral,Prior Diagnosis,Medication Referral,Caller expressed fear of being judged for their mental health struggles.
+364,Michael Martinez,2024-07-19,48.07,Repeat Caller,Low,Resource Referral,Ongoing Treatment,Peer Support Group,Caller is worried about their health and experiencing symptoms of health anxiety.
+365,Bruce Castro,2024-02-22,53.08,New Caller,Critical,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller mentioned struggling with chronic illness and feeling worn out emotionally.
+366,Jennifer Schmidt,2023-12-06,5.17,Repeat Caller,High,Immediate Intervention,None,Counseling,Caller expressed fear of being judged for their mental health struggles.
+367,Kristy Castillo,2023-12-06,22.91,New Caller,High,Follow-Up Support,None,Counseling,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+368,Misty Decker,2024-03-22,31.06,Repeat Caller,Critical,Follow-Up Support,None,Peer Support Group,Caller feels overwhelmed with schoolwork and is unsure of how to manage stress.
+369,Thomas Lane,2024-09-15,14.15,Repeat Caller,Moderate,Follow-Up Support,Prior Diagnosis,Crisis Intervention,Caller feels they are losing control over their emotions and doesn’t know why.
+370,Rachel Johnson,2024-05-28,30.13,Repeat Caller,Low,Emotional Support,Ongoing Treatment,Crisis Intervention,Caller reported mood swings and trouble controlling outbursts in social settings.
+371,Andrea Fox,2023-11-03,51.52,Repeat Caller,Critical,Immediate Intervention,None,Crisis Intervention,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+372,John Weber,2024-07-29,19.31,Repeat Caller,Critical,Follow-Up Support,None,Peer Support Group,Caller mentioned ongoing nightmares and difficulty sleeping due to past trauma.
+373,Deborah Huynh,2024-07-27,33.31,New Caller,Moderate,Follow-Up Support,Prior Diagnosis,Counseling,"Caller mentioned physical symptoms related to anxiety, like shortness of breath."
+374,Eric Davis,2023-12-15,35.94,New Caller,High,Resource Referral,None,Medication Referral,Caller shared that they are struggling with low self-worth and negative self-talk.
+375,Michael Nelson,2024-01-29,48.58,Repeat Caller,Moderate,Emotional Support,Prior Diagnosis,Peer Support Group,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+376,Jared Zimmerman,2024-07-04,11.84,Repeat Caller,Low,Follow-Up Support,Prior Diagnosis,Crisis Intervention,"Caller reported constant worry and inability to relax, affecting daily functioning."
+377,Mr. Aaron Garcia,2024-02-09,29.34,Repeat Caller,Low,Follow-Up Support,Ongoing Treatment,Medication Referral,Caller is worried about the impact of their mental health on their family members.
+378,Michael Patel,2024-09-18,5.5,Repeat Caller,Moderate,Resource Referral,Ongoing Treatment,Counseling,Caller shared that they often feel like a burden to others and prefer isolation.
+379,Kathleen Hill,2024-08-07,29.77,New Caller,Moderate,Emotional Support,Ongoing Treatment,Crisis Intervention,Caller stated they are feeling alone and have limited social support.
+380,Donna Atkins,2024-08-27,17.34,Repeat Caller,Low,Follow-Up Support,Prior Diagnosis,Counseling,Caller is experiencing social anxiety and avoids interactions with friends or family.
+381,Sherri Barnes,2024-08-27,58.57,New Caller,Critical,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+382,Virginia Hunter,2024-05-09,47.63,Repeat Caller,Low,Follow-Up Support,Ongoing Treatment,Crisis Intervention,Caller is worried about their health and experiencing symptoms of health anxiety.
+383,Nicole Weaver,2024-02-09,50.16,New Caller,Low,Immediate Intervention,Ongoing Treatment,Medication Referral,"Caller reported constant worry and inability to relax, affecting daily functioning."
+384,David Decker,2024-07-12,11.25,New Caller,Moderate,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller reported thoughts of self-harm but no immediate plans or intent.
+385,Kevin Caldwell,2023-12-26,47.66,Repeat Caller,Low,Resource Referral,Prior Diagnosis,Crisis Intervention,Caller reported overwhelming feelings of guilt and shame about past actions.
+386,Nicole Jones,2024-07-05,6.24,New Caller,Critical,Follow-Up Support,Ongoing Treatment,Crisis Intervention,Caller feels isolated as a new parent and is seeking resources for support.
+387,Richard Schroeder,2024-07-02,13.82,New Caller,High,Emotional Support,Ongoing Treatment,Crisis Intervention,Caller recently lost a loved one and is struggling with grief and sadness.
+388,Alyssa Moody,2024-08-04,7.5,New Caller,High,Resource Referral,None,Medication Referral,Caller reported mood swings and trouble controlling outbursts in social settings.
+389,Melissa Tanner,2024-09-23,41.45,Repeat Caller,Critical,Resource Referral,None,Medication Referral,Caller is seeking guidance on managing anger issues affecting their relationships.
+390,Curtis Frank,2024-05-19,58.9,New Caller,High,Resource Referral,None,Crisis Intervention,Caller expressed concerns about their mental health and confusion about next steps.
+391,Jason Wheeler,2024-05-25,45.71,Repeat Caller,Moderate,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller mentioned experiencing intense social isolation and lack of close friends.
+392,Karen Arellano,2024-06-22,50.24,Repeat Caller,Low,Resource Referral,Ongoing Treatment,Crisis Intervention,Caller recently lost a loved one and is struggling with grief and sadness.
+393,Jasmine Martin,2024-04-02,33.7,New Caller,Moderate,Follow-Up Support,Prior Diagnosis,Medication Referral,"Caller mentioned physical symptoms related to anxiety, like shortness of breath."
+394,Barbara Mccullough,2023-12-06,5.55,Repeat Caller,Critical,Immediate Intervention,Prior Diagnosis,Counseling,"Caller mentioned physical symptoms related to anxiety, like shortness of breath."
+395,Jody Smith DDS,2024-07-13,15.56,New Caller,Low,Emotional Support,Prior Diagnosis,Medication Referral,Caller shared experiences of workplace discrimination affecting mental health.
+396,Seth Huffman,2024-02-20,16.1,Repeat Caller,Moderate,Emotional Support,None,Counseling,Caller shared that they often feel like a burden to others and prefer isolation.
+397,Steven Torres,2024-04-27,21.79,Repeat Caller,Low,Resource Referral,Ongoing Treatment,Crisis Intervention,Caller mentioned experiencing intense social isolation and lack of close friends.
+398,Kevin Perez,2024-02-04,49.93,Repeat Caller,Low,Immediate Intervention,None,Peer Support Group,Caller feels they are losing control over their emotions and doesn’t know why.
+399,Jeff Garcia,2024-09-27,6.74,Repeat Caller,Moderate,Immediate Intervention,Prior Diagnosis,Crisis Intervention,Caller feels unsupported by family and is unsure where to turn for help.
+400,Tonya Miller,2024-10-17,51.28,Repeat Caller,High,Immediate Intervention,Prior Diagnosis,Medication Referral,Caller has recently experienced bullying and is struggling with self-esteem.
+401,Adam Mcclure,2024-05-10,34.48,Repeat Caller,High,Emotional Support,Ongoing Treatment,Crisis Intervention,Caller feels they lack a sense of purpose and often wonder why they feel this way.
+402,Ana Aguirre,2024-01-28,27.5,Repeat Caller,High,Emotional Support,None,Crisis Intervention,Caller reported ongoing feelings of worthlessness and inability to see a positive future.
+403,Matthew Wall,2024-03-16,41.99,New Caller,High,Immediate Intervention,Ongoing Treatment,Counseling,Caller mentioned ongoing nightmares and difficulty sleeping due to past trauma.
+404,Robert Johnson,2024-10-24,58.19,Repeat Caller,Low,Follow-Up Support,Ongoing Treatment,Crisis Intervention,Caller is worried about the impact of their mental health on their family members.
+405,Tim Myers,2024-09-16,12.22,Repeat Caller,Moderate,Immediate Intervention,None,Peer Support Group,Caller has recently experienced bullying and is struggling with self-esteem.
+406,Diana Johnson,2024-09-18,6.27,New Caller,High,Emotional Support,None,Crisis Intervention,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+407,Joshua Wilson Jr.,2024-01-31,48.97,Repeat Caller,Moderate,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller is worried about the impact of their mental health on their family members.
+408,Christopher Keith,2024-08-04,47.54,New Caller,Low,Resource Referral,Prior Diagnosis,Crisis Intervention,Caller is fearful of going outside due to recent traumatic experience in public space.
+409,Alexander Smith,2023-11-18,13.98,Repeat Caller,Moderate,Follow-Up Support,Prior Diagnosis,Crisis Intervention,Caller reported feeling isolated and anxious due to recent job loss.
+410,Gary Ochoa,2024-07-01,35.99,New Caller,Critical,Immediate Intervention,None,Counseling,Caller stated they are feeling alone and have limited social support.
+411,Jacob Robinson,2024-06-04,6.12,New Caller,Moderate,Immediate Intervention,None,Medication Referral,Caller shared that they have been feeling numb and disconnected from others.
+412,Eric Barrett,2023-12-07,46.01,New Caller,Critical,Resource Referral,Prior Diagnosis,Peer Support Group,Caller expressed fear of being judged for their mental health struggles.
+413,Beth Shepherd,2024-10-10,58.22,Repeat Caller,Moderate,Emotional Support,Ongoing Treatment,Medication Referral,Caller feels isolated as a new parent and is seeking resources for support.
+414,Jennifer Howell,2024-04-04,23.07,New Caller,Moderate,Follow-Up Support,Ongoing Treatment,Medication Referral,Caller feels unsupported by family and is unsure where to turn for help.
+415,Kristy Jones,2024-07-13,8.32,Repeat Caller,High,Resource Referral,Prior Diagnosis,Counseling,Caller feels isolated as a new parent and is seeking resources for support.
+416,Julie Gallegos,2024-04-22,13.88,Repeat Caller,Critical,Emotional Support,Prior Diagnosis,Medication Referral,Caller expressed frustration with the mental health care system and long wait times.
+417,Bruce Johnson,2024-05-11,49.43,Repeat Caller,Moderate,Immediate Intervention,Prior Diagnosis,Crisis Intervention,Caller recently lost a loved one and is struggling with grief and sadness.
+418,Shannon Johnson,2024-04-19,18.86,Repeat Caller,Moderate,Resource Referral,None,Peer Support Group,Caller has recently experienced bullying and is struggling with self-esteem.
+419,Jose Peterson,2024-08-06,48.53,New Caller,Critical,Resource Referral,None,Crisis Intervention,Caller feels they are losing control over their emotions and doesn’t know why.
+420,Chris Miller,2024-06-25,42.51,New Caller,High,Resource Referral,None,Counseling,Caller mentioned ongoing nightmares and difficulty sleeping due to past trauma.
+421,Aimee Stewart,2024-04-03,25.29,New Caller,High,Emotional Support,Prior Diagnosis,Peer Support Group,"Caller mentioned physical symptoms related to anxiety, like shortness of breath."
+422,Jessica Smith,2024-07-11,15.53,Repeat Caller,Critical,Immediate Intervention,None,Medication Referral,Caller is seeking guidance on managing anger issues affecting their relationships.
+423,Sandra Hammond,2024-06-05,14.91,New Caller,Moderate,Immediate Intervention,None,Medication Referral,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+424,Kathryn Berger,2023-11-25,35.26,New Caller,Low,Immediate Intervention,Prior Diagnosis,Counseling,Caller feels isolated as a new parent and is seeking resources for support.
+425,Mr. Mitchell Morales Jr.,2024-09-15,52.6,Repeat Caller,Moderate,Follow-Up Support,Ongoing Treatment,Medication Referral,Caller is worried about their health and experiencing symptoms of health anxiety.
+426,Emily Johnson,2024-07-30,13.48,Repeat Caller,Critical,Follow-Up Support,Prior Diagnosis,Crisis Intervention,Caller shared that they are struggling with low self-worth and negative self-talk.
+427,Joe Lee,2024-10-10,29.22,Repeat Caller,Critical,Follow-Up Support,Ongoing Treatment,Peer Support Group,Caller stated they are feeling alone and have limited social support.
+428,Charles Griffin,2023-11-25,16.12,Repeat Caller,Critical,Resource Referral,None,Peer Support Group,Caller reported thoughts of self-harm but no immediate plans or intent.
+429,Bryan Robinson,2024-07-02,21.46,Repeat Caller,Moderate,Resource Referral,None,Peer Support Group,Caller reported feeling exhausted from caring for a family member and needs support.
+430,Robert Gray,2024-10-04,26.35,New Caller,Critical,Emotional Support,None,Crisis Intervention,Caller feels unsupported by family and is unsure where to turn for help.
+431,Nicole Chambers,2024-07-02,55.68,New Caller,Moderate,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller has been feeling anxious about the future and uncertain about next steps.
+432,Ashley Hansen,2024-05-18,8.7,New Caller,Low,Immediate Intervention,None,Crisis Intervention,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+433,Brandy Boyd,2024-02-08,14.98,Repeat Caller,Critical,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller is worried about the impact of their mental health on their family members.
+434,Joseph Hansen,2024-10-01,33.73,Repeat Caller,Moderate,Resource Referral,None,Peer Support Group,Caller reported feeling exhausted from caring for a family member and needs support.
+435,Sylvia Castro,2024-04-05,45.44,Repeat Caller,Low,Immediate Intervention,Prior Diagnosis,Medication Referral,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+436,James Munoz,2024-02-15,8.21,New Caller,High,Resource Referral,Prior Diagnosis,Medication Referral,Caller mentioned struggling with chronic illness and feeling worn out emotionally.
+437,Dr. Jeffrey Wagner,2024-04-17,12.37,Repeat Caller,Low,Follow-Up Support,Ongoing Treatment,Medication Referral,Caller reported ongoing feelings of worthlessness and inability to see a positive future.
+438,Paul Tucker,2024-06-15,21.47,Repeat Caller,Critical,Immediate Intervention,Prior Diagnosis,Crisis Intervention,Caller shared that they often feel like a burden to others and prefer isolation.
+439,Mr. Eric Garrett,2024-02-09,58.7,Repeat Caller,High,Follow-Up Support,Ongoing Treatment,Peer Support Group,Caller reported ongoing feelings of worthlessness and inability to see a positive future.
+440,Michael Gray,2023-11-22,53.69,New Caller,High,Resource Referral,Prior Diagnosis,Medication Referral,Caller feels they are losing control over their emotions and doesn’t know why.
+441,Carly Parker,2023-12-13,50.2,New Caller,Low,Emotional Support,Prior Diagnosis,Peer Support Group,Caller has been feeling anxious about the future and uncertain about next steps.
+442,Kimberly Webster,2024-02-25,52.07,New Caller,High,Emotional Support,Ongoing Treatment,Medication Referral,Caller shared experiences of workplace discrimination affecting mental health.
+443,Victoria Andrade,2024-02-07,34.18,New Caller,Moderate,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller reported thoughts of self-harm but no immediate plans or intent.
+444,Susan Key,2024-06-22,39.11,Repeat Caller,Moderate,Follow-Up Support,Prior Diagnosis,Peer Support Group,Caller expressed concern about worsening mental health symptoms and lack of motivation.
+445,Stephanie Morales,2023-12-03,51.05,New Caller,High,Follow-Up Support,Prior Diagnosis,Peer Support Group,Caller is experiencing relationship issues and feeling misunderstood by partner.
+446,Stephanie Adams,2024-04-02,35.72,Repeat Caller,High,Resource Referral,Ongoing Treatment,Crisis Intervention,Caller feels overwhelmed with schoolwork and is unsure of how to manage stress.
+447,William Francis,2024-10-03,43.02,Repeat Caller,Moderate,Resource Referral,Prior Diagnosis,Counseling,Caller mentioned feeling like they don’t belong and struggling with identity issues.
+448,Fred Scott,2024-10-18,22.85,New Caller,Moderate,Immediate Intervention,Prior Diagnosis,Medication Referral,Caller expressed concerns about managing time and work-life balance.
+449,Thomas Escobar,2024-02-06,19.43,Repeat Caller,Critical,Emotional Support,None,Crisis Intervention,"Caller mentioned physical symptoms related to anxiety, like shortness of breath."
+450,Dylan Fuller,2024-08-30,24.82,Repeat Caller,Moderate,Follow-Up Support,Prior Diagnosis,Peer Support Group,Caller shared that they have been feeling numb and disconnected from others.
+451,Jonathan Frank,2024-07-17,33.64,Repeat Caller,Critical,Resource Referral,Prior Diagnosis,Peer Support Group,Caller mentioned experiencing frequent panic attacks and sleep disturbances.
+452,Shane Clarke,2024-02-14,47.3,Repeat Caller,Moderate,Follow-Up Support,Ongoing Treatment,Medication Referral,Caller is experiencing social anxiety and avoids interactions with friends or family.
+453,Dawn Wright,2024-01-12,44.59,Repeat Caller,Moderate,Follow-Up Support,Prior Diagnosis,Peer Support Group,Caller mentioned experiencing intense social isolation and lack of close friends.
+454,Michael Tran,2024-06-11,46.14,New Caller,Critical,Immediate Intervention,None,Crisis Intervention,Caller recently lost a loved one and is struggling with grief and sadness.
+455,Summer Alvarado,2024-02-12,11.01,Repeat Caller,High,Emotional Support,Prior Diagnosis,Crisis Intervention,Caller reported ongoing feelings of worthlessness and inability to see a positive future.
+456,Nicole Smith,2024-07-24,8.13,New Caller,Moderate,Resource Referral,Prior Diagnosis,Crisis Intervention,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+457,Barbara Hull,2023-12-25,23.74,Repeat Caller,Low,Emotional Support,None,Medication Referral,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+458,David Morgan,2024-01-15,57.7,New Caller,Moderate,Resource Referral,Prior Diagnosis,Counseling,Caller expressed fear of relapse into past negative behaviors and wants support.
+459,Miss Misty Morton,2024-05-11,31.54,Repeat Caller,Moderate,Resource Referral,Prior Diagnosis,Medication Referral,Caller reported feeling exhausted from caring for a family member and needs support.
+460,Evan Vazquez,2024-04-12,21.04,Repeat Caller,Moderate,Resource Referral,Ongoing Treatment,Peer Support Group,Caller expressed fear of being judged for their mental health struggles.
+461,Kimberly Gross,2023-11-19,54.14,New Caller,Critical,Follow-Up Support,None,Counseling,Caller has recently experienced bullying and is struggling with self-esteem.
+462,Natalie Smith,2024-05-03,33.82,New Caller,Low,Emotional Support,Ongoing Treatment,Crisis Intervention,Caller is seeking guidance on managing anger issues affecting their relationships.
+463,David Larsen,2023-11-26,52.8,Repeat Caller,Low,Resource Referral,Ongoing Treatment,Counseling,Caller feels overwhelmed with schoolwork and is unsure of how to manage stress.
+464,Michael Brooks II,2023-12-11,7.66,New Caller,Low,Emotional Support,Prior Diagnosis,Counseling,Caller expressed concerns about managing time and work-life balance.
+465,Nichole Sullivan,2024-07-25,19.18,Repeat Caller,Low,Immediate Intervention,Ongoing Treatment,Peer Support Group,Caller reported mood swings and trouble controlling outbursts in social settings.
+466,Michael Williams,2024-10-18,51.46,New Caller,Moderate,Immediate Intervention,None,Crisis Intervention,Caller feels they lack a sense of purpose and often wonder why they feel this way.
+467,Kendra Johnson,2024-06-20,37.54,New Caller,Critical,Emotional Support,Prior Diagnosis,Counseling,Caller is worried about their health and experiencing symptoms of health anxiety.
+468,Laurie Dodson,2024-03-30,45.39,Repeat Caller,Low,Follow-Up Support,None,Peer Support Group,Caller reported feeling isolated and anxious due to recent job loss.
+469,Heather Gregory,2024-07-29,49.95,New Caller,Low,Immediate Intervention,Prior Diagnosis,Counseling,Caller recently lost a loved one and is struggling with grief and sadness.
+470,Robert Jenkins,2024-08-24,29.87,New Caller,High,Follow-Up Support,None,Crisis Intervention,Caller is fearful of going outside due to recent traumatic experience in public space.
+471,Toni Kaufman,2024-08-29,37.16,New Caller,Low,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller shared that they are dealing with cultural expectations that feel overwhelming.
+472,Nicole Hanson,2024-09-19,39.99,Repeat Caller,Moderate,Resource Referral,Prior Diagnosis,Peer Support Group,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+473,James Salazar,2024-02-07,5.04,Repeat Caller,High,Emotional Support,None,Crisis Intervention,Caller feels they lack a sense of purpose and often wonder why they feel this way.
+474,Renee Johnson,2024-02-02,47.51,New Caller,Critical,Follow-Up Support,Ongoing Treatment,Medication Referral,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+475,Erik Thomas,2024-04-21,39.05,Repeat Caller,Critical,Immediate Intervention,Prior Diagnosis,Counseling,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+476,Kelly Chambers,2024-06-22,59.88,Repeat Caller,High,Follow-Up Support,Prior Diagnosis,Counseling,Caller expressed concerns about managing time and work-life balance.
+477,Earl Adams,2024-02-03,7.19,New Caller,Critical,Emotional Support,None,Crisis Intervention,Caller feels isolated as a new parent and is seeking resources for support.
+478,Shelly Spears,2024-01-13,40.93,Repeat Caller,High,Emotional Support,Prior Diagnosis,Medication Referral,Caller mentioned struggling with chronic illness and feeling worn out emotionally.
+479,Carrie Lin,2024-07-25,37.45,New Caller,Moderate,Emotional Support,None,Crisis Intervention,Caller reported ongoing feelings of worthlessness and inability to see a positive future.
+480,Craig Campbell,2024-10-16,50.04,New Caller,Moderate,Resource Referral,None,Counseling,Caller is experiencing social anxiety and avoids interactions with friends or family.
+481,Russell Johnson,2023-12-21,8.34,New Caller,Low,Follow-Up Support,None,Counseling,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+482,Andrew Edwards,2024-03-08,23.54,Repeat Caller,Moderate,Emotional Support,Prior Diagnosis,Peer Support Group,Caller reported mood swings and trouble controlling outbursts in social settings.
+483,Brandi Young,2024-05-08,58.14,New Caller,Low,Emotional Support,Prior Diagnosis,Medication Referral,Caller mentioned experiencing intense social isolation and lack of close friends.
+484,Keith Yang,2024-01-31,58.69,Repeat Caller,Moderate,Follow-Up Support,Ongoing Treatment,Peer Support Group,Caller expressed difficulty coping with family pressures and expectations.
+485,Matthew Collins,2024-10-30,34.86,New Caller,High,Emotional Support,Ongoing Treatment,Counseling,Caller mentioned feeling like they don’t belong and struggling with identity issues.
+486,Kayla King,2024-06-21,17.68,Repeat Caller,Critical,Resource Referral,Prior Diagnosis,Medication Referral,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+487,Ashley Kelley,2024-08-16,22.15,New Caller,Critical,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller expressed fear of relapse into past negative behaviors and wants support.
+488,Melanie Howard,2024-01-16,28.53,New Caller,Low,Immediate Intervention,None,Peer Support Group,Caller reported overwhelming feelings of guilt and shame about past actions.
+489,Elizabeth Thomas,2024-09-01,17.28,New Caller,Moderate,Follow-Up Support,None,Medication Referral,Caller reported thoughts of self-harm but no immediate plans or intent.
+490,Timothy Smith,2024-06-12,24.02,New Caller,High,Emotional Support,Prior Diagnosis,Crisis Intervention,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+491,David Meyers,2024-03-27,17.11,Repeat Caller,Low,Immediate Intervention,Ongoing Treatment,Crisis Intervention,Caller recently lost a loved one and is struggling with grief and sadness.
+492,Victor Cox,2024-02-18,20.39,Repeat Caller,Low,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller is worried about their health and experiencing symptoms of health anxiety.
+493,Michael Yates,2024-07-08,59.56,Repeat Caller,Moderate,Immediate Intervention,Prior Diagnosis,Crisis Intervention,Caller is experiencing social anxiety and avoids interactions with friends or family.
+494,Teresa Kirby,2023-12-29,56.61,New Caller,Low,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller shared that they have been feeling numb and disconnected from others.
+495,Scott Ruiz,2024-04-09,46.51,New Caller,Critical,Resource Referral,None,Peer Support Group,Caller shared that they are struggling with low self-worth and negative self-talk.
+496,Gary Wilson,2024-06-23,52.04,New Caller,Moderate,Follow-Up Support,Prior Diagnosis,Peer Support Group,Caller reported feeling isolated and anxious due to recent job loss.
+497,David Miller,2023-11-02,33.57,Repeat Caller,Low,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+498,Dillon Harrell,2024-08-21,52.82,New Caller,High,Resource Referral,Prior Diagnosis,Crisis Intervention,Caller shared experiences of workplace discrimination affecting mental health.
+499,Dylan Ward,2024-01-29,36.18,Repeat Caller,Low,Emotional Support,Prior Diagnosis,Peer Support Group,Caller feels unsupported by family and is unsure where to turn for help.
+500,Carrie Schwartz,2024-06-07,48.51,New Caller,High,Resource Referral,Ongoing Treatment,Counseling,Caller is worried about their health and experiencing symptoms of health anxiety.
+501,Kevin Wolf,2024-05-10,44.61,Repeat Caller,Low,Follow-Up Support,Ongoing Treatment,Crisis Intervention,Caller reported feeling out of control and unable to manage emotional triggers.
+502,Vincent Lucero,2024-04-27,5.63,New Caller,Critical,Follow-Up Support,None,Medication Referral,Caller expressed concerns about managing time and work-life balance.
+503,Thomas Jordan,2023-12-23,28.32,New Caller,Low,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller shared that they often feel like a burden to others and prefer isolation.
+504,Vanessa Hernandez,2024-04-03,35.84,Repeat Caller,Low,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller is having difficulty adjusting to major life changes and feels overwhelmed.
+505,Rhonda Smith,2024-01-04,51.45,New Caller,High,Resource Referral,Prior Diagnosis,Peer Support Group,Caller reported feeling isolated and anxious due to recent job loss.
+506,Travis Howell,2024-05-01,54.76,New Caller,Low,Follow-Up Support,None,Counseling,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+507,Crystal Jones,2023-12-17,22.8,Repeat Caller,High,Resource Referral,Prior Diagnosis,Medication Referral,Caller mentioned having financial struggles which are impacting their mental health.
+508,Henry Christian,2024-01-05,35.13,New Caller,Critical,Emotional Support,Prior Diagnosis,Crisis Intervention,Caller shared experiences of workplace discrimination affecting mental health.
+509,Carrie Romero,2024-09-28,16.68,New Caller,High,Follow-Up Support,Ongoing Treatment,Peer Support Group,Caller mentioned having financial struggles which are impacting their mental health.
+510,Angela Anderson,2023-11-12,39.98,New Caller,High,Emotional Support,Ongoing Treatment,Counseling,Caller reported feeling isolated and anxious due to recent job loss.
+511,Timothy Baker,2024-04-05,49.07,New Caller,Critical,Emotional Support,None,Counseling,Caller shared that they have been feeling numb and disconnected from others.
+512,Brandon Love,2024-08-25,11.59,New Caller,Moderate,Emotional Support,Prior Diagnosis,Counseling,Caller shared that they have been feeling numb and disconnected from others.
+513,Alexander Henderson,2024-05-10,46.96,New Caller,Low,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller reported feeling exhausted from caring for a family member and needs support.
+514,Tiffany West,2024-08-24,54.95,New Caller,Critical,Follow-Up Support,Prior Diagnosis,Counseling,Caller reported overwhelming feelings of guilt and shame about past actions.
+515,Larry Roth,2023-12-02,21.09,Repeat Caller,Critical,Emotional Support,Ongoing Treatment,Counseling,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+516,April Gonzalez PhD,2024-04-12,52.86,Repeat Caller,Low,Immediate Intervention,Prior Diagnosis,Counseling,Caller expressed concerns about managing time and work-life balance.
+517,Todd Hester,2023-11-22,5.75,Repeat Caller,Moderate,Resource Referral,Ongoing Treatment,Crisis Intervention,Caller reported feeling out of control and unable to manage emotional triggers.
+518,Donna Meyer,2023-12-28,16.48,New Caller,Moderate,Resource Referral,None,Peer Support Group,Caller reported feeling out of control and unable to manage emotional triggers.
+519,Allison Smith,2024-06-14,26.11,Repeat Caller,High,Follow-Up Support,Prior Diagnosis,Peer Support Group,"Caller mentioned physical symptoms related to anxiety, like shortness of breath."
+520,Daniel Fletcher,2024-09-04,22.23,New Caller,Moderate,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller feels isolated as a new parent and is seeking resources for support.
+521,Kimberly Miller,2024-06-06,28.93,Repeat Caller,Critical,Resource Referral,Ongoing Treatment,Peer Support Group,Caller expressed frustration with the mental health care system and long wait times.
+522,Jonathan Smith,2024-06-25,54.56,Repeat Caller,Critical,Immediate Intervention,None,Counseling,Caller reported feeling trapped in their current situation with no way out.
+523,Timothy Davis DDS,2024-07-23,55.68,Repeat Caller,Critical,Resource Referral,None,Crisis Intervention,Caller mentioned having financial struggles which are impacting their mental health.
+524,Kristen Simpson,2024-05-11,13.97,Repeat Caller,Critical,Immediate Intervention,Ongoing Treatment,Counseling,Caller expressed fear of being judged for their mental health struggles.
+525,Kirk Malone,2024-01-21,8.01,Repeat Caller,Critical,Follow-Up Support,Prior Diagnosis,Crisis Intervention,Caller shared that they are dealing with cultural expectations that feel overwhelming.
+526,Eric Robinson,2024-03-14,35.37,Repeat Caller,Low,Follow-Up Support,None,Peer Support Group,Caller reported feeling trapped in their current situation with no way out.
+527,Mrs. Ashley Pitts,2024-04-07,59.57,New Caller,Low,Resource Referral,None,Counseling,Caller reported feeling trapped in their current situation with no way out.
+528,Jamie Matthews,2024-02-11,37.11,New Caller,Moderate,Emotional Support,None,Crisis Intervention,Caller reported thoughts of self-harm but no immediate plans or intent.
+529,Patrick Irwin PhD,2024-01-16,24.81,Repeat Caller,Moderate,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+530,Susan Tucker,2023-12-23,43.22,Repeat Caller,Low,Emotional Support,Prior Diagnosis,Crisis Intervention,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+531,Stephanie Johnson,2023-12-05,28.34,New Caller,Moderate,Resource Referral,None,Counseling,Caller expressed concerns about managing time and work-life balance.
+532,Cynthia Beck,2023-11-15,55.64,Repeat Caller,Critical,Emotional Support,None,Counseling,Caller expressed concern about worsening mental health symptoms and lack of motivation.
+533,Nancy Wright,2023-11-20,34.81,New Caller,High,Emotional Support,Prior Diagnosis,Counseling,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+534,Erin Johnson,2023-12-16,50.21,New Caller,Critical,Immediate Intervention,Ongoing Treatment,Crisis Intervention,Caller shared that they are dealing with cultural expectations that feel overwhelming.
+535,David Lang,2024-09-09,55.77,New Caller,Moderate,Follow-Up Support,Ongoing Treatment,Peer Support Group,Caller reported feeling exhausted from caring for a family member and needs support.
+536,Maria Jones,2024-03-20,45.83,Repeat Caller,High,Immediate Intervention,Prior Diagnosis,Counseling,Caller feels they lack a sense of purpose and often wonder why they feel this way.
+537,Amber Lawrence,2024-01-21,39.86,New Caller,Low,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller reported overwhelming feelings of guilt and shame about past actions.
+538,Cameron Graham,2023-12-12,5.69,New Caller,Moderate,Emotional Support,None,Crisis Intervention,Caller expressed concerns about managing time and work-life balance.
+539,Miss Amanda Williams,2024-07-07,12.17,New Caller,Low,Emotional Support,Ongoing Treatment,Peer Support Group,Caller feels they lack a sense of purpose and often wonder why they feel this way.
+540,Candace Lewis,2024-10-03,59.0,New Caller,Critical,Immediate Intervention,Prior Diagnosis,Counseling,Caller has recently experienced bullying and is struggling with self-esteem.
+541,Anthony Payne,2023-12-14,45.22,Repeat Caller,Moderate,Follow-Up Support,None,Medication Referral,Caller reported feeling trapped in their current situation with no way out.
+542,Robert Boyd,2024-05-13,49.07,Repeat Caller,High,Follow-Up Support,Ongoing Treatment,Peer Support Group,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+543,Eric Lewis,2024-09-19,31.97,New Caller,High,Follow-Up Support,None,Medication Referral,Caller shared experiences of workplace discrimination affecting mental health.
+544,Kelly Sanchez,2024-01-05,36.43,New Caller,Low,Follow-Up Support,Prior Diagnosis,Peer Support Group,Caller shared that they are struggling with low self-worth and negative self-talk.
+545,Amanda Crawford,2024-08-29,36.99,Repeat Caller,Critical,Immediate Intervention,Prior Diagnosis,Medication Referral,Caller is worried about their health and experiencing symptoms of health anxiety.
+546,Vincent Lynn,2024-08-26,38.51,New Caller,High,Immediate Intervention,Prior Diagnosis,Counseling,Caller stated they are feeling alone and have limited social support.
+547,Richard Tran,2024-05-15,25.42,New Caller,High,Immediate Intervention,Ongoing Treatment,Peer Support Group,Caller reported mood swings and trouble controlling outbursts in social settings.
+548,Amanda Simpson,2023-11-14,26.43,New Caller,Moderate,Emotional Support,Ongoing Treatment,Crisis Intervention,"Caller reported constant worry and inability to relax, affecting daily functioning."
+549,Alan Koch,2024-03-30,24.15,New Caller,Low,Emotional Support,None,Counseling,Caller expressed frustration with the mental health care system and long wait times.
+550,Diane Christian,2024-02-21,6.07,Repeat Caller,High,Resource Referral,Prior Diagnosis,Crisis Intervention,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+551,James Perez,2024-06-26,14.63,New Caller,High,Emotional Support,Ongoing Treatment,Crisis Intervention,Caller reported feeling trapped in their current situation with no way out.
+552,Steven Santiago,2024-09-09,12.08,Repeat Caller,Critical,Immediate Intervention,Prior Diagnosis,Medication Referral,Caller feels isolated as a new parent and is seeking resources for support.
+553,Jennifer Reyes,2024-04-14,45.66,New Caller,Moderate,Emotional Support,None,Crisis Intervention,Caller shared that they are dealing with cultural expectations that feel overwhelming.
+554,Phillip Sanders,2024-05-01,7.78,Repeat Caller,Low,Follow-Up Support,Ongoing Treatment,Medication Referral,Caller expressed fear of relapse into past negative behaviors and wants support.
+555,Miranda Nicholson,2024-09-18,7.14,New Caller,Moderate,Follow-Up Support,Prior Diagnosis,Crisis Intervention,Caller shared that they often feel like a burden to others and prefer isolation.
+556,Crystal Burch,2024-10-13,40.76,New Caller,High,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller stated they are feeling alone and have limited social support.
+557,Amanda Sullivan,2024-05-03,13.28,New Caller,Moderate,Follow-Up Support,None,Medication Referral,Caller expressed frustration with the mental health care system and long wait times.
+558,Robert Steele,2024-01-30,22.58,New Caller,Moderate,Follow-Up Support,Ongoing Treatment,Peer Support Group,Caller feels unsupported by family and is unsure where to turn for help.
+559,Samantha Nelson,2024-09-10,56.81,New Caller,High,Emotional Support,Prior Diagnosis,Counseling,Caller reported thoughts of self-harm but no immediate plans or intent.
+560,Rachel Rodriguez,2024-09-25,56.26,Repeat Caller,Low,Immediate Intervention,Prior Diagnosis,Counseling,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+561,Christopher Fox,2024-04-08,46.71,New Caller,High,Immediate Intervention,Prior Diagnosis,Medication Referral,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+562,Ryan Newton,2024-05-06,24.88,Repeat Caller,High,Immediate Intervention,None,Peer Support Group,Caller mentioned ongoing nightmares and difficulty sleeping due to past trauma.
+563,Katherine Collier,2024-02-13,14.18,New Caller,Low,Follow-Up Support,None,Peer Support Group,Caller expressed fear of being judged for their mental health struggles.
+564,Pamela Matthews,2023-12-27,7.96,New Caller,Critical,Emotional Support,None,Counseling,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+565,John Walker,2024-08-03,34.31,New Caller,Critical,Resource Referral,None,Crisis Intervention,Caller mentioned experiencing frequent panic attacks and sleep disturbances.
+566,Justin Landry,2024-08-11,21.45,New Caller,Critical,Resource Referral,Prior Diagnosis,Peer Support Group,Caller reported ongoing feelings of worthlessness and inability to see a positive future.
+567,Shannon Moore,2023-12-15,20.61,New Caller,Moderate,Immediate Intervention,Prior Diagnosis,Crisis Intervention,Caller expressed concerns about their mental health and confusion about next steps.
+568,Robert Haney,2024-08-16,24.42,Repeat Caller,Moderate,Immediate Intervention,None,Counseling,Caller reported feeling isolated and anxious due to recent job loss.
+569,Alicia Dawson,2024-07-07,8.87,Repeat Caller,High,Resource Referral,Prior Diagnosis,Medication Referral,Caller is worried about their health and experiencing symptoms of health anxiety.
+570,Kevin Ramos,2024-09-11,54.8,Repeat Caller,Low,Immediate Intervention,Ongoing Treatment,Counseling,Caller expressed doubt about their abilities and feels stuck in a career rut.
+571,Mrs. Melissa Bryan MD,2023-12-12,51.47,Repeat Caller,Low,Follow-Up Support,None,Counseling,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+572,Kimberly Winters,2024-01-08,53.37,New Caller,Critical,Follow-Up Support,Prior Diagnosis,Peer Support Group,Caller reported overwhelming feelings of guilt and shame about past actions.
+573,Wendy Mahoney,2024-06-21,14.2,Repeat Caller,High,Follow-Up Support,Ongoing Treatment,Counseling,Caller expressed fear of being judged for their mental health struggles.
+574,Brian Williams,2024-03-26,15.42,New Caller,High,Emotional Support,Prior Diagnosis,Peer Support Group,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+575,Matthew Kelly,2024-05-21,15.27,Repeat Caller,Low,Follow-Up Support,Ongoing Treatment,Peer Support Group,Caller feels unsupported by family and is unsure where to turn for help.
+576,David Travis,2024-07-24,45.43,Repeat Caller,High,Follow-Up Support,None,Medication Referral,Caller reported feeling exhausted from caring for a family member and needs support.
+577,Joseph Bautista,2023-12-27,46.84,Repeat Caller,Critical,Immediate Intervention,None,Medication Referral,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+578,Devin Campbell,2024-08-10,7.94,Repeat Caller,Moderate,Emotional Support,Prior Diagnosis,Counseling,Caller reported feeling isolated and anxious due to recent job loss.
+579,James Murphy,2024-05-24,12.04,Repeat Caller,Low,Resource Referral,None,Crisis Intervention,Caller reported feeling exhausted from caring for a family member and needs support.
+580,Mary Russell,2024-02-07,11.11,New Caller,Critical,Resource Referral,Ongoing Treatment,Crisis Intervention,Caller stated they are feeling alone and have limited social support.
+581,Gabriel Garcia,2024-08-04,55.46,New Caller,Critical,Emotional Support,Ongoing Treatment,Peer Support Group,Caller has recently experienced bullying and is struggling with self-esteem.
+582,Elizabeth Warner,2024-09-14,58.37,New Caller,Critical,Resource Referral,Ongoing Treatment,Medication Referral,Caller mentioned experiencing intense social isolation and lack of close friends.
+583,Breanna Stokes,2024-09-15,33.09,New Caller,Low,Resource Referral,Ongoing Treatment,Peer Support Group,Caller mentioned having financial struggles which are impacting their mental health.
+584,Michael Green,2024-09-09,16.11,Repeat Caller,Moderate,Immediate Intervention,None,Crisis Intervention,Caller reported thoughts of self-harm but no immediate plans or intent.
+585,Kenneth Mays,2024-06-30,18.78,New Caller,High,Immediate Intervention,Prior Diagnosis,Medication Referral,Caller reported ongoing feelings of worthlessness and inability to see a positive future.
+586,Joshua Moore,2024-03-05,50.09,Repeat Caller,Moderate,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller mentioned experiencing intense social isolation and lack of close friends.
+587,Raymond Hicks,2024-08-17,44.0,Repeat Caller,Critical,Emotional Support,None,Peer Support Group,Caller reported feeling trapped in their current situation with no way out.
+588,Brian Richardson,2024-07-13,59.19,New Caller,Critical,Resource Referral,Prior Diagnosis,Medication Referral,Caller reported thoughts of self-harm but no immediate plans or intent.
+589,Jared Burton,2023-11-02,5.33,New Caller,Moderate,Immediate Intervention,Prior Diagnosis,Crisis Intervention,Caller reported feeling exhausted from caring for a family member and needs support.
+590,Megan Pacheco,2024-10-19,51.06,New Caller,Low,Emotional Support,Ongoing Treatment,Counseling,Caller expressed concerns about managing time and work-life balance.
+591,Latoya Adkins,2023-11-26,5.68,New Caller,High,Immediate Intervention,Ongoing Treatment,Crisis Intervention,"Caller mentioned physical symptoms related to anxiety, like shortness of breath."
+592,Brenda Patel,2024-09-27,23.64,Repeat Caller,High,Emotional Support,Prior Diagnosis,Crisis Intervention,Caller expressed concerns about managing time and work-life balance.
+593,Danielle Norris,2024-04-28,16.86,New Caller,Moderate,Immediate Intervention,Ongoing Treatment,Peer Support Group,Caller expressed difficulty coping with family pressures and expectations.
+594,Jamie Kaiser,2024-01-22,15.15,Repeat Caller,Moderate,Follow-Up Support,Ongoing Treatment,Medication Referral,Caller feels unsupported by family and is unsure where to turn for help.
+595,David Wilson,2023-12-21,38.72,New Caller,High,Resource Referral,None,Crisis Intervention,Caller reported overwhelming feelings of guilt and shame about past actions.
+596,Andrew Massey,2024-05-14,40.69,Repeat Caller,Low,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller reported mood swings and trouble controlling outbursts in social settings.
+597,David Hernandez,2024-10-13,11.49,New Caller,Low,Follow-Up Support,Ongoing Treatment,Peer Support Group,Caller is worried about the impact of their mental health on their family members.
+598,Mr. Chad Shaw,2024-01-08,5.92,Repeat Caller,Critical,Resource Referral,Ongoing Treatment,Counseling,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+599,Alyssa Johnson,2024-02-24,56.87,Repeat Caller,High,Emotional Support,None,Peer Support Group,Caller has recently experienced bullying and is struggling with self-esteem.
+600,Richard Levine,2024-03-23,19.73,New Caller,High,Emotional Support,Prior Diagnosis,Crisis Intervention,Caller mentioned ongoing nightmares and difficulty sleeping due to past trauma.
+601,Whitney Spears,2024-10-12,25.67,Repeat Caller,Low,Immediate Intervention,Prior Diagnosis,Counseling,Caller expressed fear of relapse into past negative behaviors and wants support.
+602,Adam Davis,2024-09-10,35.26,Repeat Caller,High,Immediate Intervention,Ongoing Treatment,Counseling,Caller mentioned experiencing frequent panic attacks and sleep disturbances.
+603,Christopher Mullen,2024-01-05,22.32,New Caller,High,Resource Referral,None,Peer Support Group,Caller reported mood swings and trouble controlling outbursts in social settings.
+604,Shelly Cole,2024-08-06,56.56,New Caller,Low,Follow-Up Support,Ongoing Treatment,Counseling,Caller shared that they often feel like a burden to others and prefer isolation.
+605,Tonya Stone,2024-06-08,37.43,Repeat Caller,High,Follow-Up Support,Prior Diagnosis,Counseling,Caller mentioned experiencing frequent panic attacks and sleep disturbances.
+606,Phillip Hood,2024-08-11,25.08,New Caller,Critical,Resource Referral,Prior Diagnosis,Crisis Intervention,Caller feels unsupported by family and is unsure where to turn for help.
+607,Gina Jones,2023-11-15,47.16,New Caller,Critical,Emotional Support,None,Peer Support Group,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+608,Mike Snyder,2024-03-28,35.78,Repeat Caller,Critical,Follow-Up Support,Ongoing Treatment,Counseling,Caller shared that they are struggling with low self-worth and negative self-talk.
+609,Joshua Torres,2024-08-09,43.29,Repeat Caller,Critical,Immediate Intervention,Ongoing Treatment,Peer Support Group,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+610,Jamie Harris,2024-03-30,26.47,New Caller,Moderate,Emotional Support,None,Counseling,Caller mentioned struggling with chronic illness and feeling worn out emotionally.
+611,James Joseph,2024-10-21,48.02,Repeat Caller,High,Immediate Intervention,Ongoing Treatment,Crisis Intervention,Caller shared that they are struggling with low self-worth and negative self-talk.
+612,Marissa Watson,2024-07-23,51.23,Repeat Caller,High,Immediate Intervention,Prior Diagnosis,Counseling,Caller mentioned experiencing frequent panic attacks and sleep disturbances.
+613,James Johnson,2024-08-12,18.67,Repeat Caller,Low,Emotional Support,Ongoing Treatment,Counseling,Caller reported feeling trapped in their current situation with no way out.
+614,Sarah Wilcox,2023-12-26,28.98,New Caller,Low,Resource Referral,Prior Diagnosis,Counseling,Caller mentioned feeling like they don’t belong and struggling with identity issues.
+615,Michael Cain,2023-11-22,18.36,New Caller,Critical,Emotional Support,Ongoing Treatment,Peer Support Group,Caller mentioned experiencing frequent panic attacks and sleep disturbances.
+616,Heather Garrison,2024-06-14,23.28,Repeat Caller,High,Resource Referral,None,Crisis Intervention,Caller feels they lack a sense of purpose and often wonder why they feel this way.
+617,Timothy Hammond,2024-03-20,23.01,Repeat Caller,Low,Resource Referral,Ongoing Treatment,Peer Support Group,Caller expressed doubt about their abilities and feels stuck in a career rut.
+618,Kyle Matthews,2024-03-29,59.56,New Caller,High,Follow-Up Support,Prior Diagnosis,Peer Support Group,Caller is worried about their health and experiencing symptoms of health anxiety.
+619,Tyler Ramirez,2024-05-30,54.88,Repeat Caller,Low,Resource Referral,Ongoing Treatment,Counseling,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+620,Maria Castillo,2024-08-01,43.54,New Caller,High,Emotional Support,Prior Diagnosis,Crisis Intervention,Caller shared that they have been feeling numb and disconnected from others.
+621,Sheila Robertson,2023-12-14,57.04,New Caller,Low,Emotional Support,Ongoing Treatment,Counseling,Caller shared experiences of workplace discrimination affecting mental health.
+622,Gary Jacobs,2024-03-01,9.85,Repeat Caller,Moderate,Immediate Intervention,None,Crisis Intervention,Caller is worried about the impact of their mental health on their family members.
+623,Brianna Rowe,2024-09-06,10.41,New Caller,Critical,Immediate Intervention,Prior Diagnosis,Counseling,Caller feels overwhelmed with schoolwork and is unsure of how to manage stress.
+624,Michele Robertson,2024-10-19,26.86,Repeat Caller,Critical,Follow-Up Support,Prior Diagnosis,Peer Support Group,Caller reported overwhelming feelings of guilt and shame about past actions.
+625,Andrea Robinson,2024-08-03,48.23,Repeat Caller,High,Follow-Up Support,Ongoing Treatment,Medication Referral,Caller expressed fear of relapse into past negative behaviors and wants support.
+626,Evelyn Martin,2024-06-22,32.02,Repeat Caller,Critical,Immediate Intervention,None,Crisis Intervention,"Caller mentioned physical symptoms related to anxiety, like shortness of breath."
+627,Samuel Chandler,2024-09-13,32.02,Repeat Caller,Moderate,Resource Referral,Prior Diagnosis,Medication Referral,Caller expressed fear of relapse into past negative behaviors and wants support.
+628,Deanna Guerrero,2024-02-21,33.52,New Caller,Moderate,Resource Referral,Prior Diagnosis,Counseling,Caller expressed doubt about their abilities and feels stuck in a career rut.
+629,Javier Bell,2024-05-31,5.43,Repeat Caller,Critical,Immediate Intervention,Prior Diagnosis,Medication Referral,Caller expressed fear of being judged for their mental health struggles.
+630,Samantha Wright,2024-07-27,39.62,New Caller,Moderate,Emotional Support,Prior Diagnosis,Medication Referral,"Caller mentioned physical symptoms related to anxiety, like shortness of breath."
+631,Kevin Woodward,2024-01-30,14.65,Repeat Caller,Moderate,Follow-Up Support,None,Counseling,Caller recently lost a loved one and is struggling with grief and sadness.
+632,Randy Myers,2023-11-25,59.87,New Caller,High,Emotional Support,Prior Diagnosis,Counseling,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+633,Christina Martin,2024-06-28,47.34,New Caller,Critical,Follow-Up Support,None,Crisis Intervention,Caller reported feeling out of control and unable to manage emotional triggers.
+634,Harry Bailey,2024-03-17,52.73,Repeat Caller,Low,Resource Referral,Ongoing Treatment,Crisis Intervention,Caller expressed doubt about their abilities and feels stuck in a career rut.
+635,Jonathan Morgan,2024-10-26,5.28,Repeat Caller,Critical,Emotional Support,Prior Diagnosis,Crisis Intervention,Caller mentioned having financial struggles which are impacting their mental health.
+636,Margaret Blake,2024-02-19,22.66,Repeat Caller,High,Follow-Up Support,Ongoing Treatment,Medication Referral,Caller is having difficulty adjusting to major life changes and feels overwhelmed.
+637,Mr. James Alexander,2024-09-19,12.54,Repeat Caller,Low,Emotional Support,Prior Diagnosis,Medication Referral,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+638,David Cooper,2024-06-22,59.29,New Caller,Low,Resource Referral,Prior Diagnosis,Medication Referral,Caller is worried about their health and experiencing symptoms of health anxiety.
+639,Walter Ruiz,2024-02-19,29.06,New Caller,High,Resource Referral,Ongoing Treatment,Counseling,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+640,Brian Hebert,2024-05-06,47.85,New Caller,Critical,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller expressed concerns about managing time and work-life balance.
+641,Troy Campbell,2024-04-14,12.26,New Caller,Critical,Immediate Intervention,None,Peer Support Group,Caller is seeking guidance on managing anger issues affecting their relationships.
+642,Rachel Bush,2024-03-06,10.67,Repeat Caller,High,Emotional Support,Ongoing Treatment,Crisis Intervention,Caller is worried about their health and experiencing symptoms of health anxiety.
+643,Leslie Graham,2024-02-14,56.92,New Caller,High,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller feels they are losing control over their emotions and doesn’t know why.
+644,Taylor Hardy,2024-05-11,55.57,Repeat Caller,Moderate,Emotional Support,Ongoing Treatment,Crisis Intervention,Caller reported feeling isolated and anxious due to recent job loss.
+645,Julie Weaver,2024-08-22,13.97,New Caller,Critical,Resource Referral,Prior Diagnosis,Peer Support Group,Caller expressed doubt about their abilities and feels stuck in a career rut.
+646,Garrett Montoya,2023-11-19,10.41,New Caller,High,Resource Referral,Ongoing Treatment,Crisis Intervention,Caller shared that they have been feeling numb and disconnected from others.
+647,Anthony Carlson,2024-05-15,34.46,New Caller,Low,Emotional Support,None,Counseling,Caller feels isolated as a new parent and is seeking resources for support.
+648,Jeremy Moreno,2024-03-08,45.9,New Caller,Low,Emotional Support,Prior Diagnosis,Counseling,"Caller mentioned physical symptoms related to anxiety, like shortness of breath."
+649,David Cox,2023-12-04,59.2,New Caller,High,Immediate Intervention,None,Counseling,Caller has recently experienced bullying and is struggling with self-esteem.
+650,Melissa Phelps,2023-12-02,7.65,New Caller,Critical,Follow-Up Support,None,Peer Support Group,Caller expressed fear of being judged for their mental health struggles.
+651,Robin Hurley,2023-11-23,40.77,New Caller,Critical,Emotional Support,Ongoing Treatment,Counseling,Caller is having difficulty adjusting to major life changes and feels overwhelmed.
+652,Christopher Melendez,2024-04-18,26.7,Repeat Caller,Moderate,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller is experiencing relationship issues and feeling misunderstood by partner.
+653,Sandra Campbell,2023-12-13,11.26,Repeat Caller,Critical,Emotional Support,Prior Diagnosis,Medication Referral,Caller mentioned experiencing intense social isolation and lack of close friends.
+654,Karen Hudson,2024-05-22,59.09,New Caller,Critical,Immediate Intervention,Prior Diagnosis,Medication Referral,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+655,Michael Barnett,2024-04-27,48.27,New Caller,Critical,Follow-Up Support,None,Crisis Intervention,"Caller mentioned physical symptoms related to anxiety, like shortness of breath."
+656,Jennifer Hall,2024-02-27,53.58,New Caller,Critical,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller reported feeling trapped in their current situation with no way out.
+657,Evan Myers,2024-02-06,5.63,Repeat Caller,Moderate,Follow-Up Support,None,Counseling,Caller expressed concerns about their mental health and confusion about next steps.
+658,Jeffery Edwards,2023-11-14,47.11,Repeat Caller,Low,Immediate Intervention,Ongoing Treatment,Counseling,"Caller mentioned physical symptoms related to anxiety, like shortness of breath."
+659,Nathan Ramirez,2024-05-15,15.53,New Caller,Low,Follow-Up Support,Ongoing Treatment,Peer Support Group,Caller stated they are feeling alone and have limited social support.
+660,Kenneth Garcia,2024-08-30,19.11,New Caller,Moderate,Resource Referral,None,Crisis Intervention,Caller reported thoughts of self-harm but no immediate plans or intent.
+661,Mike Martinez,2024-05-16,6.01,Repeat Caller,Moderate,Immediate Intervention,None,Crisis Intervention,Caller has been feeling anxious about the future and uncertain about next steps.
+662,Kevin Mcdonald,2024-04-01,40.58,New Caller,Critical,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller shared that they often feel like a burden to others and prefer isolation.
+663,Brianna Nelson,2024-03-11,54.89,Repeat Caller,Moderate,Follow-Up Support,Prior Diagnosis,Crisis Intervention,Caller is experiencing social anxiety and avoids interactions with friends or family.
+664,Lisa Collins,2024-06-23,5.86,Repeat Caller,High,Emotional Support,Ongoing Treatment,Crisis Intervention,Caller reported thoughts of self-harm but no immediate plans or intent.
+665,Cameron Chavez,2024-01-24,5.33,New Caller,High,Immediate Intervention,Prior Diagnosis,Crisis Intervention,Caller feels they lack a sense of purpose and often wonder why they feel this way.
+666,Chad Powers,2024-02-18,56.98,Repeat Caller,High,Emotional Support,Prior Diagnosis,Crisis Intervention,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+667,Joseph Mitchell,2024-07-17,48.34,Repeat Caller,Moderate,Resource Referral,None,Medication Referral,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+668,Yolanda Santana,2024-08-06,52.39,Repeat Caller,Moderate,Resource Referral,Prior Diagnosis,Peer Support Group,Caller has recently experienced bullying and is struggling with self-esteem.
+669,Barbara Griffin,2024-02-04,27.73,New Caller,High,Follow-Up Support,None,Medication Referral,Caller is worried about the impact of their mental health on their family members.
+670,Leonard Nelson,2024-06-26,21.6,Repeat Caller,Critical,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller shared that they have been feeling numb and disconnected from others.
+671,Natalie Alexander,2024-09-30,40.81,Repeat Caller,Critical,Follow-Up Support,Ongoing Treatment,Peer Support Group,"Caller reported constant worry and inability to relax, affecting daily functioning."
+672,Jason Carrillo,2023-11-22,38.03,Repeat Caller,High,Immediate Intervention,None,Counseling,Caller is having difficulty adjusting to major life changes and feels overwhelmed.
+673,Steven Cross,2024-10-13,56.84,New Caller,High,Immediate Intervention,None,Crisis Intervention,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+674,Michael Thomas,2024-02-01,47.3,New Caller,High,Emotional Support,Ongoing Treatment,Medication Referral,Caller is seeking guidance on managing anger issues affecting their relationships.
+675,Terry Bradford,2024-02-22,17.21,Repeat Caller,Low,Emotional Support,Ongoing Treatment,Crisis Intervention,Caller expressed concern about worsening mental health symptoms and lack of motivation.
+676,Tonya Palmer,2024-09-18,29.65,Repeat Caller,Low,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller shared that they often feel like a burden to others and prefer isolation.
+677,Eugene Stone,2023-12-21,54.4,Repeat Caller,Low,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller recently lost a loved one and is struggling with grief and sadness.
+678,Howard Taylor,2024-05-11,25.95,New Caller,High,Follow-Up Support,None,Crisis Intervention,Caller is seeking guidance on managing anger issues affecting their relationships.
+679,Elizabeth Leon,2024-03-20,5.81,Repeat Caller,Moderate,Follow-Up Support,Ongoing Treatment,Medication Referral,Caller expressed fear of relapse into past negative behaviors and wants support.
+680,Michele Goodman,2024-09-21,54.4,Repeat Caller,Critical,Emotional Support,Ongoing Treatment,Crisis Intervention,Caller feels they are losing control over their emotions and doesn’t know why.
+681,Nathaniel Thomas,2024-01-23,7.11,New Caller,Moderate,Follow-Up Support,Prior Diagnosis,Crisis Intervention,Caller reported feeling isolated and anxious due to recent job loss.
+682,Annette Hughes,2024-07-04,30.77,Repeat Caller,Critical,Emotional Support,None,Medication Referral,Caller reported feeling exhausted from caring for a family member and needs support.
+683,John Chase,2024-01-13,19.28,New Caller,Critical,Resource Referral,Prior Diagnosis,Crisis Intervention,Caller reported ongoing feelings of worthlessness and inability to see a positive future.
+684,Jeffrey Jones,2024-03-11,47.43,Repeat Caller,Moderate,Resource Referral,None,Crisis Intervention,Caller is experiencing relationship issues and feeling misunderstood by partner.
+685,Douglas Vang,2023-11-01,56.04,New Caller,High,Immediate Intervention,Ongoing Treatment,Crisis Intervention,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+686,Gerald Barker,2024-04-23,45.27,Repeat Caller,Critical,Immediate Intervention,Ongoing Treatment,Counseling,Caller expressed concerns about managing time and work-life balance.
+687,Brandon Gonzalez,2024-02-26,6.78,New Caller,Critical,Emotional Support,Prior Diagnosis,Counseling,Caller is having difficulty adjusting to major life changes and feels overwhelmed.
+688,Jose Brooks,2024-07-14,59.89,New Caller,Low,Emotional Support,None,Crisis Intervention,Caller expressed doubt about their abilities and feels stuck in a career rut.
+689,Tara Howard,2023-12-03,49.34,Repeat Caller,High,Follow-Up Support,Ongoing Treatment,Counseling,Caller reported mood swings and trouble controlling outbursts in social settings.
+690,William Johnson,2024-02-07,26.38,New Caller,Low,Emotional Support,None,Counseling,Caller expressed concerns about their mental health and confusion about next steps.
+691,Christina Dillon,2023-11-11,15.99,New Caller,Critical,Resource Referral,Ongoing Treatment,Crisis Intervention,Caller reported feeling out of control and unable to manage emotional triggers.
+692,Mariah Pratt,2024-10-14,13.74,New Caller,Critical,Immediate Intervention,Ongoing Treatment,Peer Support Group,Caller shared that they are struggling with low self-worth and negative self-talk.
+693,Stephanie Fletcher,2024-03-09,14.07,New Caller,High,Emotional Support,Prior Diagnosis,Counseling,Caller has recently experienced bullying and is struggling with self-esteem.
+694,Jennifer Hubbard,2023-12-27,28.49,New Caller,High,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller expressed doubt about their abilities and feels stuck in a career rut.
+695,Stephanie Patrick,2024-06-24,19.62,New Caller,Moderate,Resource Referral,Ongoing Treatment,Medication Referral,Caller feels they lack a sense of purpose and often wonder why they feel this way.
+696,Steven Morrison,2024-10-12,34.37,New Caller,Low,Follow-Up Support,Prior Diagnosis,Crisis Intervention,Caller expressed fear of relapse into past negative behaviors and wants support.
+697,Derek Mills,2024-08-24,37.44,Repeat Caller,High,Emotional Support,None,Counseling,Caller is experiencing social anxiety and avoids interactions with friends or family.
+698,April English,2023-12-12,51.83,New Caller,Critical,Emotional Support,None,Crisis Intervention,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+699,Megan Davis,2024-02-20,43.66,Repeat Caller,Low,Emotional Support,None,Crisis Intervention,Caller mentioned ongoing nightmares and difficulty sleeping due to past trauma.
+700,Sharon Jackson,2024-05-21,16.35,Repeat Caller,High,Emotional Support,Prior Diagnosis,Counseling,Caller is experiencing social anxiety and avoids interactions with friends or family.
+701,Lauren Davis,2024-04-01,40.18,New Caller,Moderate,Follow-Up Support,None,Counseling,Caller shared experiences of workplace discrimination affecting mental health.
+702,Joshua Lopez DDS,2024-08-25,17.21,New Caller,Low,Emotional Support,Ongoing Treatment,Crisis Intervention,Caller reported feeling out of control and unable to manage emotional triggers.
+703,Alex Perry,2024-10-13,47.09,New Caller,Moderate,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller shared that they are struggling with low self-worth and negative self-talk.
+704,Crystal Adams,2024-07-28,49.05,New Caller,High,Immediate Intervention,None,Crisis Intervention,Caller feels they are losing control over their emotions and doesn’t know why.
+705,Melissa English,2024-09-08,58.39,Repeat Caller,Low,Immediate Intervention,Prior Diagnosis,Counseling,Caller is worried about their health and experiencing symptoms of health anxiety.
+706,Christina Downs,2024-02-26,56.56,Repeat Caller,Critical,Resource Referral,Prior Diagnosis,Peer Support Group,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+707,Emily Gonzalez,2024-10-06,32.66,New Caller,High,Emotional Support,Ongoing Treatment,Peer Support Group,Caller shared experiences of workplace discrimination affecting mental health.
+708,Denise Duncan,2024-03-14,50.77,Repeat Caller,High,Emotional Support,Prior Diagnosis,Counseling,Caller recently lost a loved one and is struggling with grief and sadness.
+709,Thomas Simmons,2024-08-09,39.5,Repeat Caller,Moderate,Resource Referral,Prior Diagnosis,Crisis Intervention,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+710,Michael Hughes,2023-12-09,52.16,Repeat Caller,Moderate,Emotional Support,Prior Diagnosis,Medication Referral,Caller recently lost a loved one and is struggling with grief and sadness.
+711,Sarah Copeland,2024-04-03,21.93,Repeat Caller,Low,Emotional Support,Ongoing Treatment,Peer Support Group,Caller expressed concerns about their mental health and confusion about next steps.
+712,Michael Stark,2024-02-16,43.45,Repeat Caller,Moderate,Resource Referral,Ongoing Treatment,Peer Support Group,Caller reported feeling trapped in their current situation with no way out.
+713,Katherine Scott,2024-05-07,53.26,Repeat Caller,Critical,Resource Referral,Prior Diagnosis,Peer Support Group,Caller expressed doubt about their abilities and feels stuck in a career rut.
+714,Nicholas Hampton Jr.,2024-02-24,13.36,Repeat Caller,Low,Emotional Support,Ongoing Treatment,Peer Support Group,Caller feels isolated as a new parent and is seeking resources for support.
+715,Amanda Day,2024-02-05,7.99,Repeat Caller,Critical,Resource Referral,Ongoing Treatment,Medication Referral,Caller is worried about the impact of their mental health on their family members.
+716,Dylan Chandler,2024-05-26,56.23,New Caller,High,Follow-Up Support,None,Peer Support Group,Caller expressed concerns about managing time and work-life balance.
+717,Colleen Russell,2024-01-21,24.25,Repeat Caller,Moderate,Resource Referral,Prior Diagnosis,Crisis Intervention,Caller is having difficulty adjusting to major life changes and feels overwhelmed.
+718,Kimberly Lyons,2024-01-26,20.62,Repeat Caller,Low,Emotional Support,None,Peer Support Group,Caller shared experiences of workplace discrimination affecting mental health.
+719,Nicholas Smith,2024-01-03,28.14,New Caller,Moderate,Follow-Up Support,None,Counseling,Caller stated they are feeling alone and have limited social support.
+720,Jill Williams,2024-07-20,53.56,New Caller,High,Resource Referral,Prior Diagnosis,Medication Referral,Caller shared that they often feel like a burden to others and prefer isolation.
+721,Joshua Chung,2023-12-17,54.43,Repeat Caller,High,Immediate Intervention,Ongoing Treatment,Peer Support Group,Caller is having difficulty adjusting to major life changes and feels overwhelmed.
+722,Craig Black,2024-09-11,8.1,Repeat Caller,Moderate,Emotional Support,Prior Diagnosis,Medication Referral,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+723,Diana Johnson,2024-03-05,47.44,Repeat Caller,High,Resource Referral,Prior Diagnosis,Counseling,Caller reported feeling isolated and anxious due to recent job loss.
+724,Elizabeth Williams,2024-02-13,48.09,New Caller,Moderate,Follow-Up Support,None,Counseling,Caller feels unsupported by family and is unsure where to turn for help.
+725,Dr. Heidi Baker,2024-05-13,45.71,Repeat Caller,Low,Emotional Support,Prior Diagnosis,Crisis Intervention,Caller shared that they are struggling with low self-worth and negative self-talk.
+726,Kelli Mcgee,2024-04-18,51.15,Repeat Caller,Critical,Follow-Up Support,Ongoing Treatment,Medication Referral,Caller recently lost a loved one and is struggling with grief and sadness.
+727,Diane Sandoval,2024-01-13,15.32,New Caller,High,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller mentioned ongoing nightmares and difficulty sleeping due to past trauma.
+728,Oscar Matthews,2024-02-19,23.89,New Caller,High,Resource Referral,Prior Diagnosis,Crisis Intervention,Caller reported feeling isolated and anxious due to recent job loss.
+729,Raymond Brooks,2024-03-26,35.26,Repeat Caller,High,Immediate Intervention,None,Peer Support Group,Caller reported mood swings and trouble controlling outbursts in social settings.
+730,Joseph Leon,2024-04-14,44.6,New Caller,Low,Emotional Support,None,Medication Referral,Caller is fearful of going outside due to recent traumatic experience in public space.
+731,Tyler Watkins,2024-03-01,5.66,Repeat Caller,Moderate,Follow-Up Support,None,Medication Referral,Caller expressed fear of relapse into past negative behaviors and wants support.
+732,Matthew Meyer,2024-03-13,50.23,New Caller,Critical,Follow-Up Support,Prior Diagnosis,Counseling,Caller expressed concern about worsening mental health symptoms and lack of motivation.
+733,Lisa Garcia,2024-07-05,15.39,Repeat Caller,Moderate,Resource Referral,Ongoing Treatment,Medication Referral,Caller has been feeling anxious about the future and uncertain about next steps.
+734,Carolyn Campbell,2024-05-14,6.21,New Caller,Low,Immediate Intervention,Prior Diagnosis,Crisis Intervention,Caller reported mood swings and trouble controlling outbursts in social settings.
+735,Roberto Meyer,2024-05-22,24.13,New Caller,High,Resource Referral,Prior Diagnosis,Counseling,Caller shared that they have been feeling numb and disconnected from others.
+736,Stephen Brown,2024-02-22,17.87,Repeat Caller,Moderate,Follow-Up Support,None,Counseling,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+737,Kimberly Reed,2024-05-15,36.05,Repeat Caller,Low,Emotional Support,Prior Diagnosis,Counseling,Caller reported feeling out of control and unable to manage emotional triggers.
+738,Jeffrey Fisher,2023-12-28,31.9,Repeat Caller,High,Follow-Up Support,None,Crisis Intervention,Caller reported feeling out of control and unable to manage emotional triggers.
+739,Caitlin Jacobs,2024-09-29,5.29,New Caller,Low,Resource Referral,Prior Diagnosis,Medication Referral,Caller shared that they have been feeling numb and disconnected from others.
+740,Ann Barber,2024-04-03,37.32,New Caller,High,Emotional Support,Ongoing Treatment,Medication Referral,Caller is having difficulty adjusting to major life changes and feels overwhelmed.
+741,Shawn Payne,2024-06-24,41.65,Repeat Caller,Low,Follow-Up Support,Prior Diagnosis,Crisis Intervention,Caller is experiencing relationship issues and feeling misunderstood by partner.
+742,Jessica Thornton,2023-11-27,41.19,New Caller,Moderate,Follow-Up Support,Ongoing Treatment,Peer Support Group,Caller mentioned ongoing nightmares and difficulty sleeping due to past trauma.
+743,Karen Lara,2023-12-16,45.92,New Caller,High,Resource Referral,None,Crisis Intervention,Caller feels overwhelmed with schoolwork and is unsure of how to manage stress.
+744,Jasmine Lozano,2024-01-03,53.6,New Caller,Low,Emotional Support,None,Medication Referral,"Caller mentioned physical symptoms related to anxiety, like shortness of breath."
+745,Keith Bailey,2024-04-22,25.43,Repeat Caller,Critical,Emotional Support,None,Crisis Intervention,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+746,John Lawrence,2024-05-03,28.38,Repeat Caller,Critical,Immediate Intervention,None,Crisis Intervention,Caller feels isolated as a new parent and is seeking resources for support.
+747,Garrett Collier,2024-02-23,9.28,Repeat Caller,Low,Emotional Support,Prior Diagnosis,Peer Support Group,Caller has recently experienced bullying and is struggling with self-esteem.
+748,Andrea Thompson,2023-11-27,39.19,New Caller,Moderate,Immediate Intervention,None,Counseling,Caller reported feeling out of control and unable to manage emotional triggers.
+749,David Howell,2024-03-08,18.66,Repeat Caller,Moderate,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller is seeking guidance on managing anger issues affecting their relationships.
+750,Nicole Rodriguez,2024-06-16,46.92,Repeat Caller,Low,Immediate Intervention,None,Medication Referral,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+751,Bonnie Weber,2024-06-29,52.08,Repeat Caller,High,Follow-Up Support,Prior Diagnosis,Peer Support Group,Caller mentioned having financial struggles which are impacting their mental health.
+752,Anne Bell,2024-06-10,24.5,New Caller,Critical,Emotional Support,Ongoing Treatment,Counseling,Caller has recently experienced bullying and is struggling with self-esteem.
+753,Zachary Pittman,2024-01-14,40.57,Repeat Caller,High,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller shared that they have been feeling numb and disconnected from others.
+754,Charles George,2024-10-19,13.34,New Caller,Moderate,Emotional Support,Ongoing Treatment,Medication Referral,Caller is worried about the impact of their mental health on their family members.
+755,Thomas Johnson,2024-06-11,23.59,Repeat Caller,Moderate,Resource Referral,Prior Diagnosis,Counseling,Caller recently lost a loved one and is struggling with grief and sadness.
+756,Jerry Neal,2024-03-24,46.0,Repeat Caller,Critical,Immediate Intervention,Ongoing Treatment,Counseling,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+757,Shawn Osborn,2024-05-10,28.77,Repeat Caller,High,Emotional Support,Prior Diagnosis,Medication Referral,Caller mentioned ongoing nightmares and difficulty sleeping due to past trauma.
+758,Vincent Walker,2024-08-16,26.82,Repeat Caller,Critical,Emotional Support,Ongoing Treatment,Counseling,Caller expressed difficulty coping with family pressures and expectations.
+759,Kelly Thompson,2024-08-25,45.6,New Caller,High,Follow-Up Support,Prior Diagnosis,Counseling,Caller mentioned experiencing intense social isolation and lack of close friends.
+760,William Woods,2024-10-31,12.69,New Caller,Moderate,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller expressed concern about worsening mental health symptoms and lack of motivation.
+761,Kaitlyn Berg,2024-10-06,39.73,New Caller,Low,Emotional Support,Prior Diagnosis,Peer Support Group,Caller expressed fear of being judged for their mental health struggles.
+762,Chelsea Allen,2024-09-09,26.23,New Caller,Moderate,Immediate Intervention,Ongoing Treatment,Crisis Intervention,Caller reported feeling out of control and unable to manage emotional triggers.
+763,Mitchell Bolton,2024-05-04,39.91,New Caller,High,Emotional Support,Prior Diagnosis,Peer Support Group,Caller feels they are losing control over their emotions and doesn’t know why.
+764,Chris Sandoval,2023-11-19,40.14,New Caller,High,Immediate Intervention,Ongoing Treatment,Counseling,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+765,Andrew Sims,2024-05-20,47.44,Repeat Caller,Critical,Immediate Intervention,None,Crisis Intervention,Caller reported feeling trapped in their current situation with no way out.
+766,Jordan Mitchell,2024-02-25,33.78,New Caller,Critical,Resource Referral,Ongoing Treatment,Crisis Intervention,Caller expressed frustration with the mental health care system and long wait times.
+767,Sara Wells,2024-07-11,32.73,New Caller,Low,Follow-Up Support,None,Crisis Intervention,Caller mentioned feeling like they don’t belong and struggling with identity issues.
+768,Shelby Taylor,2024-09-27,42.24,New Caller,High,Resource Referral,Prior Diagnosis,Crisis Intervention,Caller reported ongoing feelings of worthlessness and inability to see a positive future.
+769,Wayne Aguirre,2024-07-28,21.1,Repeat Caller,Critical,Immediate Intervention,Prior Diagnosis,Crisis Intervention,Caller reported mood swings and trouble controlling outbursts in social settings.
+770,Juan Williams,2024-08-10,44.89,Repeat Caller,Low,Follow-Up Support,Ongoing Treatment,Counseling,Caller reported feeling out of control and unable to manage emotional triggers.
+771,Anna Huff,2024-10-11,33.33,New Caller,Moderate,Follow-Up Support,Ongoing Treatment,Peer Support Group,Caller shared that they often feel like a burden to others and prefer isolation.
+772,John Coffey,2024-03-25,35.85,New Caller,Low,Emotional Support,None,Medication Referral,Caller mentioned feeling like they don’t belong and struggling with identity issues.
+773,Steven Peterson,2023-12-13,52.1,Repeat Caller,Critical,Immediate Intervention,Ongoing Treatment,Crisis Intervention,Caller feels they are losing control over their emotions and doesn’t know why.
+774,Katherine Brown MD,2024-05-03,27.1,Repeat Caller,High,Immediate Intervention,None,Peer Support Group,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+775,Cassandra Mendez,2024-04-20,38.64,Repeat Caller,Moderate,Follow-Up Support,Ongoing Treatment,Medication Referral,Caller has recently experienced bullying and is struggling with self-esteem.
+776,Joseph Reed,2024-08-21,18.57,New Caller,Low,Emotional Support,None,Medication Referral,Caller expressed fear of relapse into past negative behaviors and wants support.
+777,Crystal Hood,2024-09-07,42.82,Repeat Caller,Moderate,Follow-Up Support,None,Medication Referral,Caller shared that they often feel like a burden to others and prefer isolation.
+778,Rachel Price,2024-03-14,51.37,Repeat Caller,Moderate,Immediate Intervention,Ongoing Treatment,Peer Support Group,Caller shared experiences of workplace discrimination affecting mental health.
+779,Kelli Lee,2024-01-05,28.52,New Caller,High,Resource Referral,Ongoing Treatment,Crisis Intervention,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+780,April Roberts,2024-07-22,17.73,New Caller,Critical,Follow-Up Support,Prior Diagnosis,Peer Support Group,Caller shared that they are dealing with cultural expectations that feel overwhelming.
+781,Phillip Brown,2024-05-27,30.08,New Caller,Moderate,Resource Referral,None,Crisis Intervention,Caller is worried about the impact of their mental health on their family members.
+782,Lauren Burgess,2024-05-10,38.47,New Caller,Moderate,Resource Referral,Ongoing Treatment,Counseling,Caller mentioned experiencing frequent panic attacks and sleep disturbances.
+783,Sean Lewis,2024-04-06,17.8,Repeat Caller,Critical,Immediate Intervention,None,Crisis Intervention,Caller feels isolated as a new parent and is seeking resources for support.
+784,Elizabeth Vazquez,2024-08-11,33.69,Repeat Caller,Low,Resource Referral,Prior Diagnosis,Counseling,Caller shared that they are struggling with low self-worth and negative self-talk.
+785,Alexis Hunter,2023-11-04,15.14,New Caller,High,Follow-Up Support,Prior Diagnosis,Crisis Intervention,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+786,David Smith,2024-10-11,23.98,Repeat Caller,High,Immediate Intervention,Prior Diagnosis,Crisis Intervention,Caller shared experiences of workplace discrimination affecting mental health.
+787,Samantha Klein,2023-12-08,37.5,New Caller,Low,Emotional Support,Prior Diagnosis,Counseling,Caller reported ongoing feelings of worthlessness and inability to see a positive future.
+788,Laura Bishop DDS,2024-03-06,20.45,Repeat Caller,Moderate,Immediate Intervention,Prior Diagnosis,Medication Referral,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+789,Tony Clark,2024-04-01,21.86,New Caller,Moderate,Immediate Intervention,Ongoing Treatment,Peer Support Group,Caller has been feeling anxious about the future and uncertain about next steps.
+790,George Yoder,2024-10-30,18.02,New Caller,Low,Resource Referral,None,Peer Support Group,Caller reported ongoing feelings of worthlessness and inability to see a positive future.
+791,Andrew Lloyd,2024-04-02,40.99,New Caller,High,Immediate Intervention,Ongoing Treatment,Counseling,Caller reported feeling exhausted from caring for a family member and needs support.
+792,John Mason,2024-07-19,14.36,New Caller,Moderate,Follow-Up Support,Prior Diagnosis,Counseling,Caller expressed doubt about their abilities and feels stuck in a career rut.
+793,Carlos Fernandez,2023-11-16,54.68,New Caller,Moderate,Immediate Intervention,Prior Diagnosis,Counseling,Caller is worried about the impact of their mental health on their family members.
+794,Charlotte Ford,2024-02-10,57.27,Repeat Caller,Moderate,Resource Referral,Ongoing Treatment,Peer Support Group,Caller is having difficulty adjusting to major life changes and feels overwhelmed.
+795,Steven Flores,2024-03-12,17.2,Repeat Caller,Low,Resource Referral,Prior Diagnosis,Counseling,Caller expressed difficulty coping with family pressures and expectations.
+796,Amanda Ross,2024-07-11,47.94,New Caller,Moderate,Immediate Intervention,Prior Diagnosis,Medication Referral,Caller is experiencing relationship issues and feeling misunderstood by partner.
+797,Bernard Hinton,2024-03-20,9.46,Repeat Caller,High,Resource Referral,None,Peer Support Group,Caller recently lost a loved one and is struggling with grief and sadness.
+798,Richard Parsons,2024-08-26,41.82,New Caller,High,Resource Referral,Prior Diagnosis,Crisis Intervention,Caller mentioned experiencing intense social isolation and lack of close friends.
+799,Sarah Hamilton,2024-04-30,10.91,Repeat Caller,Moderate,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller shared that they are dealing with cultural expectations that feel overwhelming.
+800,Andrea Waters,2024-01-03,13.22,Repeat Caller,Moderate,Emotional Support,Ongoing Treatment,Peer Support Group,Caller shared that they have been feeling numb and disconnected from others.
+801,Kendra Brown,2024-01-12,23.71,New Caller,Critical,Emotional Support,Ongoing Treatment,Crisis Intervention,Caller expressed doubt about their abilities and feels stuck in a career rut.
+802,Jeffrey Davis,2024-01-09,17.55,Repeat Caller,Moderate,Follow-Up Support,None,Peer Support Group,Caller reported feeling isolated and anxious due to recent job loss.
+803,Katherine Garner,2023-11-11,35.42,Repeat Caller,High,Emotional Support,Ongoing Treatment,Medication Referral,Caller mentioned experiencing intense social isolation and lack of close friends.
+804,Gina Reynolds,2024-02-22,18.5,New Caller,High,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+805,Anthony Campbell,2024-10-26,37.23,Repeat Caller,Moderate,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller mentioned experiencing frequent panic attacks and sleep disturbances.
+806,Christopher Boyd,2024-05-09,19.8,New Caller,Low,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller shared experiences of workplace discrimination affecting mental health.
+807,Patrick Strickland,2024-05-29,7.1,New Caller,Critical,Follow-Up Support,Ongoing Treatment,Medication Referral,Caller feels they lack a sense of purpose and often wonder why they feel this way.
+808,Walter Wyatt,2024-05-11,7.42,Repeat Caller,High,Follow-Up Support,Prior Diagnosis,Counseling,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+809,Steven Moore,2024-06-10,49.79,Repeat Caller,High,Immediate Intervention,None,Peer Support Group,Caller shared that they often feel like a burden to others and prefer isolation.
+810,Kenneth Wright,2024-03-20,58.85,Repeat Caller,Moderate,Immediate Intervention,Ongoing Treatment,Crisis Intervention,Caller shared that they have been feeling numb and disconnected from others.
+811,Cassandra Moody,2024-08-17,10.31,Repeat Caller,Critical,Immediate Intervention,Prior Diagnosis,Crisis Intervention,Caller reported ongoing feelings of worthlessness and inability to see a positive future.
+812,Wayne Bautista,2024-03-31,49.29,New Caller,Critical,Immediate Intervention,None,Counseling,Caller is worried about the impact of their mental health on their family members.
+813,Courtney Ramirez,2024-01-26,22.36,Repeat Caller,High,Resource Referral,Ongoing Treatment,Crisis Intervention,Caller expressed concern about worsening mental health symptoms and lack of motivation.
+814,Sylvia Sims,2024-06-21,15.45,Repeat Caller,Moderate,Follow-Up Support,Ongoing Treatment,Crisis Intervention,Caller is fearful of going outside due to recent traumatic experience in public space.
+815,Hector Ortiz,2023-12-09,51.46,New Caller,Critical,Follow-Up Support,Prior Diagnosis,Counseling,Caller reported overwhelming feelings of guilt and shame about past actions.
+816,Douglas Sanchez,2024-04-20,35.52,New Caller,Low,Follow-Up Support,None,Crisis Intervention,Caller reported ongoing feelings of worthlessness and inability to see a positive future.
+817,Cynthia Johnson,2024-03-25,58.79,Repeat Caller,Critical,Immediate Intervention,None,Counseling,Caller is experiencing relationship issues and feeling misunderstood by partner.
+818,Katherine Brown,2024-04-27,33.1,New Caller,Moderate,Emotional Support,None,Peer Support Group,Caller expressed concerns about managing time and work-life balance.
+819,Samuel Watson,2024-03-30,30.04,New Caller,Moderate,Emotional Support,Prior Diagnosis,Crisis Intervention,Caller expressed concerns about their mental health and confusion about next steps.
+820,John Williams,2024-03-07,56.5,Repeat Caller,Low,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller mentioned feeling like they don’t belong and struggling with identity issues.
+821,Randy Ramirez,2024-01-31,14.06,New Caller,Critical,Follow-Up Support,None,Counseling,Caller stated they are feeling alone and have limited social support.
+822,Steven Hartman,2024-06-19,32.42,Repeat Caller,Moderate,Emotional Support,Prior Diagnosis,Counseling,Caller expressed frustration with the mental health care system and long wait times.
+823,Shawn Barker,2024-04-25,23.71,New Caller,Critical,Resource Referral,Ongoing Treatment,Crisis Intervention,Caller expressed difficulty coping with family pressures and expectations.
+824,Dominique Cox,2024-05-15,10.3,New Caller,Low,Emotional Support,None,Crisis Intervention,Caller shared that they have been feeling numb and disconnected from others.
+825,William Frye,2023-11-18,35.09,New Caller,Low,Follow-Up Support,Ongoing Treatment,Medication Referral,Caller is fearful of going outside due to recent traumatic experience in public space.
+826,Melissa Gibson,2024-05-05,31.98,New Caller,Moderate,Follow-Up Support,Prior Diagnosis,Peer Support Group,Caller feels they are losing control over their emotions and doesn’t know why.
+827,Diana Martinez,2024-01-03,37.93,New Caller,High,Resource Referral,Prior Diagnosis,Counseling,Caller shared that they often feel like a burden to others and prefer isolation.
+828,Noah Martinez,2023-11-14,13.03,New Caller,Low,Emotional Support,Ongoing Treatment,Medication Referral,Caller expressed difficulty coping with family pressures and expectations.
+829,Tina Wood,2023-11-27,22.98,Repeat Caller,Moderate,Immediate Intervention,None,Medication Referral,Caller has been feeling anxious about the future and uncertain about next steps.
+830,Kathryn Johnson,2023-12-15,25.2,New Caller,High,Immediate Intervention,None,Peer Support Group,Caller reported mood swings and trouble controlling outbursts in social settings.
+831,Anna White,2024-08-26,22.61,New Caller,Moderate,Follow-Up Support,None,Medication Referral,Caller has been feeling anxious about the future and uncertain about next steps.
+832,Samuel Morgan,2024-09-04,42.32,New Caller,Critical,Emotional Support,Ongoing Treatment,Peer Support Group,Caller reported feeling out of control and unable to manage emotional triggers.
+833,Hannah Alvarez,2024-02-24,59.21,New Caller,High,Immediate Intervention,Ongoing Treatment,Counseling,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+834,Anthony Sellers,2024-01-05,42.03,New Caller,High,Emotional Support,Prior Diagnosis,Peer Support Group,Caller has been feeling anxious about the future and uncertain about next steps.
+835,Ashley Anderson,2024-01-09,38.42,Repeat Caller,High,Resource Referral,None,Peer Support Group,Caller expressed frustration with the mental health care system and long wait times.
+836,Tony Miller,2024-02-25,18.55,New Caller,Low,Follow-Up Support,Prior Diagnosis,Counseling,Caller shared that they are dealing with cultural expectations that feel overwhelming.
+837,Amanda Vaughan,2024-10-28,33.62,New Caller,Moderate,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller mentioned feeling like they don’t belong and struggling with identity issues.
+838,Joshua Cooper,2024-07-11,32.05,Repeat Caller,Moderate,Resource Referral,Prior Diagnosis,Counseling,Caller mentioned experiencing intense social isolation and lack of close friends.
+839,Paul Stokes,2024-02-11,31.34,New Caller,Low,Emotional Support,Ongoing Treatment,Medication Referral,Caller reported feeling out of control and unable to manage emotional triggers.
+840,Charles Wade,2024-05-03,14.31,New Caller,Moderate,Emotional Support,None,Counseling,Caller mentioned struggling with chronic illness and feeling worn out emotionally.
+841,Linda Thomas,2024-09-27,12.26,New Caller,Low,Immediate Intervention,None,Medication Referral,"Caller mentioned physical symptoms related to anxiety, like shortness of breath."
+842,Brian Fitzpatrick,2024-09-01,54.83,New Caller,Low,Resource Referral,Prior Diagnosis,Crisis Intervention,Caller is experiencing social anxiety and avoids interactions with friends or family.
+843,Bradley Johnson,2024-04-20,7.29,New Caller,Low,Immediate Intervention,None,Crisis Intervention,Caller is worried about their health and experiencing symptoms of health anxiety.
+844,Justin Hughes,2024-03-18,53.09,Repeat Caller,Low,Emotional Support,Ongoing Treatment,Medication Referral,Caller reported feeling isolated and anxious due to recent job loss.
+845,Kristy Mitchell,2024-07-25,19.0,Repeat Caller,Moderate,Immediate Intervention,Prior Diagnosis,Peer Support Group,Caller reported mood swings and trouble controlling outbursts in social settings.
+846,Samuel Webb,2024-10-24,14.47,New Caller,Critical,Immediate Intervention,Prior Diagnosis,Crisis Intervention,Caller is having difficulty adjusting to major life changes and feels overwhelmed.
+847,Laura Crawford,2024-03-06,41.18,Repeat Caller,Low,Emotional Support,Ongoing Treatment,Peer Support Group,"Caller mentioned physical symptoms related to anxiety, like shortness of breath."
+848,Erica Brown,2024-06-12,11.56,Repeat Caller,High,Immediate Intervention,Prior Diagnosis,Counseling,Caller mentioned experiencing intense social isolation and lack of close friends.
+849,Travis Williams,2023-12-26,37.65,Repeat Caller,High,Emotional Support,Ongoing Treatment,Crisis Intervention,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+850,Morgan Hawkins,2024-02-19,23.77,New Caller,Critical,Immediate Intervention,Prior Diagnosis,Counseling,Caller reported thoughts of self-harm but no immediate plans or intent.
+851,Jeffrey Sparks,2024-09-23,59.74,New Caller,Moderate,Follow-Up Support,Prior Diagnosis,Counseling,Caller feels overwhelmed with schoolwork and is unsure of how to manage stress.
+852,Teresa Moody,2023-11-08,55.35,New Caller,Critical,Follow-Up Support,None,Crisis Intervention,Caller shared experiences of workplace discrimination affecting mental health.
+853,Michael Hale,2024-04-27,5.22,New Caller,High,Follow-Up Support,None,Peer Support Group,Caller is experiencing social anxiety and avoids interactions with friends or family.
+854,Emily Hopkins,2023-12-20,14.59,New Caller,High,Emotional Support,Prior Diagnosis,Counseling,Caller shared that they have been feeling numb and disconnected from others.
+855,Rachel Knapp,2024-02-03,41.91,Repeat Caller,Critical,Immediate Intervention,Prior Diagnosis,Medication Referral,Caller expressed concern about worsening mental health symptoms and lack of motivation.
+856,John Heath,2024-06-11,37.94,New Caller,High,Emotional Support,Prior Diagnosis,Crisis Intervention,Caller is worried about the impact of their mental health on their family members.
+857,Teresa Henderson,2023-12-23,22.61,Repeat Caller,Low,Immediate Intervention,Prior Diagnosis,Medication Referral,"Caller reported constant worry and inability to relax, affecting daily functioning."
+858,Melissa Burns,2024-10-20,13.87,New Caller,Moderate,Resource Referral,Ongoing Treatment,Crisis Intervention,Caller expressed concerns about their mental health and confusion about next steps.
+859,Angela Weiss,2024-07-02,18.14,New Caller,Low,Follow-Up Support,Prior Diagnosis,Crisis Intervention,Caller feels isolated as a new parent and is seeking resources for support.
+860,Lance Thompson,2024-09-07,34.21,New Caller,Critical,Follow-Up Support,Ongoing Treatment,Medication Referral,Caller shared that they often feel like a burden to others and prefer isolation.
+861,Thomas Petty,2024-07-02,13.18,Repeat Caller,Low,Follow-Up Support,None,Medication Referral,Caller shared that they are struggling with low self-worth and negative self-talk.
+862,Larry Baker,2024-07-25,33.21,New Caller,Moderate,Resource Referral,Prior Diagnosis,Counseling,Caller shared that they often feel like a burden to others and prefer isolation.
+863,Kimberly Vasquez,2024-07-24,32.46,New Caller,Low,Emotional Support,Ongoing Treatment,Peer Support Group,Caller reported overwhelming feelings of guilt and shame about past actions.
+864,Raymond Pearson,2024-09-05,16.87,Repeat Caller,Low,Follow-Up Support,None,Peer Support Group,Caller reported mood swings and trouble controlling outbursts in social settings.
+865,Kevin Fuller,2024-04-24,15.81,New Caller,High,Immediate Intervention,Ongoing Treatment,Counseling,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+866,Caitlin Johnson,2024-08-25,39.84,Repeat Caller,Low,Immediate Intervention,None,Peer Support Group,Caller is having difficulty adjusting to major life changes and feels overwhelmed.
+867,Michael Parker,2023-12-24,20.15,New Caller,Low,Emotional Support,None,Crisis Intervention,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+868,Steven Casey,2024-04-29,10.03,Repeat Caller,Critical,Resource Referral,None,Counseling,Caller expressed frustration with the mental health care system and long wait times.
+869,Jonathan Barr,2024-10-06,7.4,Repeat Caller,Critical,Resource Referral,None,Medication Referral,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+870,Michelle Pennington,2024-10-28,49.17,Repeat Caller,Moderate,Follow-Up Support,None,Medication Referral,Caller reported feeling isolated and anxious due to recent job loss.
+871,Tiffany Morris,2024-10-08,29.89,Repeat Caller,Moderate,Emotional Support,Prior Diagnosis,Peer Support Group,Caller reported feeling exhausted from caring for a family member and needs support.
+872,Kathryn George,2024-08-11,54.73,Repeat Caller,Moderate,Resource Referral,Ongoing Treatment,Counseling,Caller feels unsupported by family and is unsure where to turn for help.
+873,Teresa Ward,2024-06-11,34.71,Repeat Caller,High,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller feels overwhelmed with schoolwork and is unsure of how to manage stress.
+874,David Vasquez,2024-05-04,13.46,New Caller,Critical,Emotional Support,Prior Diagnosis,Crisis Intervention,Caller feels unsupported by family and is unsure where to turn for help.
+875,Glenn Hodges,2023-11-30,18.89,New Caller,High,Resource Referral,Ongoing Treatment,Counseling,Caller feels unsupported by family and is unsure where to turn for help.
+876,Pamela Sparks,2024-08-05,39.59,New Caller,High,Resource Referral,Ongoing Treatment,Peer Support Group,Caller has been feeling anxious about the future and uncertain about next steps.
+877,Lauren Franklin,2024-06-18,59.4,Repeat Caller,Moderate,Resource Referral,None,Peer Support Group,Caller reported mood swings and trouble controlling outbursts in social settings.
+878,Jamie Reed,2024-08-13,35.15,Repeat Caller,Low,Resource Referral,None,Peer Support Group,Caller is experiencing social anxiety and avoids interactions with friends or family.
+879,John Stuart,2024-03-04,10.37,New Caller,Moderate,Resource Referral,Ongoing Treatment,Crisis Intervention,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+880,Zachary Bridges,2023-12-26,45.8,Repeat Caller,High,Immediate Intervention,Ongoing Treatment,Crisis Intervention,Caller feels unsupported by family and is unsure where to turn for help.
+881,Scott Garcia,2024-08-13,54.24,Repeat Caller,Moderate,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller reported overwhelming feelings of guilt and shame about past actions.
+882,James Flores,2023-12-08,20.77,Repeat Caller,Moderate,Emotional Support,None,Medication Referral,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+883,Collin Hall,2024-03-23,52.45,New Caller,High,Follow-Up Support,Ongoing Treatment,Crisis Intervention,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+884,Regina Spencer,2024-01-29,29.78,Repeat Caller,Low,Emotional Support,None,Medication Referral,"Caller mentioned physical symptoms related to anxiety, like shortness of breath."
+885,Evelyn Sanchez,2024-04-10,39.08,New Caller,Low,Resource Referral,None,Crisis Intervention,Caller reported feeling out of control and unable to manage emotional triggers.
+886,Parker Jones,2023-11-30,20.21,New Caller,High,Resource Referral,Prior Diagnosis,Peer Support Group,Caller has been feeling anxious about the future and uncertain about next steps.
+887,Kara Rodriguez,2024-07-15,21.13,New Caller,Moderate,Immediate Intervention,Prior Diagnosis,Medication Referral,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+888,Joseph Ramos DDS,2024-08-16,13.22,New Caller,Critical,Immediate Intervention,Ongoing Treatment,Counseling,Caller is having difficulty adjusting to major life changes and feels overwhelmed.
+889,Jeffrey Martinez,2023-11-16,17.11,New Caller,Critical,Resource Referral,None,Peer Support Group,Caller feels overwhelmed with schoolwork and is unsure of how to manage stress.
+890,Mark Walker,2024-03-20,58.2,Repeat Caller,Critical,Immediate Intervention,Ongoing Treatment,Peer Support Group,Caller mentioned feeling like they don’t belong and struggling with identity issues.
+891,Mackenzie Goodman,2024-02-12,57.46,Repeat Caller,Low,Emotional Support,None,Counseling,Caller has been feeling anxious about the future and uncertain about next steps.
+892,Lynn Miller,2024-08-31,14.85,Repeat Caller,Low,Emotional Support,None,Peer Support Group,Caller expressed concerns about their mental health and confusion about next steps.
+893,Desiree Miranda,2024-03-06,51.01,New Caller,High,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+894,Jeffrey Harper,2024-03-06,48.79,New Caller,Low,Immediate Intervention,Ongoing Treatment,Peer Support Group,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+895,David Alexander,2023-11-20,13.36,Repeat Caller,Low,Follow-Up Support,None,Crisis Intervention,Caller expressed difficulty coping with family pressures and expectations.
+896,Elizabeth Gutierrez,2024-08-04,41.18,Repeat Caller,Low,Resource Referral,None,Counseling,Caller mentioned ongoing nightmares and difficulty sleeping due to past trauma.
+897,Sylvia Williams,2024-09-17,47.96,New Caller,High,Resource Referral,Ongoing Treatment,Peer Support Group,Caller is worried about their health and experiencing symptoms of health anxiety.
+898,Richard Caldwell,2024-04-15,16.84,Repeat Caller,Moderate,Emotional Support,Ongoing Treatment,Peer Support Group,Caller is worried about the impact of their mental health on their family members.
+899,Gerald Elliott,2024-02-16,25.58,Repeat Caller,Low,Resource Referral,None,Peer Support Group,Caller reported overwhelming feelings of guilt and shame about past actions.
+900,Anthony Lopez,2024-06-04,8.29,Repeat Caller,Critical,Emotional Support,Prior Diagnosis,Counseling,Caller feels unsupported by family and is unsure where to turn for help.
+901,Christina Acosta,2024-07-02,53.15,New Caller,High,Immediate Intervention,None,Crisis Intervention,Caller expressed concerns about managing time and work-life balance.
+902,Shawna Williams,2024-04-28,31.34,Repeat Caller,High,Resource Referral,Prior Diagnosis,Medication Referral,Caller mentioned having financial struggles which are impacting their mental health.
+903,Bryan Bailey,2024-06-11,12.27,New Caller,Critical,Resource Referral,Ongoing Treatment,Counseling,Caller shared that they have been feeling numb and disconnected from others.
+904,Shannon Vargas,2024-01-14,34.79,New Caller,Critical,Resource Referral,Prior Diagnosis,Peer Support Group,Caller has been feeling anxious about the future and uncertain about next steps.
+905,Kenneth Caldwell,2024-07-27,59.45,New Caller,High,Resource Referral,None,Medication Referral,Caller feels they lack a sense of purpose and often wonder why they feel this way.
+906,Joseph White,2024-06-17,55.44,Repeat Caller,Moderate,Emotional Support,None,Counseling,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+907,Heather Ortega,2024-05-23,49.1,Repeat Caller,High,Follow-Up Support,Prior Diagnosis,Counseling,Caller expressed concerns about their mental health and confusion about next steps.
+908,Beverly Young,2024-10-11,52.99,New Caller,High,Resource Referral,Ongoing Treatment,Peer Support Group,Caller feels isolated as a new parent and is seeking resources for support.
+909,Edward Martinez,2023-12-06,43.22,New Caller,Low,Resource Referral,Ongoing Treatment,Crisis Intervention,Caller feels they lack a sense of purpose and often wonder why they feel this way.
+910,Steven Pearson,2024-09-23,29.63,New Caller,Critical,Immediate Intervention,Ongoing Treatment,Counseling,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+911,Zachary Campbell,2024-05-04,13.8,Repeat Caller,Critical,Resource Referral,None,Counseling,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+912,Jacqueline Cole,2024-03-20,42.97,New Caller,Critical,Emotional Support,Ongoing Treatment,Counseling,Caller is having difficulty adjusting to major life changes and feels overwhelmed.
+913,David Clay,2023-12-20,56.78,New Caller,Low,Follow-Up Support,Prior Diagnosis,Peer Support Group,Caller is seeking guidance on managing anger issues affecting their relationships.
+914,Peter Johnson,2024-02-10,5.4,Repeat Caller,Critical,Immediate Intervention,None,Medication Referral,Caller is having difficulty adjusting to major life changes and feels overwhelmed.
+915,Whitney Boone,2024-03-08,6.21,Repeat Caller,Moderate,Follow-Up Support,None,Counseling,Caller mentioned experiencing frequent panic attacks and sleep disturbances.
+916,Joshua Castro,2024-09-18,30.69,Repeat Caller,High,Follow-Up Support,None,Crisis Intervention,Caller mentioned experiencing intense social isolation and lack of close friends.
+917,Tracy Miles,2024-03-18,34.29,Repeat Caller,High,Resource Referral,None,Peer Support Group,Caller recently lost a loved one and is struggling with grief and sadness.
+918,Bryce Carroll,2024-05-31,14.84,New Caller,Critical,Follow-Up Support,None,Crisis Intervention,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+919,Robert Cabrera,2024-03-12,8.16,New Caller,High,Follow-Up Support,Ongoing Treatment,Medication Referral,Caller is worried about their health and experiencing symptoms of health anxiety.
+920,Tracy Johnson,2023-12-18,21.98,New Caller,Moderate,Emotional Support,Prior Diagnosis,Medication Referral,Caller is worried about the impact of their mental health on their family members.
+921,Leah Martinez,2024-05-01,10.74,Repeat Caller,Moderate,Follow-Up Support,None,Crisis Intervention,Caller reported feeling fatigued and unable to enjoy activities they once loved.
+922,Connor Bailey,2024-09-06,15.38,New Caller,Moderate,Immediate Intervention,Ongoing Treatment,Peer Support Group,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+923,Patricia Kane,2024-06-19,34.84,New Caller,Moderate,Immediate Intervention,Ongoing Treatment,Crisis Intervention,Caller reported feeling trapped in their current situation with no way out.
+924,Wayne King,2024-07-08,36.12,Repeat Caller,High,Immediate Intervention,None,Peer Support Group,Caller reported feeling trapped in their current situation with no way out.
+925,Kyle Romero,2024-09-14,52.19,New Caller,High,Emotional Support,Ongoing Treatment,Counseling,Caller is worried about the impact of their mental health on their family members.
+926,Sara Santos,2024-01-02,40.76,Repeat Caller,Moderate,Immediate Intervention,Prior Diagnosis,Crisis Intervention,Caller feels isolated as a new parent and is seeking resources for support.
+927,Andrea Wyatt,2024-01-31,22.43,New Caller,Moderate,Immediate Intervention,Ongoing Treatment,Counseling,"Caller reported constant worry and inability to relax, affecting daily functioning."
+928,John James,2024-05-12,45.4,Repeat Caller,Low,Emotional Support,Prior Diagnosis,Medication Referral,Caller feels unsupported by family and is unsure where to turn for help.
+929,Pedro Ochoa,2024-08-24,37.4,New Caller,Moderate,Resource Referral,Prior Diagnosis,Crisis Intervention,Caller mentioned feeling like they don’t belong and struggling with identity issues.
+930,Lisa Wright,2024-06-26,49.27,Repeat Caller,Critical,Follow-Up Support,Ongoing Treatment,Counseling,Caller expressed frustration with the mental health care system and long wait times.
+931,Paul Oliver,2024-02-07,31.54,New Caller,High,Resource Referral,Ongoing Treatment,Crisis Intervention,Caller is worried about their health and experiencing symptoms of health anxiety.
+932,Cory English,2024-04-15,50.98,New Caller,High,Immediate Intervention,None,Peer Support Group,Caller expressed difficulty coping with family pressures and expectations.
+933,Gloria Gonzalez,2024-05-23,22.7,New Caller,High,Emotional Support,Ongoing Treatment,Crisis Intervention,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+934,Jason Nolan,2023-11-16,30.44,Repeat Caller,High,Immediate Intervention,None,Peer Support Group,Caller mentioned struggling with chronic illness and feeling worn out emotionally.
+935,Anna Garrison,2023-11-22,15.9,Repeat Caller,Moderate,Emotional Support,Ongoing Treatment,Medication Referral,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+936,Paul Lin,2024-10-03,46.51,New Caller,Critical,Emotional Support,None,Counseling,Caller shared that they often feel like a burden to others and prefer isolation.
+937,Dawn Acosta,2023-11-24,30.04,New Caller,Moderate,Follow-Up Support,Ongoing Treatment,Medication Referral,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+938,Mrs. Taylor Smith DDS,2024-06-09,42.6,Repeat Caller,Moderate,Emotional Support,Ongoing Treatment,Crisis Intervention,Caller is having difficulty adjusting to major life changes and feels overwhelmed.
+939,Micheal Gray,2024-05-25,51.66,Repeat Caller,Critical,Emotional Support,Ongoing Treatment,Peer Support Group,Caller feels unsupported by family and is unsure where to turn for help.
+940,Robert Fuller,2024-01-07,33.27,New Caller,Low,Resource Referral,None,Peer Support Group,Caller reported feeling out of control and unable to manage emotional triggers.
+941,Justin Stanley,2023-11-12,13.95,New Caller,Critical,Follow-Up Support,Ongoing Treatment,Medication Referral,Caller reported thoughts of self-harm but no immediate plans or intent.
+942,Charles Giles,2024-05-24,52.3,Repeat Caller,Critical,Emotional Support,Ongoing Treatment,Crisis Intervention,Caller mentioned struggling with chronic illness and feeling worn out emotionally.
+943,Vanessa Santos,2024-05-02,51.77,New Caller,Moderate,Follow-Up Support,Ongoing Treatment,Counseling,Caller recently lost a loved one and is struggling with grief and sadness.
+944,Eric Elliott,2024-07-28,30.32,New Caller,Critical,Resource Referral,None,Crisis Intervention,Caller mentioned experiencing intense social isolation and lack of close friends.
+945,Emily Burnett,2024-06-01,31.25,New Caller,Low,Immediate Intervention,None,Counseling,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+946,Anita Blevins,2024-07-14,20.6,Repeat Caller,Critical,Follow-Up Support,Prior Diagnosis,Crisis Intervention,Caller shared that they have been feeling numb and disconnected from others.
+947,William Compton,2023-12-13,9.45,New Caller,Moderate,Resource Referral,Prior Diagnosis,Crisis Intervention,Caller expressed doubt about their abilities and feels stuck in a career rut.
+948,Mr. Darren Ballard,2024-01-18,9.12,New Caller,Low,Resource Referral,Ongoing Treatment,Crisis Intervention,Caller recently lost a loved one and is struggling with grief and sadness.
+949,Amanda Martin,2024-07-15,53.08,Repeat Caller,Low,Emotional Support,Prior Diagnosis,Counseling,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+950,Geoffrey Ramirez,2024-03-13,34.68,New Caller,Low,Emotional Support,Prior Diagnosis,Peer Support Group,Caller expressed fear of being judged for their mental health struggles.
+951,Marcus Olson,2024-10-07,44.49,Repeat Caller,Moderate,Immediate Intervention,Ongoing Treatment,Crisis Intervention,Caller reported ongoing feelings of worthlessness and inability to see a positive future.
+952,Ruth Hamilton,2024-10-11,16.02,New Caller,Low,Immediate Intervention,Prior Diagnosis,Counseling,Caller shared that they are struggling with low self-worth and negative self-talk.
+953,Jonathan Alvarado DDS,2024-06-05,28.47,Repeat Caller,Low,Emotional Support,Ongoing Treatment,Medication Referral,Caller expressed fear of being judged for their mental health struggles.
+954,Christopher Anderson,2023-11-17,42.61,Repeat Caller,High,Emotional Support,None,Peer Support Group,Caller feels unsupported by family and is unsure where to turn for help.
+955,Mrs. Carol Rosales DVM,2024-07-27,40.57,New Caller,Moderate,Resource Referral,None,Counseling,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+956,Gregory Michael,2023-11-10,46.41,Repeat Caller,High,Emotional Support,None,Counseling,Caller reported feeling out of control and unable to manage emotional triggers.
+957,Kimberly Young,2024-02-07,27.68,New Caller,Critical,Emotional Support,Ongoing Treatment,Counseling,Caller is worried about their health and experiencing symptoms of health anxiety.
+958,Jasmine Porter DDS,2024-02-22,40.86,Repeat Caller,High,Emotional Support,Ongoing Treatment,Peer Support Group,Caller shared that they often feel like a burden to others and prefer isolation.
+959,Sarah Lopez,2024-10-05,55.43,Repeat Caller,Low,Resource Referral,None,Counseling,Caller reported feeling trapped in their current situation with no way out.
+960,Michael Wood,2023-12-27,6.76,Repeat Caller,High,Resource Referral,Ongoing Treatment,Crisis Intervention,Caller reported mood swings and trouble controlling outbursts in social settings.
+961,Deborah Herrera,2024-07-09,57.31,New Caller,Low,Follow-Up Support,Prior Diagnosis,Counseling,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+962,Rachel Perez,2024-10-16,29.72,Repeat Caller,Critical,Immediate Intervention,Ongoing Treatment,Crisis Intervention,"Caller reported constant worry and inability to relax, affecting daily functioning."
+963,Jamie Patterson,2024-03-03,42.76,Repeat Caller,Low,Follow-Up Support,None,Crisis Intervention,Caller expressed concerns about their mental health and confusion about next steps.
+964,Christine Casey,2024-10-21,10.01,Repeat Caller,Moderate,Resource Referral,Prior Diagnosis,Peer Support Group,Caller is fearful of going outside due to recent traumatic experience in public space.
+965,Desiree Morrow MD,2024-01-11,58.38,New Caller,Moderate,Immediate Intervention,Prior Diagnosis,Crisis Intervention,Caller reported mood swings and trouble controlling outbursts in social settings.
+966,William Barr,2023-11-23,39.74,New Caller,High,Resource Referral,Ongoing Treatment,Counseling,Caller reported feeling out of control and unable to manage emotional triggers.
+967,Jeremy Erickson,2023-11-12,55.32,New Caller,High,Resource Referral,Ongoing Treatment,Peer Support Group,Caller is experiencing relationship issues and feeling misunderstood by partner.
+968,Bryan Brown,2024-01-18,6.79,New Caller,Critical,Immediate Intervention,Ongoing Treatment,Peer Support Group,Caller is experiencing relationship issues and feeling misunderstood by partner.
+969,Ethan Snow,2024-03-10,59.7,Repeat Caller,Critical,Follow-Up Support,None,Crisis Intervention,Caller reported feeling isolated and anxious due to recent job loss.
+970,Jason Goodwin,2024-09-15,6.26,New Caller,Moderate,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller mentioned a recent increase in substance use to cope with stress and anxiety.
+971,Stephanie Perez,2024-08-31,19.91,Repeat Caller,Moderate,Resource Referral,None,Crisis Intervention,Caller is having difficulty adjusting to major life changes and feels overwhelmed.
+972,Sandy Schaefer,2024-09-07,21.43,Repeat Caller,Moderate,Follow-Up Support,Prior Diagnosis,Medication Referral,Caller mentioned struggling with chronic illness and feeling worn out emotionally.
+973,Michael Bishop,2024-08-31,10.38,Repeat Caller,Critical,Emotional Support,None,Medication Referral,Caller mentioned having financial struggles which are impacting their mental health.
+974,Richard Thomas,2024-04-19,40.34,Repeat Caller,Critical,Resource Referral,None,Medication Referral,Caller mentioned feeling unsafe in their living environment and is seeking advice.
+975,Michele Garza,2024-08-22,29.85,Repeat Caller,High,Immediate Intervention,Ongoing Treatment,Counseling,"Caller mentioned physical symptoms related to anxiety, like shortness of breath."
+976,Sheena Choi,2023-12-07,8.9,New Caller,Low,Emotional Support,Prior Diagnosis,Crisis Intervention,Caller feels they lack a sense of purpose and often wonder why they feel this way.
+977,Candace Drake PhD,2024-01-08,11.28,New Caller,Moderate,Follow-Up Support,Prior Diagnosis,Peer Support Group,Caller mentioned feeling like they don’t belong and struggling with identity issues.
+978,Taylor Lynch,2024-08-21,8.64,New Caller,Critical,Emotional Support,Ongoing Treatment,Peer Support Group,"Caller expressed gratitude for having someone to listen, but still feels uncertain."
+979,Renee Long,2024-10-23,7.87,New Caller,Low,Emotional Support,Prior Diagnosis,Counseling,Caller reported feeling isolated and anxious due to recent job loss.
+980,William Brown,2024-01-09,47.91,Repeat Caller,Moderate,Immediate Intervention,Prior Diagnosis,Counseling,"Caller reported constant worry and inability to relax, affecting daily functioning."
+981,Jennifer Johnson,2024-02-29,40.52,New Caller,Low,Immediate Intervention,Ongoing Treatment,Peer Support Group,Caller feels unsupported by family and is unsure where to turn for help.
+982,Barbara Williams,2024-02-28,55.21,Repeat Caller,High,Immediate Intervention,None,Crisis Intervention,Caller reported feeling exhausted from caring for a family member and needs support.
+983,Jeffrey Nelson,2024-04-08,52.09,New Caller,Low,Immediate Intervention,Ongoing Treatment,Peer Support Group,Caller mentioned feeling like they don’t belong and struggling with identity issues.
+984,Thomas Harmon,2024-10-30,36.35,New Caller,Low,Emotional Support,Ongoing Treatment,Peer Support Group,Caller mentioned ongoing nightmares and difficulty sleeping due to past trauma.
+985,Mitchell Ramirez,2024-10-19,43.54,Repeat Caller,Low,Emotional Support,Prior Diagnosis,Crisis Intervention,Caller shared that they have been feeling numb and disconnected from others.
+986,Stacy Townsend,2024-09-29,38.95,Repeat Caller,Moderate,Resource Referral,Ongoing Treatment,Medication Referral,Caller expressed frustration with the mental health care system and long wait times.
+987,Thomas Ramsey,2024-05-10,48.26,New Caller,Moderate,Resource Referral,Prior Diagnosis,Peer Support Group,Caller mentioned feeling like they don’t belong and struggling with identity issues.
+988,Christopher Bates,2024-02-27,54.25,New Caller,High,Follow-Up Support,Prior Diagnosis,Peer Support Group,Caller reported mood swings and trouble controlling outbursts in social settings.
+989,Kayla Harris,2024-03-22,5.36,Repeat Caller,Low,Resource Referral,Ongoing Treatment,Peer Support Group,Caller is worried about their health and experiencing symptoms of health anxiety.
+990,Brendan Noble,2023-12-11,6.39,Repeat Caller,Low,Resource Referral,Prior Diagnosis,Crisis Intervention,Caller mentioned feeling like they don’t belong and struggling with identity issues.
+991,William Arroyo,2024-05-27,59.81,New Caller,Low,Emotional Support,Prior Diagnosis,Medication Referral,"Caller reported constant worry and inability to relax, affecting daily functioning."
+992,Joe Brown,2023-12-27,25.52,New Caller,Moderate,Resource Referral,None,Peer Support Group,Caller expressed difficulty coping with family pressures and expectations.
+993,Nicholas Reeves,2024-03-18,45.49,New Caller,Moderate,Follow-Up Support,Ongoing Treatment,Crisis Intervention,Caller expressed feelings of hopelessness and low energy levels for several weeks.
+994,Michael Dixon,2024-03-01,8.15,New Caller,Moderate,Immediate Intervention,Prior Diagnosis,Crisis Intervention,Caller mentioned having financial struggles which are impacting their mental health.
+995,Paul Mitchell,2024-10-20,42.34,Repeat Caller,High,Follow-Up Support,Ongoing Treatment,Peer Support Group,Caller is worried about their health and experiencing symptoms of health anxiety.
+996,Eric Short,2024-10-06,22.09,New Caller,Moderate,Immediate Intervention,Ongoing Treatment,Medication Referral,Caller shared that they have been feeling numb and disconnected from others.
+997,Kristy Kim,2023-12-18,43.87,Repeat Caller,High,Resource Referral,Prior Diagnosis,Counseling,Caller recently lost a loved one and is struggling with grief and sadness.
+998,Nicholas Romero,2024-08-02,5.78,New Caller,Critical,Emotional Support,Ongoing Treatment,Medication Referral,Caller feels overwhelmed with schoolwork and is unsure of how to manage stress.
+999,Carl Randolph,2024-10-13,37.14,New Caller,High,Follow-Up Support,Prior Diagnosis,Peer Support Group,Caller feels overwhelmed with schoolwork and is unsure of how to manage stress.

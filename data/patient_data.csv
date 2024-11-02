@@ -1,0 +1,1001 @@
+patient_id,name,address,phone_number,age,race,gender,insurance,smoking,physical_activity,alcohol,support_system
+0,Michele Fisher,"54673 John Wells Suite 867, Matthewbury, ID 50179",(278)378-0800x367,35,Asian,Female,Government,Never Smoked,Moderately Active,Heavy,Poor
+1,Kathryn Allen,"011 Daniel Circle Suite 528, Port Matthewmouth, ND 86875",001-232-670-5841x764,70,White,Female,Government,Former Smoker,Slightly Active,Heavy,Fair
+2,Jeffrey Vaughn,"66239 Travis Hollow, Gravesmouth, GA 84666",+1-410-489-6448x68788,27,White,Female,Commercial,Never Smoked,Moderately Active,Moderate,Poor
+3,Mary Lee,"Unit 1126 Box 7374, DPO AE 73761",311-403-8673,30,White,Male,Other,Current Smoker,Very Active,Moderate,Poor
+4,Marissa Rush,"2102 Laura Via Suite 529, Port Mitchellville, OH 53639",793-401-9194x7204,56,Asian,Female,Commercial,Former Smoker,Sedentary,Occasional,Poor
+5,Victoria Johnson,"67058 Miller Valleys, North Heidi, AS 74499",+1-747-253-1418x897,77,White,Male,Government,Former Smoker,Slightly Active,Occasional,Fair
+6,Craig Ramirez,"691 Jessica Ridges, Clarkstad, NJ 20879",+1-526-697-2112x21083,41,Asian,Female,Uninsured,Never Smoked,Sedentary,Moderate,Fair
+7,Kayla Hale,"270 Amanda Village Suite 666, Port Williamburgh, GU 68410",5139488029,92,White,Male,Uninsured,Current Smoker,Sedentary,Moderate,Excellent
+8,Matthew Mendez,"086 Crystal Expressway, Melissaland, SC 28044",289-526-7791x345,97,Hispanic,Male,Uninsured,Former Smoker,Sedentary,None,Fair
+9,Elizabeth Taylor,"0893 Lawrence Orchard, Kimberlymouth, OH 07264",682-468-4119x1759,32,Asian,Female,Uninsured,Never Smoked,Sedentary,Moderate,Fair
+10,Eric Maldonado,"90258 Brandon Meadows Suite 959, Charlesmouth, GU 62054",001-769-818-9489x392,47,Asian,Male,Commercial,Current Smoker,Moderately Active,None,Fair
+11,Melanie Rodriguez,"2298 Emily Mews Suite 948, Pamport, DC 11168",422-748-1208x215,59,White,Non-Binary,Government,Former Smoker,Slightly Active,Moderate,Poor
+12,Phyllis Reeves,"481 Adams Ramp Suite 340, South Tammy, PW 06161",001-431-736-7969,81,Biracial,Female,Uninsured,Current Smoker,Sedentary,None,Fair
+13,Robert Sims,"335 Gregory Turnpike Apt. 860, Hollandshire, NC 00991",285.698.9487,9,Asian,Female,Commercial,Never Smoked,Sedentary,Occasional,Poor
+14,Jonathan Horton,"9542 Gregory Trail, Port Davidview, NM 23589",+1-237-547-6148,81,White,Male,Uninsured,Never Smoked,Sedentary,Occasional,Excellent
+15,Christine Smith,"95443 Stuart Common Apt. 568, Blevinsfurt, DC 95733",4184074062,57,Hispanic,Male,Uninsured,Former Smoker,Slightly Active,Occasional,Fair
+16,Rebecca Jackson,"4825 Ramos Way, Port Michaelville, TX 88429",001-963-840-2775x99825,100,White,Male,Private,Former Smoker,Sedentary,Occasional,Poor
+17,Eric Harris,"36012 Ross Plaza, South Miranda, TN 61367",886.283.8417x489,90,Asian,Male,Uninsured,Never Smoked,Sedentary,Occasional,Fair
+18,Natalie Anderson,"PSC 1843, Box 8455, APO AP 25765",001-302-617-3032x31352,100,White,Male,Private,Never Smoked,Sedentary,None,Poor
+19,Samantha Williams,"49637 Elizabeth Landing, South Robertmouth, AZ 23447",001-957-692-7904x35680,31,Asian,Male,Government,Never Smoked,Moderately Active,Occasional,Fair
+20,Andrea Ritter,"15704 Lucero Lock Suite 281, Davidtown, MI 04216",212.461.1742x1768,72,White,Female,Uninsured,Never Smoked,Slightly Active,Occasional,Good
+21,Ricky Arroyo,"723 Nichols Hills, Snowfort, OH 59509",001-426-417-2143x887,59,White,Non-Binary,Uninsured,Current Smoker,Sedentary,Heavy,Fair
+22,Jimmy Hill,"26390 Osborne Hill, Andrewfort, IA 97504",350-526-4493x637,1,Asian,Male,Government,Never Smoked,Sedentary,Moderate,Fair
+23,Andre Gordon,"2707 Payne Ports Apt. 803, Mayfurt, WV 17266",356-752-1907x74850,25,Asian,Female,Uninsured,Former Smoker,Moderately Active,Moderate,Poor
+24,Alfred Ford,"347 Robin Ridge Suite 745, Port Jennifershire, DC 20588",+1-927-878-7357x1315,23,Asian,Female,Other,Current Smoker,Sedentary,Heavy,Excellent
+25,Charles Jackson,"0332 Riggs Wells Suite 675, Sueville, MA 18816",+1-532-518-1501x0924,40,Asian,Male,Government,Never Smoked,Sedentary,Occasional,Good
+26,Cassandra Johnson,"009 Danielle Valley, West Michaelstad, HI 72587",(642)982-6593,97,Asian,Male,Uninsured,Current Smoker,Slightly Active,Heavy,Excellent
+27,Ashley Edwards,"Unit 1697 Box 4942, DPO AE 73063",+1-664-987-2768x865,4,Biracial,Male,Private,Current Smoker,Sedentary,Heavy,Excellent
+28,Donald Hill,"Unit 8739 Box 5744, DPO AA 11944",(775)706-7284,45,Black,Male,Commercial,Never Smoked,Moderately Active,Occasional,Poor
+29,Donald Dixon,"97431 Romero Islands Suite 054, Amandaland, WV 67966",(840)311-5224x26007,26,White,Male,Uninsured,Never Smoked,Very Active,Moderate,Good
+30,Kimberly Mccarthy,"113 Joann Flats, New Brooke, SD 81480",+1-232-857-4982x4349,65,Native American or Alaskan Native,Male,Government,Never Smoked,Slightly Active,Moderate,Fair
+31,Jeremy Silva,"859 Henderson Gateway, West Nicole, WV 32809",920.608.1551x8544,67,Hispanic,Male,Uninsured,Current Smoker,Sedentary,None,Fair
+32,Jodi Clark,"8839 Stevens Center Apt. 567, South Jacqueline, CA 93544",8774413937,68,Asian,Non-Binary,Commercial,Former Smoker,Moderately Active,Moderate,Fair
+33,Rhonda Blake,"8417 Allen Mountain Suite 451, Butlerland, CO 51897",626.412.0389,94,White,Male,Commercial,Current Smoker,Sedentary,Moderate,Good
+34,Karen Leonard,"33851 Jacob Plains Apt. 221, Michaelborough, PA 76207",806.814.0668x2123,22,White,Female,Uninsured,Never Smoked,Slightly Active,Moderate,Poor
+35,Gregory Mcdonald,"986 Jonathan Mountain Suite 234, Singhshire, DC 60956",001-428-422-7522x651,86,Asian,Female,Uninsured,Former Smoker,Slightly Active,Occasional,Good
+36,Cindy Gross,"1289 Gray Bypass, Angelafurt, GA 43028",+1-515-990-2746x1309,24,White,Male,Uninsured,Current Smoker,Sedentary,None,Fair
+37,Charles Smith,"384 Leslie Dam, Lake Jessica, OH 95712",+1-869-522-3072x3009,39,White,Female,Uninsured,Former Smoker,Sedentary,Occasional,Fair
+38,Shannon Young,"4810 Andrew Stravenue, Velasquezberg, OK 34196",001-899-326-7787x0206,13,Asian,Non-Binary,Uninsured,Current Smoker,Sedentary,Heavy,Fair
+39,Amy Sanford,"6868 Schmidt Gardens Suite 424, North Williambury, HI 78825",481-618-4402x4121,75,Black,Male,Government,Former Smoker,Slightly Active,Occasional,Fair
+40,Tracey Jefferson,"USNS Garrison, FPO AE 31569",001-753-282-8296x08218,79,White,Female,Government,Former Smoker,Sedentary,Occasional,Fair
+41,Michael Proctor,"57610 David Harbor, Charlesstad, AR 08081",001-268-546-2481,9,Hispanic,Female,Uninsured,Current Smoker,Sedentary,Heavy,Fair
+42,Kenneth Nelson,"7253 Tammy Meadow, Lake Carla, NC 90474",+1-315-596-1960,17,Hispanic,Male,Government,Current Smoker,Sedentary,Moderate,Poor
+43,Alec Snyder,"763 Perry Divide, Leeside, NV 53868",(296)678-0364x332,74,Biracial,Male,Commercial,Current Smoker,Very Active,Moderate,Good
+44,Stephen Moss,"466 Mitchell Cliff Suite 937, Francisview, GU 74335",853.789.1485x76426,37,Hispanic,Male,Government,Never Smoked,Sedentary,Heavy,Fair
+45,Stephanie Brown,"42848 Maldonado Way Apt. 533, New Troy, NE 46611",+1-558-931-9994x78953,17,White,Female,Government,Current Smoker,Very Active,Occasional,Fair
+46,Julie Simon,"2442 Mckay Mill, West Desireeland, ME 82891",001-532-427-6110x9504,56,Hispanic,Male,Government,Current Smoker,Sedentary,Moderate,Fair
+47,Amy Hudson,"7934 Perry Haven, North Ericville, NV 29759",406-475-0535,22,Hispanic,Female,Uninsured,Never Smoked,Very Active,Occasional,Fair
+48,David Stein,"1698 Scott Walk Suite 142, North Lindsay, SD 43339",(475)580-9173,78,Asian,Male,Uninsured,Current Smoker,Sedentary,Occasional,Good
+49,Donna Branch,"Unit 5218 Box 2178, DPO AP 69230",+1-291-587-0540x75812,42,White,Male,Uninsured,Never Smoked,Very Active,Occasional,Fair
+50,Dr. Michael Strong MD,"81451 Ramirez Extension Suite 255, North Cynthiastad, MN 72880",678.719.6160,21,White,Male,Uninsured,Current Smoker,Sedentary,Occasional,Excellent
+51,Mrs. Candice Martinez,"64727 Jones Gardens Apt. 382, Joanntown, TN 55535",001-398-309-8339x101,20,Asian,Male,Uninsured,Current Smoker,Sedentary,Occasional,Poor
+52,Samantha Carrillo,"USCGC Newman, FPO AE 73474",001-211-793-4799x288,13,White,Non-Binary,Commercial,Never Smoked,Sedentary,None,Poor
+53,Marissa Montoya,"3299 Ashley Hill Suite 505, South Patriciaville, OR 45732",001-830-284-1391x466,43,Black,Male,Commercial,Former Smoker,Sedentary,Occasional,Excellent
+54,Maria Ward,"365 Smith Walk Suite 183, Justinmouth, SD 67373",6537642872,67,Asian,Male,Commercial,Never Smoked,Slightly Active,Moderate,Poor
+55,Carla Phillips,"796 Russell Fords Apt. 213, Lynchfort, UT 02422",+1-446-458-2542x9489,98,White,Female,Commercial,Never Smoked,Very Active,Heavy,Poor
+56,Kevin Davis,"USCGC Price, FPO AE 93445",234-456-5754x56643,40,Hispanic,Female,Uninsured,Never Smoked,Sedentary,Moderate,Fair
+57,Joshua Barr,"637 Jose Track, Port Mariahmouth, MO 29662",241-663-3397x8611,91,Hispanic,Female,Government,Current Smoker,Slightly Active,Heavy,Poor
+58,Justin Johnson,"08720 Mary Garden Suite 831, Brandonburgh, MN 17909",(735)759-1216,60,White,Female,Uninsured,Never Smoked,Moderately Active,Occasional,Fair
+59,David Smith,"Unit 2105 Box 3996, DPO AE 26322",4059887830,92,Asian,Female,Government,Former Smoker,Sedentary,Heavy,Excellent
+60,Carol Maxwell,"4503 Johnson Highway, North Taylorberg, AK 67123",692-860-3684,37,White,Female,Uninsured,Former Smoker,Sedentary,Heavy,Fair
+61,Teresa Bishop,"680 Bowers Station Apt. 421, New Valerie, AS 59649",001-629-997-7084x9758,65,Asian,Male,Government,Current Smoker,Sedentary,Moderate,Fair
+62,Robin Burns,"USNS Hebert, FPO AE 91144",252.762.3809x1521,87,Biracial,Female,Other,Current Smoker,Moderately Active,None,Fair
+63,Sandra Green,"4498 Hicks Trail, West Ashley, MP 24861",001-530-566-5087x85095,17,White,Female,Uninsured,Current Smoker,Sedentary,None,Fair
+64,Frances Richardson,"36054 Reyes Springs Suite 435, South Williamfort, ND 99000",6016213569,18,Other,Male,Uninsured,Former Smoker,Sedentary,Occasional,Poor
+65,Amber Johnson,"5228 Estrada Estate Suite 205, Kingview, PW 63811",(860)315-1960,40,Asian,Male,Uninsured,Never Smoked,Sedentary,Heavy,Fair
+66,Laura Hunter,"020 Austin Turnpike, Leeborough, SD 61085",8412985036,34,Asian,Male,Uninsured,Never Smoked,Slightly Active,Moderate,Excellent
+67,Jasmine Mckenzie,"49183 Williams Shores, South John, PR 91099",744-398-5962x10259,83,Asian,Other,Commercial,Current Smoker,Moderately Active,Occasional,Poor
+68,Cathy Young,"PSC 5279, Box 5996, APO AE 68411",+1-206-614-3375x3746,26,Asian,Female,Uninsured,Current Smoker,Sedentary,Moderate,Fair
+69,Shaun Rodriguez,"387 Collier Divide, Austinborough, MN 24226",4246537229,61,White,Non-Binary,Government,Current Smoker,Slightly Active,Heavy,Fair
+70,Krystal Hartman,"47358 Jillian Corner Suite 345, Hartmanchester, MD 28732",(674)900-4909x266,26,Other,Male,Uninsured,Former Smoker,Sedentary,None,Good
+71,Gregory Conley,"787 James Station, North Laurieview, AR 86161",727.447.2382x95258,57,White,Female,Government,Current Smoker,Sedentary,None,Excellent
+72,Carolyn Schroeder,"00004 Steven Viaduct Suite 800, Jacksonstad, VA 70260",5453464660,48,Asian,Male,Commercial,Former Smoker,Slightly Active,Occasional,Fair
+73,Mason Jensen,"08402 Wood Alley Apt. 790, Sarahview, NH 59948",523.766.3933x27847,27,Asian,Male,Government,Former Smoker,Sedentary,Moderate,Fair
+74,Karen Smith,"371 Julie Parkway, Jenniferland, SC 55498",239.366.0655,43,Asian,Male,Commercial,Current Smoker,Slightly Active,Occasional,Poor
+75,Kevin Brown,"159 Julia Spurs Suite 506, North Jeanne, IL 27649",390-564-2553x63429,97,Asian,Female,Other,Current Smoker,Sedentary,Moderate,Fair
+76,Lisa Friedman,"17985 Bradley Meadow Apt. 975, Kevinport, LA 14117",(340)504-9389,40,Asian,Male,Uninsured,Current Smoker,Sedentary,Occasional,Poor
+77,Anthony Duncan,"01755 Mosley Points Apt. 053, Andresland, NC 91600",+1-474-267-6750,2,White,Female,Commercial,Former Smoker,Very Active,Heavy,Excellent
+78,Patrick Malone,"66381 Wang Ferry, Lake Katieborough, CT 88574",(995)760-9523,31,Asian,Male,Government,Current Smoker,Sedentary,Occasional,Fair
+79,Steve Miller,"58083 Scott Dam, Robinsontown, SD 73028",(546)253-4752x12082,19,Hispanic,Male,Government,Never Smoked,Very Active,Occasional,Excellent
+80,Jonathan Thompson,"2477 Michael Shores, Shaneberg, WA 55631",673-501-6743x414,82,White,Male,Government,Never Smoked,Slightly Active,Moderate,Fair
+81,Rebecca Bryant,"1274 George Prairie Suite 323, Port Edwardberg, RI 21567",001-389-290-7488x3331,77,White,Female,Uninsured,Current Smoker,Slightly Active,Occasional,Fair
+82,Kurt Barr,"5467 Evan Dale Suite 829, Lake Courtney, OH 54698",001-228-962-2292x96006,6,White,Female,Private,Current Smoker,Slightly Active,Heavy,Poor
+83,Paula Khan,"6716 Moreno Motorway Suite 478, Teresaport, PA 09064",974-360-7387x007,93,Biracial,Female,Commercial,Never Smoked,Very Active,Heavy,Excellent
+84,Mrs. Cynthia Charles,"7234 Parker Knolls, North Christineside, VI 64506",984.332.6403,41,Hispanic,Male,Private,Former Smoker,Sedentary,Moderate,Excellent
+85,Erin Evans,"753 Darren Spur, West Juliaberg, PW 85765",001-341-650-1615,85,Asian,Female,Uninsured,Current Smoker,Slightly Active,Occasional,Fair
+86,Michael Rosales,"94118 David Spurs Apt. 379, Lake Melissabury, SD 75274",526.963.5659x184,77,White,Non-Binary,Uninsured,Current Smoker,Sedentary,Heavy,Poor
+87,Stephen Pena,"USCGC Boyd, FPO AE 13264",+1-474-356-7811x047,100,White,Female,Private,Former Smoker,Sedentary,Moderate,Fair
+88,Kenneth Stanley,"270 Burke Summit Suite 481, North Timothyshire, WY 82115",+1-496-465-5627x789,55,Native American or Alaskan Native,Male,Commercial,Never Smoked,Sedentary,Occasional,Fair
+89,Joshua Rodgers,"817 Daniel Spring, Martinberg, WY 79171",308.410.7269,54,Other,Female,Government,Never Smoked,Sedentary,Occasional,Poor
+90,Joshua Perry,"252 Vega Square Apt. 314, South Tiffanyhaven, GA 80873",736-748-2382,62,Hispanic,Male,Commercial,Never Smoked,Slightly Active,Occasional,Fair
+91,Tyrone Vang,"25053 Marquez Way Apt. 136, Davidborough, CA 96998",416.216.2948,98,Asian,Male,Government,Current Smoker,Slightly Active,Heavy,Fair
+92,Jack Wilson,"28681 May Streets, Lake Thomas, LA 76673",845.496.1899x991,88,White,Male,Uninsured,Current Smoker,Slightly Active,Moderate,Fair
+93,Melinda Schneider,"334 Ramsey Neck, Port Marc, CO 34200",(339)882-6586,80,White,Female,Uninsured,Former Smoker,Sedentary,Occasional,Fair
+94,Bobby Flores,"7028 Miller Centers Apt. 010, New Natalie, NE 71237",276-799-5853x450,24,White,Female,Uninsured,Former Smoker,Slightly Active,Occasional,Poor
+95,Jason Flores,"9197 Tina Causeway, Longhaven, WI 13422",965-359-6904x1008,75,Asian,Male,Commercial,Current Smoker,Moderately Active,Occasional,Poor
+96,James Hernandez,"78429 Dawn Lights Apt. 057, East Nancyside, SC 76132",914.668.7692,68,Black,Female,Government,Current Smoker,Slightly Active,Occasional,Poor
+97,David Yoder,"02247 Burgess Streets, Louisborough, PR 70957",+1-255-280-6879,46,White,Female,Uninsured,Former Smoker,Sedentary,Heavy,Poor
+98,Stacy Perez,"2564 Ball Mountains, East Travisborough, NY 00645",8353888484,69,Asian,Non-Binary,Commercial,Current Smoker,Moderately Active,Moderate,Good
+99,Lauren Griffin,"3992 Davis Alley Apt. 684, Port Michaelburgh, AL 20609",8009174536,66,Asian,Male,Uninsured,Former Smoker,Moderately Active,None,Fair
+100,Joshua Jones,"69727 Timothy Isle Apt. 165, Port Bryan, WA 93293",359.514.1305x8292,35,Hispanic,Female,Uninsured,Current Smoker,Slightly Active,Moderate,Good
+101,Jason Hall,"9477 Anderson Causeway Suite 636, South James, MI 86508",001-651-688-2427x94911,68,White,Female,Uninsured,Current Smoker,Sedentary,Occasional,Poor
+102,Tamara Wolf,"1175 Chad Station Suite 818, Lawsonside, SD 25823",366-262-7991x8368,66,White,Male,Commercial,Former Smoker,Sedentary,Heavy,Fair
+103,Jason Williams,"82356 Brent Branch Suite 546, Port Ryanstad, MN 75449",716-514-9130x138,15,Asian,Male,Other,Current Smoker,Slightly Active,Occasional,Excellent
+104,Mary Lopez,"41957 David Cliffs Apt. 177, Nathanport, DE 72760",+1-965-946-8999x4934,22,Hispanic,Male,Government,Current Smoker,Sedentary,Moderate,Excellent
+105,Jason Moore MD,"Unit 5396 Box 1639, DPO AP 30315",649-869-3176,15,White,Male,Uninsured,Former Smoker,Sedentary,Heavy,Poor
+106,Victoria Thompson,"752 Christopher Ranch Suite 105, Cohenfort, PR 02297",680.733.9800x675,68,Asian,Male,Uninsured,Never Smoked,Sedentary,Moderate,Fair
+107,Heather Collins,"Unit 7927 Box 8330, DPO AE 54848",001-418-786-9007x39553,44,White,Non-Binary,Government,Never Smoked,Moderately Active,None,Poor
+108,Lee Mueller,"Unit 9789 Box 3393, DPO AE 60292",001-205-797-4919x46225,57,White,Female,Government,Current Smoker,Sedentary,None,Fair
+109,Joshua Davenport,"56333 Burns Camp Suite 869, Donovanburgh, VI 25484",673.442.6136x63962,25,White,Female,Uninsured,Current Smoker,Slightly Active,Occasional,Good
+110,Travis Harrison,"778 Sheri Club, Wagnerstad, IA 42015",361.712.5972x4423,58,Asian,Other,Government,Current Smoker,Slightly Active,Heavy,Excellent
+111,Nicole Stephens,"0645 Baker View Apt. 397, South Barbara, NM 53780",(373)953-0327x745,1,Black,Male,Uninsured,Current Smoker,Sedentary,Heavy,Excellent
+112,Tamara Warren,"725 Christopher Plaza, West Howardville, AS 55956",732-995-8564,44,Asian,Other,Government,Current Smoker,Sedentary,Moderate,Fair
+113,Jody Noble,"50820 Martinez Mill, Brittanystad, AS 57734",524-745-1704x022,24,White,Male,Government,Former Smoker,Very Active,Occasional,Poor
+114,Christopher Finley,"4879 Tyrone Pine, Galvanside, TX 47977",+1-541-988-1648x160,61,White,Male,Uninsured,Former Smoker,Sedentary,Occasional,Good
+115,Lisa Davis,"216 Laura Junction, Romerofurt, NH 79480",001-698-353-9438x0087,97,Black,Male,Uninsured,Current Smoker,Sedentary,Moderate,Poor
+116,John Salazar,"097 Garza Course Apt. 032, South Jennifer, DC 81588",625.765.7606,31,Hispanic,Male,Government,Current Smoker,Slightly Active,Occasional,Fair
+117,Gregory Harris,"07320 Christopher Route, Elizabethhaven, AS 39465",715-435-4879,61,Asian,Other,Commercial,Former Smoker,Sedentary,Moderate,Good
+118,Robin Montgomery,"USNV Hamilton, FPO AA 27315",+1-891-487-7006,25,Asian,Female,Uninsured,Never Smoked,Sedentary,Heavy,Poor
+119,Brian Ballard,"844 Sarah Island, Richardtown, IA 92047",4953224541,18,Asian,Male,Uninsured,Current Smoker,Sedentary,Moderate,Fair
+120,Frank Green,"6615 John Forks, Pattersonburgh, IA 13749",751.521.8403x344,43,Asian,Male,Commercial,Former Smoker,Sedentary,Moderate,Fair
+121,Justin Chen,"9959 Rachel Passage, West Lori, RI 96259",9909325119,14,Asian,Male,Government,Former Smoker,Sedentary,Moderate,Fair
+122,Thomas Garcia,"7564 Goodman Mountains, Lake Amybury, AS 93484",(476)406-8177,74,Other,Female,Government,Current Smoker,Slightly Active,Occasional,Poor
+123,Samantha Phillips,"369 Elizabeth Street, Lake John, OK 86474",918-752-2024x4270,32,Black,Male,Uninsured,Former Smoker,Sedentary,Occasional,Fair
+124,Wendy Jones,"27128 Shah Motorway Suite 641, Carlaborough, SD 03156",703-614-9702x755,31,Hispanic,Non-Binary,Commercial,Never Smoked,Slightly Active,Moderate,Fair
+125,Dr. Daniel Mata,"7888 Amanda Harbors, Lake Justinview, ND 67065",(291)897-7033x946,53,Asian,Other,Commercial,Former Smoker,Sedentary,Moderate,Fair
+126,David Day,"4214 Ricardo Orchard Suite 776, East Nicole, WA 89873",6059497636,10,Asian,Non-Binary,Uninsured,Never Smoked,Slightly Active,Heavy,Fair
+127,Heather Harmon,"46355 French Camp, Robertshire, AL 49750",001-236-940-3301,95,Asian,Male,Private,Former Smoker,Sedentary,Heavy,Poor
+128,Rebecca Mcbride,"253 Jenna Trail Apt. 688, West Deborah, VI 04817",001-929-504-9998x5431,37,Asian,Non-Binary,Government,Current Smoker,Slightly Active,Moderate,Fair
+129,Katherine King,"88194 James Extensions Suite 144, Shawnstad, TX 13959",001-369-916-6090x552,35,White,Male,Commercial,Never Smoked,Slightly Active,Moderate,Fair
+130,Bradley Harris,"0192 Christine Knolls Suite 960, North Hayley, ME 84473",779.793.1435,69,Black,Female,Government,Never Smoked,Sedentary,Moderate,Fair
+131,Parker Green,"PSC 0446, Box 2390, APO AA 50192",001-482-551-5448x48645,89,Asian,Female,Uninsured,Never Smoked,Sedentary,Moderate,Excellent
+132,Kaylee Griffin,"USNV Palmer, FPO AA 98516",399-594-6799x79717,95,Asian,Female,Government,Former Smoker,Sedentary,Heavy,Fair
+133,Michael Harper,"96526 Amanda Loop Apt. 424, South Tanya, ND 38181",(765)726-7932x33983,51,Asian,Female,Private,Former Smoker,Slightly Active,Occasional,Fair
+134,Tracey Goodwin,"204 Leslie Landing, North Elijah, WI 75795",5944510388,100,White,Male,Government,Never Smoked,Sedentary,Occasional,Fair
+135,Jonathan Mcintosh,"978 Hawkins Estates Suite 786, Hardingfort, AS 37620",241-807-9578x5803,99,White,Male,Government,Former Smoker,Sedentary,Moderate,Fair
+136,Ruth Steele,"056 Christian Turnpike, West Nathan, AZ 14457",+1-570-342-5108,40,Biracial,Female,Commercial,Never Smoked,Slightly Active,Heavy,Fair
+137,Renee Martinez,"71695 Spencer Wall Apt. 967, South John, VT 96337",+1-539-633-0435x40539,81,Asian,Male,Government,Current Smoker,Moderately Active,Heavy,Good
+138,Nichole Fields,"7593 Jacobs Track Suite 950, North Austinville, FL 17840",001-598-609-6520x39087,55,Asian,Female,Uninsured,Former Smoker,Very Active,Occasional,Fair
+139,David Henry,"USCGC Wright, FPO AE 83396",+1-485-716-8118x903,42,Hispanic,Female,Uninsured,Current Smoker,Slightly Active,Heavy,Fair
+140,Kelly Holder,"79183 Vaughn Viaduct, Michellechester, NY 72897",739-947-6590x3348,25,White,Female,Government,Former Smoker,Sedentary,Occasional,Fair
+141,Jennifer Cisneros,"6812 Anna Heights, Lake Brittney, HI 25532",596.248.3187x7543,4,Asian,Female,Uninsured,Current Smoker,Sedentary,Heavy,Good
+142,Stephanie Norris,"64824 Greene Tunnel Apt. 402, East Nicholas, HI 25248",539.682.8111,3,White,Male,Commercial,Never Smoked,Slightly Active,Heavy,Excellent
+143,Lori Smith,"39495 Kyle Turnpike Apt. 261, Karaport, MT 35358",622-320-4469,70,White,Male,Government,Current Smoker,Moderately Active,Moderate,Poor
+144,Krystal Wagner,"PSC 3336, Box 8810, APO AA 15662",+1-861-230-5681x77061,49,White,Other,Uninsured,Former Smoker,Sedentary,Moderate,Poor
+145,Dana Bryant,"13792 Gomez Plaza Suite 107, Erikshire, MT 61461",5436460040,72,Asian,Other,Uninsured,Current Smoker,Sedentary,Occasional,Poor
+146,Steven Huffman,"91199 Erickson Plain, North Jason, MO 18887",001-535-650-8535x85395,85,Asian,Female,Government,Former Smoker,Sedentary,Moderate,Excellent
+147,Rebecca Burgess,"5134 George Stravenue, North Brendafort, PW 89497",(414)934-2217x319,33,Hispanic,Male,Government,Never Smoked,Very Active,Occasional,Fair
+148,Nicole Willis,"506 Angela Forges Apt. 162, Ramirezhaven, RI 04376",207.785.2236,21,Asian,Non-Binary,Private,Never Smoked,Very Active,Moderate,Excellent
+149,Ryan Ramirez,"68170 Pratt Run Suite 289, Matthewsstad, AL 72813",285.483.3878,24,Asian,Female,Private,Current Smoker,Sedentary,Moderate,Fair
+150,Holly Klein,"49600 Mark Mill Suite 528, West Christian, WI 67257",305.784.8925x860,5,Asian,Non-Binary,Private,Former Smoker,Sedentary,Occasional,Good
+151,James Wilcox,"021 Jeremy Squares, East Travisbury, AR 12973",640.376.4820x507,100,Asian,Male,Government,Current Smoker,Sedentary,Heavy,Poor
+152,Brian Johnson,"1008 Hamilton Village, North Joseph, ND 63459",+1-638-980-3474,34,Hispanic,Male,Uninsured,Never Smoked,Slightly Active,Occasional,Fair
+153,William Walters,"6829 Hunt Center, Lake Chris, MS 83796",3213184221,4,White,Male,Uninsured,Former Smoker,Sedentary,Heavy,Fair
+154,Donna Lynn,"0881 Christopher Cove Suite 588, Marcotown, VI 90473",001-747-707-6668x39106,81,White,Female,Commercial,Former Smoker,Sedentary,Moderate,Excellent
+155,Brandon Mosley,"903 Smith Tunnel Suite 815, Dunnstad, NH 37829",490-320-6525,30,Hispanic,Male,Commercial,Current Smoker,Slightly Active,Moderate,Poor
+156,Janet Wagner,"2326 Hill Estates Apt. 189, New Laurabury, FL 16159",(228)825-5804x9005,1,Black,Male,Government,Former Smoker,Sedentary,Moderate,Fair
+157,Shaun Hardin,"Unit 5908 Box 4375, DPO AP 92484",937-937-0040x9186,70,Other,Male,Commercial,Former Smoker,Sedentary,Occasional,Poor
+158,Samuel Stark,"71099 Lori Corner Apt. 367, North Ashley, ME 42640",001-860-314-8480x185,69,White,Other,Government,Never Smoked,Moderately Active,Moderate,Poor
+159,Holly Burgess,"13392 Alvarez Valley, Connieside, CO 41372",632.435.9087,64,White,Male,Uninsured,Current Smoker,Sedentary,Moderate,Good
+160,Gary Clayton,"592 Trujillo Knolls, Mayerville, WI 04423",+1-699-765-4889,19,Asian,Male,Commercial,Former Smoker,Sedentary,Heavy,Poor
+161,Lisa Mills,"1144 Rodriguez Ways Apt. 574, East Matthew, PW 00810",(747)821-0547x8038,9,White,Non-Binary,Uninsured,Current Smoker,Slightly Active,Moderate,Poor
+162,Dean Cole,"USS Brown, FPO AA 04586",(581)309-6481,42,White,Female,Uninsured,Never Smoked,Slightly Active,None,Poor
+163,Jeremy Hart,"4832 Richardson Ferry, North Jaclyn, GU 68518",2895150584,74,Asian,Non-Binary,Commercial,Current Smoker,Sedentary,Heavy,Excellent
+164,Michelle Stevens,"61306 Boyd Knoll Apt. 550, Rebeccachester, VT 55460",4557274239,89,Asian,Male,Uninsured,Current Smoker,Sedentary,Occasional,Poor
+165,Angela Nixon,"USNS Richards, FPO AP 49800",317.560.4415x732,22,Other,Non-Binary,Uninsured,Never Smoked,Moderately Active,Moderate,Poor
+166,Rodney Hamilton,"12558 Jennifer Corner Apt. 908, Smithmouth, AL 14478",+1-819-437-4525x95352,99,White,Male,Commercial,Current Smoker,Slightly Active,Occasional,Poor
+167,Anthony Aguilar,"1902 Kenneth Forks Suite 974, Natalieport, VT 21814",(224)453-0473,34,Native American or Alaskan Native,Female,Uninsured,Former Smoker,Slightly Active,Occasional,Poor
+168,Martha Foster,"070 Jefferson Centers Suite 425, Amyside, WA 84024",001-292-834-5710x57630,98,Asian,Female,Uninsured,Former Smoker,Sedentary,Moderate,Fair
+169,Heidi Brooks,"841 Aaron Key, Port Ronald, NM 12669",001-801-287-5391,19,Black,Female,Uninsured,Former Smoker,Sedentary,Moderate,Good
+170,Stephen May,"014 Michele Meadows, South Whitney, NC 34307",774.898.9537,30,Hispanic,Other,Uninsured,Current Smoker,Sedentary,Heavy,Fair
+171,Amy Chandler,"29508 Ramirez Mills, New Denise, NY 77052",377-904-4764x23562,77,Hispanic,Non-Binary,Uninsured,Current Smoker,Slightly Active,Heavy,Fair
+172,Kenneth Haynes,"5919 Hunt Manor, Hartfurt, OK 55408",(973)642-7959,42,White,Non-Binary,Government,Current Smoker,Slightly Active,Heavy,Poor
+173,John Stewart,"Unit 6005 Box 1071, DPO AA 66725",(545)610-1856x0099,14,White,Male,Commercial,Never Smoked,Slightly Active,Moderate,Fair
+174,Adam Marquez,"USCGC Garcia, FPO AE 08527",530.786.1541,77,Asian,Female,Government,Current Smoker,Sedentary,Moderate,Fair
+175,Jared Salazar,"58040 Timothy Locks Suite 664, North Jeremychester, TN 32875",001-263-616-3583x5399,19,Asian,Male,Other,Never Smoked,Slightly Active,Heavy,Excellent
+176,Mario Frye,"Unit 9942 Box 5785, DPO AE 92324",(370)655-3109,30,Asian,Other,Government,Never Smoked,Sedentary,Occasional,Fair
+177,James Lutz II,"59923 Jessica Turnpike, Juanmouth, PW 26840",+1-507-484-0863x136,48,Black,Non-Binary,Uninsured,Never Smoked,Moderately Active,Occasional,Fair
+178,John Ball,"3667 Ellison Park, Port Theodorestad, WI 98310",517-354-1282x77969,61,White,Male,Commercial,Former Smoker,Sedentary,Moderate,Fair
+179,Matthew Lewis,"PSC 9235, Box 8613, APO AA 47567",+1-937-654-1411,46,Asian,Non-Binary,Uninsured,Current Smoker,Sedentary,Occasional,Fair
+180,Sheri Riley DDS,"56281 Christopher Freeway Suite 678, Lake Donna, GU 21730",5252604672,29,Hispanic,Female,Private,Never Smoked,Sedentary,Heavy,Fair
+181,Linda Mendoza,"PSC 5302, Box 0779, APO AE 38149",001-554-237-6912x65443,97,Asian,Female,Commercial,Former Smoker,Sedentary,None,Excellent
+182,Eric Bishop,"13679 Scott Spur, Curtisbury, DC 22186",446-952-9291,79,Asian,Female,Private,Former Smoker,Sedentary,Occasional,Poor
+183,Fernando Foster,"98867 Luke Stream Suite 902, Jacksonmouth, WY 37826",(446)528-7165x0893,82,Biracial,Female,Commercial,Former Smoker,Slightly Active,Moderate,Fair
+184,Beth Martin,"282 Joshua Knoll Apt. 669, Danielborough, TX 15320",001-373-605-3237,55,Asian,Female,Government,Former Smoker,Sedentary,Heavy,Fair
+185,Christina Forbes,"07120 Lisa Mission, Penastad, MH 65769",(783)247-3481,50,Black,Female,Government,Former Smoker,Sedentary,Moderate,Poor
+186,Brian Hall,"070 Long Glen Apt. 608, Isabellafurt, IA 54353",+1-424-597-4671x3549,72,Asian,Male,Uninsured,Current Smoker,Slightly Active,Occasional,Poor
+187,Jennifer Jones,"2851 Gavin Squares Suite 038, North Sarahtown, WI 60283",664.893.3069x36903,27,Asian,Male,Uninsured,Current Smoker,Slightly Active,Moderate,Fair
+188,Barbara Harris,"9376 Carla Lock Suite 011, New Sierraville, NC 21664",763.512.2238,41,Hispanic,Male,Uninsured,Current Smoker,Sedentary,Occasional,Poor
+189,Robert Willis,"869 Robinson View Suite 049, Mendozaborough, NV 77469",+1-916-442-6657x472,7,Black,Female,Uninsured,Never Smoked,Sedentary,Moderate,Good
+190,John Hoffman,"1010 Zimmerman Crossing, Angelafort, AL 46423",+1-677-412-9294x32573,41,White,Male,Government,Never Smoked,Sedentary,Occasional,Fair
+191,David Patel,"5095 Sharon Shores, Cynthiafort, MT 13047",866-511-9248x877,82,Asian,Male,Government,Current Smoker,Slightly Active,Moderate,Good
+192,Nicholas Thompson,"8081 Garcia Forks Suite 116, Lake Bryan, WV 86970",254.813.2804,47,Asian,Female,Commercial,Current Smoker,Slightly Active,Occasional,Poor
+193,Kathryn Harper,"9887 Austin Gateway, Harrisfurt, NH 44875",981-412-6026x41319,26,White,Non-Binary,Uninsured,Never Smoked,Sedentary,None,Fair
+194,Amy Arias,"29079 Lara Row, East Shanemouth, PA 69709",001-539-795-6937,37,Biracial,Male,Uninsured,Current Smoker,Sedentary,Occasional,Fair
+195,Jennifer Johnson,"87320 Amanda Spring, Martinland, NV 71181",+1-980-409-9637x853,83,Asian,Male,Uninsured,Former Smoker,Slightly Active,Occasional,Poor
+196,Chad Fisher,"6100 Ramos Grove Apt. 938, Meadowsburgh, HI 96212",695-943-8524x9275,80,White,Male,Government,Former Smoker,Sedentary,Occasional,Excellent
+197,Christy Stephens,"9783 Andrew Flats Apt. 408, Amberfort, MN 81617",001-792-998-0125,73,White,Other,Commercial,Never Smoked,Sedentary,Moderate,Fair
+198,Catherine Robbins,"05371 Washington Drive, Terryfort, MA 24862",(948)344-6565,47,White,Male,Uninsured,Current Smoker,Slightly Active,Heavy,Poor
+199,Kristina Walker,"01957 Cisneros Camp, Lake Elizabeth, SC 57105",577.487.7983x4737,87,Other,Male,Uninsured,Never Smoked,Slightly Active,None,Fair
+200,Terry Jones,"5097 Michael Loop Suite 255, Ericbury, AS 68013",(734)860-9761,89,White,Non-Binary,Uninsured,Never Smoked,Sedentary,Moderate,Fair
+201,Christopher Moore,"42592 Wayne Stream Suite 490, New Christophershire, RI 16217",(393)540-0532,38,Asian,Male,Government,Current Smoker,Moderately Active,Moderate,Excellent
+202,Thomas Delgado,"6710 Beard Crossing, Simmonsfurt, MH 02793",(629)206-3372x72275,55,Asian,Female,Private,Current Smoker,Sedentary,Heavy,Good
+203,Carmen Patrick,"624 Christian Roads, Port Carol, AZ 09986",+1-267-378-0179x7895,56,Asian,Female,Government,Never Smoked,Slightly Active,Moderate,Poor
+204,Anne Martinez,"5385 Jessica Summit Suite 739, North Kellyview, RI 04901",001-788-556-7533x6831,68,Asian,Male,Commercial,Current Smoker,Sedentary,Moderate,Fair
+205,Benjamin Ramirez,"1912 Kelly Walk Apt. 780, North Paulafort, ME 15528",719-969-2770x964,14,Black,Other,Commercial,Never Smoked,Slightly Active,Moderate,Poor
+206,Christopher Wallace,"82320 Cynthia Center Suite 656, Tylershire, NY 23911",990.202.8436x088,18,White,Female,Commercial,Current Smoker,Sedentary,Moderate,Fair
+207,Kathryn Watkins,"83904 Rachel Cove Suite 320, New Heidiland, WV 75871",+1-753-477-2563x41370,65,Asian,Female,Uninsured,Current Smoker,Sedentary,None,Excellent
+208,Cheryl Lawson,"67299 May Lane, Port Jamesmouth, LA 59791",978.736.1651,12,Asian,Female,Government,Former Smoker,Sedentary,Moderate,Fair
+209,Monica Perez,"3671 Smith Crescent, Port Antonio, GA 94187",3595552242,69,White,Female,Private,Never Smoked,Slightly Active,None,Fair
+210,Grace Nixon,"1740 Jack Ports, East Rebeccashire, NY 58937",416-723-9631,60,White,Female,Uninsured,Former Smoker,Slightly Active,Heavy,Fair
+211,Anthony Williams,"14039 Wendy Squares Apt. 914, Port Aaronchester, MS 76908",797-957-4511x570,77,Hispanic,Male,Uninsured,Never Smoked,Sedentary,Occasional,Fair
+212,Kimberly Ferguson,"367 Jennifer Meadow, East John, AZ 86190",001-414-385-9336,33,Asian,Male,Uninsured,Never Smoked,Sedentary,Heavy,Fair
+213,David Li,"053 Mary Fields Suite 900, Jamesmouth, TN 68812",4907131176,86,Biracial,Non-Binary,Government,Former Smoker,Sedentary,None,Fair
+214,Lisa Miller,"3100 Matthew Expressway Suite 719, Wesleystad, CT 66836",001-541-752-5682x60806,6,Biracial,Female,Government,Former Smoker,Sedentary,Moderate,Poor
+215,Anna West,"6960 Kelley Alley Apt. 921, West Robertstad, TX 78663",(574)848-7497x35647,52,Black,Female,Commercial,Current Smoker,Sedentary,None,Fair
+216,James Gamble,"Unit 0833 Box 3191, DPO AE 45212",001-268-723-2153x321,10,Asian,Male,Government,Never Smoked,Sedentary,Moderate,Fair
+217,Christina Bradley,"566 Ramos Union, East Kelly, GA 24644",001-597-439-4186x8209,39,Asian,Male,Uninsured,Former Smoker,Sedentary,Occasional,Poor
+218,Teresa Morrow,"215 Martin Brook Apt. 580, Meganport, PW 90571",+1-898-323-6765,94,Hispanic,Female,Uninsured,Former Smoker,Slightly Active,Moderate,Excellent
+219,Alicia Cortez,"673 Steve Falls, Whitneyfurt, MO 21189",905-803-8065,76,White,Female,Uninsured,Never Smoked,Slightly Active,None,Fair
+220,Patrick Lamb,"85450 Poole Run Suite 212, South David, GU 45521",7345499752,77,White,Non-Binary,Commercial,Current Smoker,Sedentary,Moderate,Fair
+221,Brittany Duke,"020 Kevin Village, Amandaborough, KS 57269",940.824.2754x187,7,White,Non-Binary,Uninsured,Current Smoker,Slightly Active,Occasional,Fair
+222,Kimberly Bean,"719 Jones Fort Apt. 294, Matthewland, TN 22174",3226034144,35,Hispanic,Female,Uninsured,Current Smoker,Slightly Active,Heavy,Fair
+223,Matthew Miller,"77976 Lori Street Suite 427, East Cynthia, CA 51061",+1-967-550-0151x854,52,Black,Female,Government,Current Smoker,Slightly Active,Moderate,Excellent
+224,Lauren Bowman,"29987 Garcia Burg Apt. 594, North Christina, PW 45921",(523)619-2712x6426,89,Asian,Non-Binary,Uninsured,Never Smoked,Sedentary,Moderate,Fair
+225,Kara Curtis,"95370 Ellis Crossing Apt. 135, West Christopherchester, MI 80299",505.889.3662,80,Asian,Female,Government,Current Smoker,Sedentary,Moderate,Fair
+226,Mallory Rojas,"16658 Horne Burg, Tiffanymouth, CT 28250",488-341-3654x9949,85,Asian,Non-Binary,Uninsured,Never Smoked,Sedentary,Heavy,Poor
+227,Jennifer Pope,"USNV Morgan, FPO AA 08769",(808)207-6994x569,35,Hispanic,Male,Uninsured,Never Smoked,Slightly Active,Occasional,Good
+228,Ashley Adams,"94752 Roberta Run, Robinside, AR 51457",(917)271-6995,95,White,Non-Binary,Other,Never Smoked,Sedentary,Occasional,Poor
+229,Thomas Jennings,"322 Park Place, East Rachelton, IN 64534",+1-612-853-8281x776,16,Black,Female,Government,Current Smoker,Sedentary,Occasional,Poor
+230,Melinda Martinez,"Unit 0327 Box 2522, DPO AA 99824",+1-720-587-1006,69,Asian,Male,Uninsured,Current Smoker,Sedentary,Occasional,Fair
+231,Robert Gonzalez,"68757 Pearson Parks Apt. 037, Port Michelle, LA 55884",8292452165,30,Black,Male,Commercial,Former Smoker,Sedentary,Occasional,Poor
+232,Kimberly Tran,"USCGC Graham, FPO AE 56195",5574123542,74,Hispanic,Female,Government,Never Smoked,Sedentary,Moderate,Poor
+233,Lee Berger,"878 Kevin Plaza Suite 697, Robertsside, NV 72920",(588)271-7089,20,Hispanic,Male,Uninsured,Never Smoked,Sedentary,Occasional,Fair
+234,Alexander Craig,"5110 Allison Mountains Apt. 279, Lake Mary, OH 25379",+1-268-247-9782x408,38,Other,Female,Government,Former Smoker,Moderately Active,None,Fair
+235,Leslie Bowen,"92519 Ortiz Burgs, Johnborough, FM 95716",380.432.7961x82278,28,White,Male,Government,Former Smoker,Sedentary,Occasional,Poor
+236,Jason Parker,"78871 Keith Creek, Martinton, CT 76535",+1-362-342-7961,72,White,Non-Binary,Uninsured,Never Smoked,Sedentary,Moderate,Poor
+237,Matthew Patel,"28131 Amy Dam Apt. 499, Port Alicia, KY 23323",723.743.1604,80,Asian,Male,Uninsured,Never Smoked,Sedentary,Moderate,Fair
+238,Gerald Webb,"37810 Knight Divide, Lake Stacy, AK 84829",(505)476-5840x9777,35,Other,Female,Government,Never Smoked,Slightly Active,Occasional,Fair
+239,Ebony Jackson,"7323 Howard Islands, East Douglas, AK 99346",398-436-6693x5119,44,White,Male,Uninsured,Former Smoker,Sedentary,Moderate,Good
+240,Scott Smith,"8824 Dana Parkway, South Bethany, AR 47572",+1-621-591-0718x0212,85,Asian,Male,Government,Never Smoked,Sedentary,Moderate,Excellent
+241,Austin Larsen,"USNS Roman, FPO AA 88081",686-428-9271,46,White,Female,Government,Never Smoked,Moderately Active,Moderate,Fair
+242,Justin Rodriguez,"7663 Stephanie Landing, Williamsland, NM 64005",439-983-6045x2437,47,Black,Non-Binary,Uninsured,Current Smoker,Very Active,Occasional,Excellent
+243,Cynthia Jimenez,"02831 Sylvia Plaza Apt. 198, New Mirandaborough, PR 08847",(702)650-2135,90,Asian,Male,Government,Never Smoked,Moderately Active,Moderate,Poor
+244,Jacob Clark,"3889 Chapman Cliffs Suite 152, Lake Jillian, OH 77380",(307)827-4805,35,Black,Female,Uninsured,Current Smoker,Moderately Active,Moderate,Good
+245,Jennifer Rodriguez,"8225 Brian Key Suite 410, North Abigailfurt, PA 41735",932.404.2387,49,Asian,Male,Uninsured,Never Smoked,Sedentary,Moderate,Poor
+246,Mr. William Gomez,"USNS Hernandez, FPO AP 54337",+1-610-996-8151x9104,31,Biracial,Female,Uninsured,Current Smoker,Slightly Active,Occasional,Poor
+247,Frank Olson,"2834 Leslie Plaza, Martinland, PA 98817",+1-709-751-1198,9,Native American or Alaskan Native,Male,Government,Never Smoked,Slightly Active,None,Fair
+248,Tara Lewis,"86108 Murphy Loop Suite 376, South Shellyport, IA 62511",+1-984-715-6076x311,18,White,Female,Uninsured,Never Smoked,Slightly Active,Moderate,Good
+249,Rita Roberts,"30410 Rich Burg, Ortegafort, ND 57513",(455)877-8476x1346,84,Asian,Male,Uninsured,Former Smoker,Very Active,Occasional,Good
+250,Jacqueline Dawson,"1648 Craig Tunnel, North Jenniferton, LA 31464",(844)900-8765,53,White,Female,Uninsured,Never Smoked,Slightly Active,Occasional,Fair
+251,Kimberly Washington,"47315 Lee Ranch Suite 857, Port Cory, ND 91693",237-763-5436,76,White,Female,Uninsured,Former Smoker,Slightly Active,Moderate,Fair
+252,Ashley Barr,"978 Rosario Isle Suite 015, Port Jenniferport, MP 91605",+1-873-738-3645,44,Asian,Male,Commercial,Never Smoked,Sedentary,Occasional,Fair
+253,Katie Bridges,"53919 Robert Dam Apt. 229, Garyland, PA 68419",540-362-8923,67,Hispanic,Female,Government,Never Smoked,Sedentary,Heavy,Fair
+254,Paula Ross,"271 Curtis Fork, Weaverchester, NM 37139",367-463-9272,88,Black,Male,Uninsured,Never Smoked,Sedentary,None,Fair
+255,Jonathan Taylor,"PSC 4903, Box 8903, APO AE 06417",934.822.7950x276,44,White,Female,Other,Former Smoker,Slightly Active,Heavy,Fair
+256,David Richard,"7504 Oneal Drive Suite 086, New Tony, NJ 16723",(227)942-6101,54,Asian,Male,Government,Current Smoker,Slightly Active,Occasional,Fair
+257,Rachel Pierce,"37274 Pena Squares, Griffinborough, OK 45270",475.955.3352,37,Hispanic,Male,Other,Never Smoked,Moderately Active,Occasional,Excellent
+258,James Thomas,"742 Hall Roads, Greentown, MN 91237",810.200.6667,53,White,Female,Government,Former Smoker,Sedentary,Moderate,Poor
+259,Bradley Santana,"0266 Jackson Streets, Lake Ronaldmouth, WY 22560",(476)864-5402x1677,40,Biracial,Female,Uninsured,Never Smoked,Sedentary,Moderate,Good
+260,Dr. Seth Kirk PhD,"1548 Timothy Lane Apt. 093, Ashleybury, VA 90517",806-633-8131x4109,20,White,Female,Government,Former Smoker,Sedentary,Occasional,Poor
+261,Dennis Hall,"566 Stark Run, Lake Katherine, NV 30681",(461)452-5591x961,1,Biracial,Male,Private,Former Smoker,Very Active,Moderate,Fair
+262,Jennifer Flores,"6003 Kimberly Curve Apt. 925, Wolfemouth, MD 75913",001-606-926-8554x185,39,Other,Female,Government,Former Smoker,Slightly Active,Heavy,Fair
+263,Rebecca Murphy,"26557 Charles Causeway, Melindaport, WI 60716",536.580.7540,45,Asian,Female,Private,Former Smoker,Slightly Active,Occasional,Fair
+264,Antonio Rivas,"5286 Stanley Key, North Colleen, CA 26146",(660)602-7733x7546,91,Asian,Female,Uninsured,Never Smoked,Slightly Active,Moderate,Fair
+265,Natasha Gonzalez,"22380 Long Mill, Whitneyshire, KS 41250",001-982-772-0744x8067,84,Black,Male,Uninsured,Former Smoker,Sedentary,Heavy,Fair
+266,Elizabeth Smith,"PSC 0936, Box 2484, APO AA 43732",351.215.2401x80855,33,Asian,Other,Commercial,Former Smoker,Sedentary,Heavy,Good
+267,Rachel West,"237 Anthony Centers, Butlerfurt, CT 35393",550-985-3222,57,Black,Male,Other,Never Smoked,Slightly Active,Moderate,Excellent
+268,Sarah Ferguson,"14363 John Causeway Apt. 229, Thompsontown, LA 32162",(208)746-4537x7273,13,Asian,Female,Commercial,Former Smoker,Sedentary,Moderate,Fair
+269,Judy Henry,"544 Gregory Trail Suite 556, East Walterport, NJ 40017",001-963-830-2360x4990,99,Asian,Male,Uninsured,Current Smoker,Sedentary,None,Fair
+270,Melissa Morton,"2776 Bender Points Suite 236, Gregoryborough, TN 01098",317-715-8087x5393,40,Asian,Female,Government,Current Smoker,Sedentary,Heavy,Fair
+271,Maureen Wiley,"357 Stanton Parkway, Edwardsfurt, NH 69029",001-997-580-1897,5,White,Male,Uninsured,Never Smoked,Sedentary,Occasional,Good
+272,Ashley Hull,"4019 Miller Cliffs, West Erik, CT 64672",+1-351-314-7251x877,97,Asian,Female,Government,Never Smoked,Sedentary,Moderate,Poor
+273,Keith Hernandez,"0470 Cobb Turnpike Apt. 717, New Robert, SD 30061",001-916-254-4924,10,White,Other,Other,Former Smoker,Sedentary,Moderate,Fair
+274,Adrienne Hansen,"18145 Sharon Mills Suite 994, Lake Emily, SC 56283",7292007027,100,Black,Male,Uninsured,Current Smoker,Moderately Active,Moderate,Fair
+275,Joseph Payne MD,"638 Bruce Turnpike Apt. 078, East James, OH 62711",+1-264-686-9223x4303,50,Asian,Male,Uninsured,Current Smoker,Sedentary,Occasional,Fair
+276,Meredith Clark,"6604 Norman Ports, New Kimberly, VA 85530",+1-341-901-3868x9205,63,White,Other,Other,Current Smoker,Sedentary,Moderate,Fair
+277,Charles Hill,"727 Brown Street Suite 654, Port Amanda, NE 94854",(822)970-5921,45,Other,Male,Government,Former Smoker,Sedentary,Moderate,Fair
+278,Ashley Bass,"967 Michael Fort Apt. 917, Heatherville, NM 38291",887.787.1749,61,White,Male,Government,Never Smoked,Moderately Active,Moderate,Fair
+279,Kevin Manning,"62291 Davidson Gardens, Lake Clayton, WY 97028",953.613.5837x811,69,White,Female,Uninsured,Current Smoker,Sedentary,Moderate,Fair
+280,Jared Martin,"8227 Matthew Crossroad, Robertsberg, DE 97618",762-568-5058x46820,14,White,Other,Private,Current Smoker,Sedentary,Moderate,Good
+281,Carla Brooks,"840 Sonya Creek, Campbellland, CA 30421",001-351-707-9798x8778,17,Asian,Female,Government,Former Smoker,Sedentary,Heavy,Fair
+282,Oscar Johnson,"77742 Dean Groves, East Jennastad, PA 04618",+1-381-694-2652,78,White,Male,Government,Former Smoker,Sedentary,Heavy,Poor
+283,Mark Nelson,"2020 Bowen Forges, New Leslieberg, HI 48524",7339963473,28,Asian,Female,Private,Never Smoked,Slightly Active,Moderate,Good
+284,Melvin Taylor,"7898 Sanchez Hollow Suite 390, Christophertown, CT 77740",280.844.7508,40,White,Non-Binary,Government,Never Smoked,Very Active,Moderate,Excellent
+285,Megan Ho,"907 Carol Mission, New Kennethmouth, AK 51488",351.258.2038,76,Asian,Male,Government,Current Smoker,Sedentary,Moderate,Fair
+286,Terri Johnson,"5098 Smith Streets Apt. 193, South Samuel, TX 14064",+1-404-721-9250x14106,19,Asian,Female,Commercial,Current Smoker,Moderately Active,Occasional,Fair
+287,Benjamin Whitney DVM,"0638 Green Manors, South Nicoleborough, SC 81049",(425)946-3474,7,Asian,Male,Commercial,Former Smoker,Sedentary,Occasional,Poor
+288,Tiffany Cruz,"23664 Flynn Unions Apt. 038, Reynoldsville, CT 18619",001-801-489-9966x97193,3,White,Male,Commercial,Current Smoker,Slightly Active,Occasional,Good
+289,Brady Alvarado,"30376 David Turnpike, East Debra, MN 64358",746-712-4380,8,White,Female,Uninsured,Former Smoker,Slightly Active,Moderate,Poor
+290,Hector Luna,"USNV White, FPO AE 77413",514.774.6841x957,70,Asian,Male,Government,Current Smoker,Sedentary,Moderate,Poor
+291,Jonathan Thornton,"409 Contreras Inlet Suite 906, Johnsonton, NE 46430",(661)466-8363,81,White,Female,Uninsured,Former Smoker,Sedentary,Moderate,Good
+292,Elizabeth Charles,"9524 Lewis Prairie Apt. 034, North Brian, DC 62999",3769208623,92,White,Other,Private,Current Smoker,Moderately Active,Occasional,Excellent
+293,Cody Gallagher,"424 Knight Mountain, Castanedashire, KY 84596",001-548-201-4521,55,White,Other,Private,Never Smoked,Slightly Active,Moderate,Fair
+294,Andrea Davis,"2294 Williams Field Apt. 100, Jameshaven, PW 62071",517.418.5762x53676,85,Asian,Non-Binary,Uninsured,Current Smoker,Sedentary,Heavy,Poor
+295,Martin Bell,"58742 Mcdaniel Prairie Suite 592, New Garyhaven, AL 28809",+1-519-677-6957x51547,50,White,Female,Commercial,Never Smoked,Sedentary,Moderate,Excellent
+296,Victoria Rodriguez,"57231 Burton Freeway, Timothychester, KS 97695",(995)520-4794,80,White,Female,Commercial,Current Smoker,Moderately Active,Moderate,Poor
+297,Beth Mcclain,"8652 Nichols Mill Suite 289, Figueroaside, IN 69387",(655)702-1557x336,41,Asian,Female,Government,Former Smoker,Sedentary,None,Poor
+298,Kathleen Gray,"849 Natalie Mountains, Contrerasmouth, CA 17979",(358)832-6813x3655,67,White,Male,Uninsured,Current Smoker,Moderately Active,Occasional,Poor
+299,Patricia Wright,"696 Anthony Well, Cardenasport, MD 43031",001-785-591-2787x13372,70,White,Female,Government,Never Smoked,Slightly Active,Occasional,Fair
+300,Sara Thompson,"02884 Hood Estate, Bonillafort, MN 37483",3429474997,90,Hispanic,Female,Uninsured,Never Smoked,Sedentary,Occasional,Fair
+301,Richard Reyes,"70069 Trevor Drives, Sarahville, FM 75828",+1-731-222-2754,69,White,Female,Government,Former Smoker,Sedentary,Occasional,Fair
+302,Courtney Mitchell,"1491 Robert Unions Apt. 003, Lake Lauraburgh, GA 40874",001-898-724-1837x257,73,Asian,Male,Government,Never Smoked,Sedentary,Heavy,Poor
+303,Chase Hoffman,"59714 Dennis Fields Suite 593, East Ashleyshire, MS 04212",+1-252-592-5023x477,86,White,Female,Uninsured,Former Smoker,Moderately Active,Moderate,Fair
+304,Lindsey Lewis,"4356 Jessica Estate Suite 022, South Kellyland, HI 49350",254.249.8400x4925,87,Asian,Female,Government,Never Smoked,Very Active,Occasional,Fair
+305,Suzanne Guzman,"Unit 1956 Box 0598, DPO AP 14895",(842)689-3805x87100,58,Asian,Non-Binary,Uninsured,Current Smoker,Slightly Active,Moderate,Fair
+306,Gary Webster,"73363 Brown Mountains Suite 991, Olsenhaven, KS 50007",824-585-4231x91913,32,Other,Male,Uninsured,Current Smoker,Sedentary,Occasional,Poor
+307,Chad Taylor,"597 Jennifer Expressway, Chaneyview, AS 30707",6765039403,97,White,Female,Uninsured,Former Smoker,Slightly Active,Heavy,Good
+308,Alicia Arnold,"3495 Tiffany Garden Suite 840, New Erika, IL 84480",001-235-417-6216x2474,11,Asian,Female,Commercial,Former Smoker,Moderately Active,Occasional,Poor
+309,Maria Anthony,"4229 Johnson Stravenue, New Feliciashire, GA 18182",6234143397,9,Asian,Female,Commercial,Never Smoked,Sedentary,None,Fair
+310,Angela Lucas,"508 Leah Turnpike, Fordfurt, MA 54908",(611)513-3835x79110,10,Hispanic,Other,Commercial,Current Smoker,Sedentary,Occasional,Fair
+311,Sabrina Banks,"2014 Courtney Roads, Lake Cory, CO 58440",404.945.1040,57,Asian,Non-Binary,Private,Current Smoker,Sedentary,None,Fair
+312,Paige Tapia,"4748 Larry Burgs, Spencerhaven, NY 92571",+1-807-960-0278x2150,92,Asian,Male,Government,Current Smoker,Moderately Active,Occasional,Excellent
+313,Christopher Aguilar,"6719 Holt Oval, Wendyhaven, TX 44391",921-733-6189x2311,23,Other,Female,Commercial,Current Smoker,Sedentary,Occasional,Poor
+314,James Webb,"225 Robin Locks Apt. 558, East Crystalborough, PA 99064",+1-822-202-7895,64,White,Male,Government,Former Smoker,Sedentary,Moderate,Poor
+315,Matthew Sanchez,"839 Elizabeth Parkway, Harrismouth, VI 28957",657.553.4453x3497,13,White,Male,Commercial,Former Smoker,Sedentary,Heavy,Poor
+316,Michael Fischer,"393 Dominic Stream Apt. 514, Port Paulville, AK 94318",001-688-757-4640x5625,30,White,Other,Government,Never Smoked,Slightly Active,None,Poor
+317,Shannon Livingston,"1984 Amanda Club Suite 326, Lake Hannah, ME 14445",6926411457,72,White,Female,Uninsured,Current Smoker,Sedentary,Occasional,Poor
+318,Jose Wiggins,"14136 Johnson Curve, Barkerland, AS 10002",001-280-452-7152,44,Asian,Male,Uninsured,Never Smoked,Sedentary,None,Excellent
+319,Nicholas Morris,"8668 Potts Ports, Carpenterport, OK 10989",(686)700-5228,6,Hispanic,Female,Government,Never Smoked,Sedentary,Moderate,Poor
+320,Annette Webb,"20972 Smith Junction Apt. 283, South Abigailton, UT 21157",(675)516-8414,78,White,Female,Uninsured,Never Smoked,Sedentary,Moderate,Good
+321,Dr. Valerie Hill,"7670 Jennifer Trafficway, Martinville, AS 58961",+1-598-392-6690x0291,31,Asian,Female,Uninsured,Never Smoked,Sedentary,Moderate,Fair
+322,Sergio Ayala,"Unit 6857 Box 8403, DPO AE 95186",949.935.8291x1080,88,White,Female,Commercial,Former Smoker,Sedentary,Heavy,Fair
+323,Yvette Frey,"00477 Erica Mill, Warrenmouth, MO 14680",750.463.4240x396,12,Hispanic,Other,Other,Current Smoker,Slightly Active,Moderate,Fair
+324,Deanna Craig,"7705 Carol Loaf Apt. 055, North Tammymouth, WI 94610",(686)754-4971,5,White,Female,Uninsured,Former Smoker,Sedentary,Moderate,Poor
+325,Joshua Whitaker,"178 Patel Mount Apt. 093, Port Erinside, MO 21553",886-764-3327,77,Black,Female,Government,Never Smoked,Sedentary,Occasional,Poor
+326,Nicole Watts,"Unit 8913 Box 0056, DPO AA 37333",001-460-860-6679x2341,57,White,Male,Uninsured,Never Smoked,Sedentary,Occasional,Fair
+327,Katelyn Blake,"60518 Meyer Circles, Port Carriefurt, NH 22777",001-481-265-5345x86852,37,Asian,Male,Commercial,Former Smoker,Slightly Active,Occasional,Poor
+328,Stephen Hunter,"5823 Browning Spring Apt. 714, South Karen, PR 01748",856.396.1133x59796,62,Asian,Female,Uninsured,Never Smoked,Moderately Active,Moderate,Poor
+329,Mrs. Shelia Hughes,"1334 Joseph Streets Apt. 380, Port Scott, CA 05705",+1-424-341-7537,27,Asian,Male,Uninsured,Current Smoker,Moderately Active,Moderate,Fair
+330,Joyce Johnson,"86610 Karen Port, Sharonmouth, RI 69214",846.306.9588,63,White,Female,Other,Never Smoked,Sedentary,Moderate,Excellent
+331,Douglas Clark,"689 Sara Ville Suite 492, Franklinmouth, PA 02278",+1-654-830-3840x32961,10,Asian,Non-Binary,Uninsured,Current Smoker,Sedentary,Moderate,Fair
+332,Jeffrey Peterson,"4668 Brandon Views Suite 120, New Jennifer, LA 98985",496.780.0367x1199,64,White,Male,Uninsured,Current Smoker,Sedentary,Occasional,Poor
+333,Travis Johnson,"573 Danielle Mews, East Joshua, AR 16018",(525)540-0567x93407,88,Asian,Female,Government,Former Smoker,Sedentary,Occasional,Fair
+334,Jason Frazier,"98330 Stuart Green, South Jennifer, WY 42034",(945)615-0648,71,White,Female,Commercial,Current Smoker,Sedentary,Moderate,Fair
+335,Michael Gaines,"103 Julie Mall, Jonesstad, ME 97028",880.378.2446,63,White,Male,Government,Former Smoker,Slightly Active,Occasional,Fair
+336,Sean Rose,"79568 Kim Square, Laurenmouth, MH 01321",(714)326-1397x44455,60,Biracial,Male,Commercial,Current Smoker,Sedentary,Moderate,Poor
+337,Victoria Hanson,"2717 Michael Plains Suite 559, Cunninghamport, CT 99216",(836)341-6439,28,Asian,Non-Binary,Government,Never Smoked,Slightly Active,Occasional,Fair
+338,Stephen Taylor,"51297 Sierra Cove, Annashire, OK 45887",649-661-3463x65253,25,Biracial,Female,Uninsured,Current Smoker,Sedentary,None,Fair
+339,Ashley Bell,"566 Murray Viaduct Suite 409, Port Lisaview, MP 40793",773-315-8210,41,Black,Female,Uninsured,Former Smoker,Sedentary,Moderate,Fair
+340,James Melendez,"286 Stone Extension Apt. 300, Michaelton, DC 14046",+1-447-602-7526x6020,68,Asian,Other,Uninsured,Current Smoker,Slightly Active,Occasional,Good
+341,Gregory Dorsey,"331 Morrison Street, Josephview, TN 65651",623-269-9271x7553,92,Hispanic,Female,Uninsured,Current Smoker,Sedentary,Moderate,Good
+342,Kimberly Christian,"658 Trevino Coves, West Richardview, HI 58217",001-212-507-0720x152,57,Asian,Non-Binary,Private,Current Smoker,Sedentary,Moderate,Poor
+343,Mallory Anderson,"063 Tara Cove, Kirstenfort, HI 75845",(222)646-1834x86007,98,Asian,Other,Other,Former Smoker,Sedentary,Moderate,Fair
+344,Lori Beltran,"364 Dana Crossroad, Lake Charles, OK 29692",001-484-448-6196x0605,28,White,Male,Commercial,Current Smoker,Sedentary,Moderate,Good
+345,Crystal Moore,"07648 Wagner Villages Apt. 045, Sarahmouth, CA 71175",(263)980-5889x227,42,White,Non-Binary,Uninsured,Never Smoked,Moderately Active,Occasional,Fair
+346,Debbie Ayala,"4646 James Cape, Port Davidfort, HI 04010",+1-334-349-1776x729,64,Asian,Male,Uninsured,Never Smoked,Sedentary,Moderate,Excellent
+347,Deborah Adams,"30900 Martin Court Apt. 812, Chadfort, PA 10048",001-673-463-1170x889,90,White,Male,Commercial,Former Smoker,Sedentary,Moderate,Fair
+348,Joseph Moses,"9317 Rodriguez Glen, South Mark, ID 89169",521.758.8454x8701,80,Asian,Male,Commercial,Current Smoker,Slightly Active,Occasional,Fair
+349,Shawn Greene,"PSC 2600, Box 6184, APO AA 38636",808-239-1855,48,White,Other,Commercial,Never Smoked,Sedentary,Moderate,Fair
+350,Joel Diaz,"097 Alejandra Garden, Andersonport, ME 39001",(972)686-9441x452,88,White,Female,Uninsured,Never Smoked,Very Active,Heavy,Poor
+351,Lori Reyes,"5199 Anderson Pass Suite 561, New Stanley, ND 62064",837-460-6221x71512,40,Asian,Non-Binary,Government,Former Smoker,Very Active,Heavy,Fair
+352,Alexa White,"81315 Gregory Court, New Michael, HI 54455",+1-876-995-3569x1294,7,Asian,Non-Binary,Commercial,Former Smoker,Sedentary,Occasional,Fair
+353,Jason Waters,"983 Thomas Club, Garciaview, TN 99650",669-437-8180,79,Other,Female,Commercial,Current Smoker,Sedentary,Occasional,Excellent
+354,David Love,"4625 Williams Junctions, Colleenmouth, WV 95988",001-466-631-7865,22,Asian,Male,Government,Never Smoked,Slightly Active,Moderate,Fair
+355,Amy Henderson,"62876 Rodriguez Brooks, West Kaylamouth, TN 94642",001-399-391-7197x5620,6,White,Other,Uninsured,Never Smoked,Moderately Active,Moderate,Fair
+356,Patricia Torres,"20297 Vickie Lodge Suite 843, Masonborough, CT 61049",001-936-784-9412x069,40,Asian,Female,Government,Never Smoked,Sedentary,Heavy,Fair
+357,Marie Tanner,"86187 Clark Summit Suite 734, Lake Steve, IN 98701",325-642-5162,100,White,Female,Uninsured,Current Smoker,Sedentary,Moderate,Fair
+358,Lisa Collins,"31416 Meyer Cape, Christineton, AR 79125",+1-459-412-5561x36212,12,Biracial,Female,Uninsured,Current Smoker,Sedentary,Moderate,Fair
+359,Joshua Harrison,"1187 Wendy Run Apt. 256, Port Marco, AZ 52984",+1-207-934-1471x680,94,White,Male,Uninsured,Former Smoker,Sedentary,Occasional,Excellent
+360,Andrew Baldwin,"0550 Anita Plains Apt. 166, Collinsmouth, WI 01479",703.294.0362,59,White,Non-Binary,Uninsured,Never Smoked,Sedentary,Moderate,Good
+361,Charles Mitchell,"USS Simpson, FPO AE 84475",908-979-3381x04030,75,Asian,Male,Private,Current Smoker,Sedentary,None,Poor
+362,Amy Gardner,"646 Alexander Mews Apt. 158, Amyton, NE 03196",(972)538-2711,41,Asian,Other,Uninsured,Current Smoker,Sedentary,Occasional,Fair
+363,Christopher Mack,"56621 Allen Stream, North Brianborough, WI 49851",+1-488-582-1847,91,Black,Male,Commercial,Never Smoked,Sedentary,Heavy,Fair
+364,Mr. Brett Graves MD,"99504 Medina Port Apt. 400, Martinezfurt, RI 02664",611-293-8268x013,40,Biracial,Other,Private,Current Smoker,Slightly Active,Moderate,Excellent
+365,Henry Lopez,"505 Chris Estates, Port Sarah, FL 96267",001-598-590-7698x637,17,Asian,Male,Uninsured,Never Smoked,Sedentary,Heavy,Fair
+366,Karen Austin,"41511 Amy Corners, East Jennaside, MD 33344",001-438-376-5294x9380,95,White,Female,Uninsured,Former Smoker,Sedentary,Moderate,Excellent
+367,Mathew Castro,"USS Hall, FPO AE 88895",404.429.8372x271,61,Asian,Male,Uninsured,Current Smoker,Slightly Active,Moderate,Fair
+368,Vicki Ramos,"Unit 5888 Box 9455, DPO AA 24990",382-981-6099x630,87,Hispanic,Male,Government,Never Smoked,Sedentary,Heavy,Fair
+369,Cody Casey,"Unit 6822 Box 0832, DPO AE 65533",458-889-4941x36698,93,Asian,Male,Uninsured,Never Smoked,Sedentary,Moderate,Poor
+370,Alison Adkins,"8650 Lisa Way Apt. 612, South Ericburgh, NE 84952",+1-406-441-3944,87,White,Male,Uninsured,Never Smoked,Slightly Active,Heavy,Fair
+371,George Maldonado,"1231 Martinez Locks, Port Bradley, NH 34438",(802)624-0300,75,White,Male,Uninsured,Never Smoked,Very Active,Heavy,Poor
+372,Kelly Chavez,"USCGC Sanchez, FPO AP 36203",953.703.4300x10160,25,White,Male,Uninsured,Never Smoked,Sedentary,Heavy,Good
+373,Samuel Garcia,"129 Diaz Grove, North Karamouth, PR 30972",+1-662-477-7980x4232,92,White,Male,Government,Never Smoked,Slightly Active,Moderate,Fair
+374,Heidi Davidson,"2735 Gutierrez Freeway, South Adamport, NE 14980",(461)741-1980x985,24,Asian,Male,Uninsured,Never Smoked,Slightly Active,Occasional,Excellent
+375,James Kirk,"PSC 1423, Box 7944, APO AP 03834",+1-349-472-5105x6920,62,White,Male,Government,Never Smoked,Sedentary,Moderate,Poor
+376,Richard Copeland,"8301 Doris Fort, New Lisaton, NJ 48472",4672708474,7,Asian,Female,Private,Current Smoker,Sedentary,Occasional,Excellent
+377,Michael Baxter,"Unit 3740 Box 4491, DPO AA 28286",758.633.8024x11794,22,Asian,Male,Government,Former Smoker,Moderately Active,None,Good
+378,Shelly Mayer,"8878 Todd Curve, Lake Bruce, AZ 65511",342-561-6987,76,White,Female,Government,Former Smoker,Slightly Active,Occasional,Fair
+379,Sharon Barker,"USNV Smith, FPO AE 29152",(802)898-7821x014,98,White,Male,Government,Former Smoker,Sedentary,Moderate,Fair
+380,Keith Mcclain,"893 Jensen Plain Apt. 436, Vanceshire, WA 17870",854-621-6458,4,White,Female,Government,Current Smoker,Sedentary,Occasional,Fair
+381,Claudia Daniels,"12039 Marissa Views, Tuckerfort, NC 52913",2014430709,17,White,Male,Uninsured,Current Smoker,Sedentary,Occasional,Fair
+382,Dana Todd,"3344 Adam Squares Suite 099, Grantmouth, ME 08459",283.619.7373,94,White,Male,Government,Former Smoker,Very Active,None,Excellent
+383,Jennifer Reyes,"495 Jane Lodge Suite 006, West Jameshaven, LA 29456",948.420.3838x80349,100,White,Male,Government,Former Smoker,Very Active,None,Poor
+384,Whitney Harris,"883 Nelson Valleys Suite 292, Anthonyfort, FM 98371",001-898-564-9040,73,White,Female,Government,Never Smoked,Slightly Active,Heavy,Good
+385,Rebecca Thompson,"671 Mendoza Lane, Port Andre, NE 67350",369-876-6586,67,White,Female,Commercial,Former Smoker,Sedentary,Heavy,Fair
+386,John May,"92834 Diane Plaza, Noahside, HI 58597",(334)665-0341,2,White,Female,Government,Never Smoked,Sedentary,Occasional,Fair
+387,Dillon Hernandez,"2388 Jacqueline Estate, New Brandon, MI 34116",730.460.1777,13,White,Female,Uninsured,Current Smoker,Slightly Active,Occasional,Poor
+388,Terri Hodge,"713 Smith Forges, Wheelerfort, IL 11380",001-525-534-0106x87064,36,Asian,Other,Other,Former Smoker,Slightly Active,Moderate,Poor
+389,Daniel Little,"16688 Hobbs Mews Apt. 277, Lake Bettyfort, OR 04735",657.230.9650x575,73,Biracial,Male,Other,Former Smoker,Sedentary,Occasional,Fair
+390,Emily West,"28066 Sherri Loaf, Rebeccamouth, DE 57356",7849466151,49,White,Male,Commercial,Never Smoked,Sedentary,Heavy,Fair
+391,Tracy Miller,"19791 Aguilar Key, Christensenside, ND 02446",5013137872,34,White,Male,Uninsured,Former Smoker,Sedentary,Occasional,Poor
+392,Joseph Mack,"Unit 9257 Box 9617, DPO AE 37534",383.952.5107x546,76,Native American or Alaskan Native,Male,Uninsured,Current Smoker,Sedentary,Moderate,Poor
+393,Madison Mendoza,"29614 Rasmussen Stream Suite 196, South Brittany, MA 50296",5865311129,79,White,Male,Government,Former Smoker,Slightly Active,Occasional,Good
+394,Courtney Cooper,"05149 Morales Forks Apt. 621, Samueltown, VT 09040",(718)715-0376,92,White,Male,Uninsured,Never Smoked,Sedentary,Moderate,Fair
+395,Christopher Reed,"790 Myers Inlet, Mcclainborough, MD 39736",3946799481,91,Asian,Female,Uninsured,Never Smoked,Slightly Active,Heavy,Fair
+396,Donald Sawyer,"1644 Julie Pine, North Angelaburgh, IA 24047",801.802.2679,22,Hispanic,Other,Government,Current Smoker,Very Active,Heavy,Poor
+397,Timothy Martin,"3648 Smith Glen Suite 404, Craighaven, CA 94320",001-752-732-2563,14,White,Female,Government,Never Smoked,Sedentary,None,Poor
+398,Dana White,"231 Davis Locks, Lake Madisonfurt, KY 24995",880-997-0795x98407,46,Biracial,Male,Uninsured,Never Smoked,Sedentary,Moderate,Poor
+399,Omar Rice,"21796 Gomez Villages Suite 836, East Christinaland, MO 41252",+1-344-246-6326x997,79,White,Female,Government,Former Smoker,Sedentary,Moderate,Poor
+400,Andrew Wilson,"3861 Edward Trail Suite 411, West Benjaminton, TX 40869",557-580-1500x84223,89,Hispanic,Female,Uninsured,Former Smoker,Slightly Active,Occasional,Fair
+401,Peter Davis,"32096 Chapman Gardens Apt. 214, Velezmouth, CA 69658",+1-379-487-4615,93,White,Female,Commercial,Former Smoker,Sedentary,Heavy,Good
+402,Renee Macias,"PSC 5300, Box 9438, APO AE 45153",481.818.3832x91196,81,Hispanic,Male,Uninsured,Current Smoker,Sedentary,Occasional,Fair
+403,Claire Price,"76624 Martinez Ridges, East Katrina, PW 11776",466-237-2391x98239,18,Asian,Female,Uninsured,Current Smoker,Sedentary,Moderate,Good
+404,John Roy,"483 Berg Track, West Sarahland, IN 16941",564-560-7988,52,Asian,Female,Government,Current Smoker,Sedentary,None,Fair
+405,Isaiah Williams,"9915 Huff Stream, New Steven, MD 39851",3014496135,99,White,Female,Uninsured,Never Smoked,Sedentary,Occasional,Poor
+406,Katelyn Parker,"577 Colin Creek, Christopherside, FM 11826",(247)202-4927,32,White,Female,Uninsured,Current Smoker,Sedentary,Moderate,Fair
+407,Stephanie Fischer,"4816 Ashley Loop, East Heidi, WY 04109",001-866-673-9321x53556,68,Hispanic,Female,Government,Never Smoked,Sedentary,Moderate,Fair
+408,Christine Webb,"40888 Smith Ferry Apt. 932, Rodriguezfort, VI 76025",742-479-1928x14575,39,Asian,Male,Uninsured,Former Smoker,Sedentary,Moderate,Fair
+409,Julie Bowman,"78605 Andrew Crest Suite 791, Kristinton, KS 44870",001-887-904-4851x91870,11,Hispanic,Male,Uninsured,Never Smoked,Sedentary,Heavy,Excellent
+410,Laura Lutz,"42929 Good Square Suite 939, Lake Nicholasfurt, KY 59658",263.606.4171,59,White,Female,Commercial,Current Smoker,Sedentary,Heavy,Poor
+411,Karen Hall,"0437 Emily Plains Suite 810, New Emilyport, WA 48852",474.374.5237x41143,40,Black,Female,Commercial,Former Smoker,Sedentary,Occasional,Fair
+412,Kimberly Smith,"72947 Catherine Loop, Douglastown, PA 93323",468.381.6431x53292,72,White,Male,Government,Current Smoker,Moderately Active,Moderate,Fair
+413,Kelli Orr,"512 Erik Harbor Apt. 035, Kristinside, KS 83786",706-609-4946,62,White,Male,Uninsured,Never Smoked,Slightly Active,None,Poor
+414,Stacy Kaufman,"79378 Pamela Brooks Apt. 960, Brightstad, NY 87931",696-504-7275,82,Asian,Male,Government,Former Smoker,Sedentary,Heavy,Fair
+415,Michael Cummings,"87811 Harris Springs, South Emily, ME 32936",639.459.8369,88,Asian,Female,Commercial,Current Smoker,Sedentary,Occasional,Fair
+416,Benjamin Reilly,"3065 Danielle Loaf, Henrymouth, NC 96370",808-661-2965x038,83,White,Female,Government,Never Smoked,Slightly Active,Moderate,Poor
+417,Harold Gonzalez,"4827 Palmer Forest, South Dalton, MP 08604",001-945-642-0084x62576,65,White,Female,Government,Former Smoker,Sedentary,Heavy,Good
+418,Michael Hall,"533 Harris Court, North Melaniebury, IL 41423",8565481556,44,Black,Female,Commercial,Never Smoked,Very Active,Heavy,Fair
+419,Margaret Roberts,"9403 Johnson Harbors Apt. 029, East John, NJ 51834",001-334-998-1711,12,Asian,Female,Uninsured,Former Smoker,Slightly Active,Occasional,Good
+420,Jermaine Solis,"242 Williams Summit Apt. 991, New Colleen, AZ 12270",(755)389-8323x536,32,White,Female,Private,Current Smoker,Sedentary,Occasional,Excellent
+421,Joyce Peterson,"0152 Porter Trail Apt. 740, North Kimberly, KY 83453",(912)984-0336x07096,6,White,Female,Uninsured,Never Smoked,Sedentary,Heavy,Poor
+422,Linda Wells,"94354 White Street, West Jeremy, AZ 37753",555-777-1002x1626,61,Asian,Male,Uninsured,Current Smoker,Sedentary,Heavy,Fair
+423,Pamela Marsh,"3469 Stephens Village, Millermouth, UT 35136",710-731-5593x0571,66,Asian,Female,Uninsured,Current Smoker,Slightly Active,Moderate,Fair
+424,Elizabeth Jenkins DVM,"55167 Tiffany Terrace, Lake Christopher, NH 15741",001-832-852-5248,59,Asian,Non-Binary,Private,Current Smoker,Sedentary,Moderate,Good
+425,David Mason,"1655 Philip Corner, New Joshua, NJ 36942",001-446-561-8363x061,81,Black,Female,Uninsured,Current Smoker,Sedentary,Occasional,Poor
+426,Travis Baker,"61232 Smith Brooks, Bensonland, SC 52347",456.547.8690,18,Asian,Male,Uninsured,Former Smoker,Sedentary,Occasional,Fair
+427,Gabriela Duran,"035 Johnson Spurs Suite 992, Port Patriciamouth, MD 36261",001-935-587-2764x622,3,White,Male,Uninsured,Current Smoker,Slightly Active,Moderate,Poor
+428,Whitney Weber,"PSC 1775, Box 6696, APO AA 20404",541.799.2757,35,Asian,Male,Uninsured,Never Smoked,Sedentary,Moderate,Fair
+429,Bryan Murray,"PSC 9650, Box 7814, APO AA 01058",6049224962,86,Asian,Male,Uninsured,Current Smoker,Sedentary,Moderate,Fair
+430,Lucas Hicks,"USNS Cruz, FPO AE 77602",546.774.4485x33299,37,Native American or Alaskan Native,Male,Uninsured,Current Smoker,Sedentary,Heavy,Fair
+431,James Rodriguez,"PSC 4546, Box 7034, APO AP 95690",(512)871-6271,25,Biracial,Male,Private,Never Smoked,Slightly Active,Moderate,Fair
+432,Darlene Spencer,"Unit 7477 Box 1998, DPO AE 95916",962.330.4386x375,78,Hispanic,Female,Private,Former Smoker,Sedentary,Moderate,Poor
+433,Claudia Mccullough,"5652 Carpenter Field, South Edward, VA 60369",001-734-980-9453x13031,47,White,Female,Government,Never Smoked,Sedentary,Occasional,Poor
+434,Krystal Calhoun,"891 Lori Skyway, Port Jenniferport, MO 02997",865.526.4840,91,White,Male,Government,Former Smoker,Very Active,Occasional,Fair
+435,Susan Hunter,"3938 Durham Parks Suite 178, Michaelchester, AL 94035",+1-301-400-7760x122,71,Asian,Female,Government,Former Smoker,Moderately Active,Occasional,Poor
+436,Valerie Ortiz,"00432 Gary Islands, West Melissastad, MH 80129",733-944-5349x3177,53,Asian,Female,Commercial,Current Smoker,Sedentary,Moderate,Poor
+437,Mark Richard,"833 Wolf Spurs, North Jessica, FL 57233",732-805-2909x72379,62,Asian,Female,Uninsured,Never Smoked,Sedentary,Heavy,Poor
+438,Michael Allen,"USCGC Perry, FPO AP 93648",001-858-774-1676x275,92,Asian,Non-Binary,Government,Current Smoker,Sedentary,Heavy,Fair
+439,Brenda Welch,"Unit 5897 Box 3381, DPO AA 00655",001-835-328-3558x746,95,Asian,Male,Government,Current Smoker,Sedentary,Moderate,Fair
+440,Paul Smith,"89362 Johnson Track Suite 251, West Paigemouth, AL 16376",525-330-4155,53,Hispanic,Male,Commercial,Never Smoked,Sedentary,Moderate,Poor
+441,Benjamin Bryant,"PSC 4220, Box 7836, APO AE 97288",667-750-1971x1073,10,Hispanic,Male,Government,Current Smoker,Sedentary,Heavy,Fair
+442,Rachael Simmons,"040 Tran Shoal, Andersonfurt, WV 67186",001-839-534-2405,25,Biracial,Other,Commercial,Former Smoker,Moderately Active,Heavy,Poor
+443,Dawn Cruz,"387 Devin Streets, South Kimberly, SD 43824",351-215-0852x7892,39,Asian,Male,Other,Current Smoker,Sedentary,Heavy,Fair
+444,Holly Bean,"465 Allen Courts Apt. 414, Lake Rickyport, PR 45357",639.731.0579x940,43,Asian,Female,Other,Current Smoker,Sedentary,Occasional,Good
+445,Zachary Thompson,"53535 Turner Underpass Apt. 021, South Allenshire, IN 69602",(288)209-3127,71,Hispanic,Other,Government,Former Smoker,Sedentary,Heavy,Fair
+446,Gregory Anderson,"917 David Ways, East Johnton, SD 55015",(521)943-0504x50119,62,White,Male,Government,Current Smoker,Slightly Active,Moderate,Poor
+447,Jennifer Chen,"54797 Matthew Ramp Suite 682, Maxwellchester, MP 63816",753.246.8292x67894,89,Asian,Female,Government,Current Smoker,Slightly Active,Occasional,Good
+448,Rodney Elliott,"97846 Ross Green Apt. 557, Susanview, FL 84202",(895)411-8899,3,White,Female,Government,Never Smoked,Sedentary,Heavy,Excellent
+449,Kenneth Soto,"677 Joe Parkways Suite 599, Susanshire, IL 71859",001-855-939-1000,59,Asian,Non-Binary,Commercial,Former Smoker,Moderately Active,Moderate,Fair
+450,Jordan Chan,"33774 Sheila Divide, Davidmouth, ND 63237",714-529-4722x94546,12,Asian,Male,Uninsured,Never Smoked,Moderately Active,Heavy,Good
+451,Veronica Jones,"1103 Jason Passage Apt. 957, Christopherfurt, MD 17466",719-449-3292,46,White,Female,Commercial,Former Smoker,Slightly Active,Occasional,Fair
+452,Brian Higgins,"6096 Payne Views, Garciaberg, NJ 69695",001-474-566-5959,95,Asian,Female,Uninsured,Current Smoker,Sedentary,Moderate,Poor
+453,Andrew Graham,"5569 Ayala Squares Suite 308, New Ashleymouth, VA 16840",812.251.1936,11,White,Other,Uninsured,Former Smoker,Sedentary,Moderate,Fair
+454,Mr. Christopher Lewis,"7744 Dawn Stravenue, Brandonton, VT 32920",+1-668-740-6380,20,Other,Male,Government,Current Smoker,Sedentary,Occasional,Poor
+455,Jared Gray,"32609 Marissa Forest Suite 715, Macdonaldville, NE 07808",001-583-501-0193x0766,46,Black,Male,Private,Current Smoker,Moderately Active,Heavy,Poor
+456,Kristin Moore,"947 Madison Gardens Apt. 463, South Gregory, MO 13403",001-268-937-0022x329,37,Hispanic,Female,Uninsured,Never Smoked,Slightly Active,Occasional,Poor
+457,Brian Brown,"76690 Frank Prairie Apt. 572, Taylorview, SC 57806",783.847.0188,65,Asian,Male,Uninsured,Current Smoker,Sedentary,Heavy,Good
+458,Brian Moore,"54230 Johnson Road, Lake Michael, GU 51806",630.268.5035x7468,85,White,Other,Uninsured,Former Smoker,Slightly Active,Heavy,Fair
+459,Suzanne Friedman,"PSC 6694, Box 3835, APO AP 41131",817.408.7814x83155,16,White,Male,Uninsured,Never Smoked,Sedentary,Occasional,Fair
+460,Roberta Thomas,"1903 Neal Cove Suite 711, Lake Kayleeside, VA 75188",(933)466-7477x58579,40,Hispanic,Male,Government,Never Smoked,Sedentary,Moderate,Poor
+461,Donald Robinson,"97612 Cheryl Estate Suite 173, East Cheyennefort, NY 73813",(703)562-2192,35,White,Male,Uninsured,Never Smoked,Moderately Active,Moderate,Poor
+462,Tracy Mcguire,"2231 Douglas Cove, Joshuafurt, IN 37371",+1-576-994-5439x4282,100,White,Non-Binary,Private,Former Smoker,Sedentary,Heavy,Fair
+463,Luis Chapman,"4712 Sanchez Track Apt. 009, Cynthiastad, UT 97111",(789)429-6856x936,49,White,Female,Commercial,Former Smoker,Sedentary,Moderate,Poor
+464,Jasmine Baker,"02170 Joseph Village Suite 680, Brownington, NY 12042",(517)811-6358,97,Hispanic,Female,Private,Current Smoker,Sedentary,None,Fair
+465,Angela Collins,"1776 Bautista Mews, New Jefferymouth, ND 57284",(919)309-4050x04001,28,Hispanic,Male,Uninsured,Current Smoker,Slightly Active,Moderate,Fair
+466,Mariah Jacobson,"9873 Jones Burg Apt. 941, Josephburgh, DC 45265",895-220-4738,5,Asian,Female,Uninsured,Never Smoked,Sedentary,Occasional,Excellent
+467,Charles Gonzalez,"2204 Nicole Mountain Suite 166, Taylorfort, AL 28681",001-710-651-7588x026,90,Hispanic,Male,Government,Former Smoker,Sedentary,Heavy,Fair
+468,Angela Warner,"941 Sampson Heights, Port Terryfurt, NV 23867",(481)764-8238x700,84,Asian,Non-Binary,Government,Never Smoked,Sedentary,Heavy,Good
+469,John Garcia,"265 Moon Walk Apt. 341, New Erin, MI 64069",305-775-8616,38,White,Female,Commercial,Former Smoker,Sedentary,Moderate,Poor
+470,Aaron Perkins,"219 Carter Gardens, Romeroside, NJ 07537",+1-492-424-3787x7020,93,Hispanic,Female,Commercial,Current Smoker,Moderately Active,Occasional,Good
+471,William Smith,"0415 Henderson Brook, Lake Robert, VI 01808",001-924-540-9858x4692,21,Other,Non-Binary,Uninsured,Current Smoker,Sedentary,Occasional,Fair
+472,Jesse Robertson,"917 Todd Rest, New Davidfurt, AZ 87633",(732)945-5396x41555,84,Other,Female,Government,Current Smoker,Sedentary,Moderate,Poor
+473,Melissa Carpenter,"02429 Webb Path, Murrayburgh, OH 31737",785.428.0524,89,White,Female,Commercial,Former Smoker,Sedentary,Moderate,Fair
+474,Wendy Mccarthy,"5945 Parker Green Apt. 091, West Nicholasport, DE 38346",001-392-981-3669x61303,10,White,Male,Uninsured,Former Smoker,Sedentary,Occasional,Fair
+475,James Conway,"4866 Russell Prairie Suite 545, Aaronhaven, AS 39724",801.832.9310x410,71,White,Female,Commercial,Current Smoker,Sedentary,None,Good
+476,Christine Cervantes,"7184 Madeline Row, East Brittney, SC 26795",469.551.2382x701,49,Black,Male,Government,Never Smoked,Sedentary,Moderate,Excellent
+477,Tricia Lewis,"37078 Jennifer Vista, North Nicholas, DE 73239",979-345-5117,74,Black,Non-Binary,Uninsured,Never Smoked,Sedentary,Occasional,Fair
+478,Alexa Rowe,"087 Amanda Island, Judithtown, KS 17206",264-255-7622,63,Black,Male,Uninsured,Former Smoker,Very Active,Occasional,Poor
+479,Thomas Shaw,"PSC 4831, Box 3446, APO AE 33658",(695)728-3600,13,Asian,Male,Commercial,Former Smoker,Sedentary,Occasional,Poor
+480,Eric Sanchez,"321 Robert Bridge Suite 997, Jenniferland, GU 85417",001-396-304-5300x27515,1,Other,Male,Uninsured,Former Smoker,Sedentary,Occasional,Fair
+481,Shane Weiss,"91038 Mann Burg Suite 272, Whitneyfort, ND 05432",001-972-608-9839x412,55,Black,Male,Commercial,Former Smoker,Sedentary,None,Fair
+482,John Rojas,"641 Nicole Valley, New Dylanborough, FM 23650",001-341-263-0007,24,White,Male,Government,Former Smoker,Sedentary,Moderate,Fair
+483,Jacob Douglas,"730 Daniel Prairie, Hernandezmouth, SC 97530",001-352-601-0244x26180,91,White,Male,Uninsured,Current Smoker,Sedentary,Moderate,Excellent
+484,Taylor Berger,"8174 Linda View, Willisbury, ID 30142",+1-949-693-5543,54,Asian,Male,Private,Former Smoker,Sedentary,Moderate,Fair
+485,Elizabeth Callahan,"PSC 0120, Box 2733, APO AP 50901",792-380-8840x6522,79,Asian,Female,Commercial,Never Smoked,Slightly Active,None,Fair
+486,Hayden Reed,"7604 Gutierrez Courts Apt. 965, North Travis, NY 79825",653-397-2817,81,Asian,Female,Government,Current Smoker,Sedentary,None,Fair
+487,Ralph Brock,"2198 Myers Harbor, Stephenbury, VT 72228",975.396.1055x937,19,White,Female,Uninsured,Current Smoker,Sedentary,Moderate,Fair
+488,Curtis Montoya,"9376 Clark Orchard, Elizabethstad, OK 05068",(368)866-6099,1,Black,Male,Government,Current Smoker,Sedentary,Moderate,Fair
+489,Amy Acosta,"288 Charles Trail Suite 603, Port Amanda, MI 10286",837.902.2127x46014,99,Biracial,Male,Uninsured,Current Smoker,Sedentary,None,Fair
+490,Donald Norris,"39596 Harding Points Suite 862, Hallland, FM 92265",+1-520-506-0574x67750,23,Black,Female,Government,Current Smoker,Moderately Active,Moderate,Fair
+491,Ashley Martinez,"USS Miller, FPO AP 85724",405.442.8784,82,Asian,Other,Private,Former Smoker,Sedentary,Moderate,Fair
+492,David Smith,"6118 Wagner Expressway, Stevenland, VT 37240",374.512.8278,58,Black,Other,Commercial,Current Smoker,Sedentary,Occasional,Fair
+493,Terry Hunt,"12017 Carol Station Suite 835, Woodmouth, NC 38452",311-790-3949,45,Hispanic,Male,Other,Never Smoked,Sedentary,Moderate,Poor
+494,Abigail Davis,"90717 Gordon Trail, Pruittport, MN 98197",(733)376-6506x40316,69,White,Male,Uninsured,Current Smoker,Sedentary,Occasional,Fair
+495,Raven Thomas,"893 Castro Stravenue, South Sharon, NY 80300",333.415.3715x506,96,Asian,Male,Commercial,Former Smoker,Sedentary,None,Poor
+496,Michele Jordan,"63621 Freeman Stream Apt. 340, West Amanda, HI 45654",(818)937-6713,47,Asian,Female,Commercial,Former Smoker,Sedentary,Occasional,Poor
+497,Heather Willis,"79238 Anderson Corner, Port Scott, AZ 16025",(511)869-1188x6709,69,Other,Female,Commercial,Former Smoker,Moderately Active,None,Fair
+498,Amy Kelly,"78851 Sherry Avenue Suite 263, North David, CO 09913",001-278-766-0348x11424,42,Asian,Female,Commercial,Current Smoker,Sedentary,Occasional,Fair
+499,George Cunningham,"9167 Jason Brook, Ritabury, HI 18075",511-423-9466x70610,34,White,Female,Uninsured,Former Smoker,Sedentary,Heavy,Fair
+500,Michael Johnson,"1947 Mata Union, Samueltown, MD 69147",838.564.1267x0601,2,White,Male,Government,Never Smoked,Moderately Active,Moderate,Fair
+501,Sean Daniels,"6489 Aguilar Forge, New Sarah, NM 43846",001-280-436-9005x47494,58,Hispanic,Female,Government,Former Smoker,Sedentary,Moderate,Poor
+502,John Yang,"48847 White Centers Apt. 487, Josephberg, NH 28909",001-240-405-8755x62818,4,Other,Non-Binary,Government,Current Smoker,Moderately Active,Moderate,Fair
+503,Thomas Hunter,"250 Moore Parkways, Brookestad, WV 02645",(434)356-5400,6,Asian,Female,Uninsured,Former Smoker,Moderately Active,Moderate,Fair
+504,Sonya Choi,"679 Banks Harbor, East Jessica, GA 97329",(597)547-0360x6051,86,Hispanic,Female,Commercial,Never Smoked,Sedentary,None,Poor
+505,Sarah Reed,"92233 Brittany Glens Suite 435, Stevenview, RI 05745",(675)652-9111,74,Asian,Female,Uninsured,Current Smoker,Moderately Active,Heavy,Poor
+506,Laura Marshall,"05488 Silva Pass, North Matthewland, VT 11576",307-550-5301x3960,81,White,Female,Commercial,Current Smoker,Sedentary,Heavy,Fair
+507,Adam Mcdonald,"797 Robertson Villages Suite 324, Lake Yolanda, VI 29903",+1-665-582-6032,19,Asian,Female,Private,Former Smoker,Slightly Active,Moderate,Fair
+508,Ann Hubbard,"49121 Matthew View, Josephburgh, MN 03220",578.868.5989x59284,13,White,Male,Government,Current Smoker,Slightly Active,Moderate,Good
+509,Nicholas Bradford,"395 Christina Stravenue Apt. 698, Crystalview, TN 14763",266-429-8953x88666,64,Asian,Female,Government,Former Smoker,Sedentary,Heavy,Fair
+510,Jacqueline Thomas,"1447 Singh Route Suite 827, South Janice, OH 59642",886-356-3920,14,White,Female,Government,Never Smoked,Sedentary,Occasional,Poor
+511,Elizabeth Gates,"286 Phillips Crossroad, Tristanshire, AR 64671",295-802-1154x058,14,Hispanic,Other,Uninsured,Current Smoker,Moderately Active,Moderate,Fair
+512,Bernard Johnson,"44920 Kathleen Roads, South Rachel, IA 04568",(516)672-5285,52,Asian,Male,Commercial,Current Smoker,Sedentary,Moderate,Poor
+513,Leslie Rose,"46678 Todd Port, North Clarence, WY 16087",603.331.0728x6837,32,Asian,Other,Uninsured,Current Smoker,Sedentary,Occasional,Good
+514,Thomas White,"46935 Shah Village, Michaelmouth, AR 13126",6074780345,25,Other,Female,Government,Current Smoker,Sedentary,Moderate,Fair
+515,Alyssa Wright,"Unit 9396 Box 5851, DPO AE 88414",775-544-2524x049,16,White,Female,Uninsured,Never Smoked,Sedentary,Heavy,Poor
+516,James Lee,"3097 Cynthia Club, Gomezstad, AS 41932",225-388-4896x448,77,Hispanic,Male,Commercial,Current Smoker,Very Active,Moderate,Fair
+517,Marcus Graves,"7502 Matthews Centers, Owenschester, RI 96319",418-749-7952x09321,19,White,Non-Binary,Commercial,Former Smoker,Sedentary,None,Poor
+518,Greg Glover,"1114 Williams Islands, Michelemouth, OH 61653",816-935-7292,82,White,Male,Uninsured,Current Smoker,Slightly Active,Moderate,Fair
+519,Jamie Whitney,"42981 Osborne Row, Jamieton, AS 62214",001-580-630-1822x91979,58,Other,Female,Other,Current Smoker,Slightly Active,Moderate,Excellent
+520,Glenn Mercado,"6075 Welch Flats Suite 930, East Jillville, MP 21876",001-409-895-5711x23909,64,White,Non-Binary,Private,Never Smoked,Slightly Active,Occasional,Fair
+521,Brian Hampton,"20050 Danielle Rue Suite 531, Averyville, NM 37117",290.917.1933x318,55,White,Female,Uninsured,Former Smoker,Slightly Active,Moderate,Fair
+522,James Jordan,"142 Crystal Squares, Brayside, IL 30013",905.278.2238x196,15,White,Male,Private,Former Smoker,Sedentary,Moderate,Poor
+523,Ashley Nguyen,"1154 Wade Trail, East Carrietown, WI 89750",538.787.7888,50,White,Male,Uninsured,Current Smoker,Slightly Active,Heavy,Fair
+524,Rebecca Rodriguez,"08184 Christopher Harbors Suite 049, West Stephanie, MS 94225",5529162826,37,White,Female,Other,Former Smoker,Sedentary,Moderate,Poor
+525,Derek Campbell,"1340 Jeremy Spring Suite 658, East Melissaland, LA 95322",001-746-659-4352,33,Black,Male,Government,Current Smoker,Slightly Active,Occasional,Poor
+526,Daniel Johnson,"8083 William Crest Suite 004, Lake Brandonton, VT 50830",001-785-762-9606x28054,31,Biracial,Male,Commercial,Former Smoker,Slightly Active,Occasional,Fair
+527,Kelly Copeland MD,"08721 Roberts Walk, North Maria, GA 84649",915-297-4447,27,Asian,Female,Commercial,Never Smoked,Slightly Active,Moderate,Good
+528,Julie Shields,"859 Kayla Springs Suite 963, Lake Joseph, MI 92596",480-379-2664x6679,64,Asian,Female,Uninsured,Never Smoked,Sedentary,Heavy,Fair
+529,Jose Gibson,"876 Justin View Suite 680, Lake Vanessa, DC 98851",265.769.1190,20,Hispanic,Female,Uninsured,Current Smoker,Sedentary,Moderate,Poor
+530,Benjamin Brown,"134 Kristen Rapids Suite 284, New Tonystad, AR 68631",+1-232-531-2804x0307,97,Hispanic,Non-Binary,Government,Never Smoked,Sedentary,Moderate,Poor
+531,Kathy Williams,"361 Joshua Turnpike, Dustinshire, FM 55906",(215)977-8361x40257,35,Native American or Alaskan Native,Male,Commercial,Never Smoked,Sedentary,Heavy,Good
+532,Shari Smith,"23609 Washington Islands Suite 942, Donovanside, NC 03135",264.529.6079,8,Asian,Male,Government,Current Smoker,Slightly Active,Moderate,Fair
+533,Ann Waller,"926 Lauren Skyway, Davidmouth, PR 25043",001-573-333-7019x2606,61,White,Female,Uninsured,Never Smoked,Slightly Active,Moderate,Good
+534,Paul Hart,"7830 Rhonda Rest, East Scottshire, AZ 31984",700-997-0655x164,96,Other,Male,Uninsured,Current Smoker,Sedentary,Heavy,Fair
+535,Jeffrey Davis,"Unit 7583 Box 2709, DPO AA 21541",+1-346-218-5572,42,Other,Male,Government,Former Smoker,Slightly Active,Occasional,Good
+536,Steven Lynn MD,"09388 Scott Bypass, Port Johnberg, CA 83351",443.364.5141x12929,64,White,Male,Uninsured,Former Smoker,Sedentary,Moderate,Poor
+537,Jason Burns,"Unit 8647 Box 9748, DPO AP 07787",001-370-500-7295,82,White,Female,Government,Current Smoker,Sedentary,Occasional,Fair
+538,Larry Black,"42546 Mitchell Lane Suite 004, Stevenburgh, CO 92268",+1-824-583-1055x81312,16,Asian,Female,Uninsured,Current Smoker,Sedentary,None,Fair
+539,Joseph Mack,"7279 Andrea River, New Daltonview, PR 51726",562.309.8202x195,66,Asian,Female,Government,Current Smoker,Slightly Active,Occasional,Poor
+540,Martin Cannon,"356 Smith Street Apt. 094, Lake Jenniferton, IN 54297",+1-694-360-0950x92958,96,Asian,Male,Private,Current Smoker,Sedentary,Heavy,Excellent
+541,David Brock,"659 Jordan Valleys Apt. 766, Novakhaven, MP 18675",833.256.0036x616,33,Biracial,Female,Uninsured,Current Smoker,Sedentary,Moderate,Fair
+542,Robert Ellis,"7365 Joan Green Suite 056, Curryborough, PR 49676",573.451.2637x53181,57,White,Female,Government,Former Smoker,Slightly Active,Heavy,Fair
+543,Steven Thomas,"44884 Crawford Brook Apt. 904, South Luis, OK 82173",001-833-659-9696x7161,38,White,Male,Uninsured,Never Smoked,Sedentary,Occasional,Good
+544,Sharon Barry DDS,"USNS Owens, FPO AE 65719",+1-789-434-5617x04409,27,Asian,Female,Commercial,Current Smoker,Slightly Active,None,Fair
+545,Elizabeth Diaz,"303 Harris Island, Linberg, FL 58286",001-577-515-3898x9275,3,Asian,Non-Binary,Commercial,Never Smoked,Sedentary,Moderate,Good
+546,John White,"979 Rita Village, Bradfordmouth, AR 80354",277-804-0221x35384,1,White,Male,Government,Former Smoker,Sedentary,Occasional,Excellent
+547,Kelly Hernandez,"7248 Evan Cliffs Apt. 612, South David, PW 32030",682.673.4483x77782,61,Hispanic,Male,Uninsured,Current Smoker,Very Active,Moderate,Fair
+548,Megan Briggs,"41617 Gregory Corner Suite 615, South Robert, KS 11029",(649)763-5476,54,White,Female,Commercial,Never Smoked,Slightly Active,Occasional,Fair
+549,Ashley Wood,"17456 Zachary Prairie Apt. 981, Port Nicholasmouth, MP 45415",(340)842-8573x648,26,Native American or Alaskan Native,Female,Commercial,Never Smoked,Sedentary,Occasional,Poor
+550,Alexandra Miller,"4173 Watts Radial Suite 975, East Brandon, OH 05742",(397)813-1981x893,7,Asian,Female,Other,Never Smoked,Sedentary,Occasional,Fair
+551,Jennifer Watson,"365 Kevin Stream Suite 391, Davidhaven, CO 60454",2499792625,42,Asian,Female,Government,Current Smoker,Slightly Active,Moderate,Fair
+552,Amy Davis,"74828 Bird Haven, South Scott, DC 03612",(217)398-7899x74949,19,White,Non-Binary,Uninsured,Current Smoker,Sedentary,Heavy,Fair
+553,Steve Winters,"468 Long Meadow Suite 817, Wadeport, OK 97684",2098187351,9,Asian,Female,Commercial,Never Smoked,Sedentary,Moderate,Fair
+554,Joseph Hurley,"023 Mcgee Mount Suite 650, Mosesfurt, NJ 40755",555-705-7617x6953,62,Asian,Male,Government,Current Smoker,Sedentary,Occasional,Fair
+555,Ruben Smith,"221 Ward Hills, South Shannon, WA 52668",(896)934-0213,81,Black,Male,Uninsured,Current Smoker,Sedentary,Occasional,Fair
+556,Timothy Gill,"299 Dylan Tunnel Suite 827, East Blake, VA 65059",4545823110,61,White,Male,Uninsured,Never Smoked,Moderately Active,Occasional,Fair
+557,Justin Cervantes,"505 Stein Fords, East Charlesville, KY 81088",488.502.4463,67,Asian,Female,Uninsured,Former Smoker,Sedentary,Moderate,Poor
+558,Gregory Beltran,"5313 Bell Square, South Amber, IA 25183",580-203-6591x48730,66,Biracial,Female,Other,Former Smoker,Sedentary,Moderate,Excellent
+559,Kristen Lee,"Unit 6563 Box 1719, DPO AE 32844",+1-228-507-4980x944,84,Black,Male,Uninsured,Current Smoker,Sedentary,Heavy,Fair
+560,Robert Butler,"62563 Caldwell Run Suite 808, Adrienneview, NJ 65550",606-210-8649x025,89,White,Female,Government,Never Smoked,Sedentary,Occasional,Poor
+561,Wesley Montgomery,"10424 Joseph Club Apt. 268, Port Mark, DC 13750",(401)451-5864,65,Biracial,Female,Commercial,Never Smoked,Slightly Active,Moderate,Excellent
+562,Krista Lara,"6031 Moreno Mill, Laurachester, IA 10316",838.357.7575,49,Asian,Female,Government,Current Smoker,Very Active,Heavy,Fair
+563,Ashley Smith,"11194 Hannah Orchard Suite 802, Rosshaven, HI 03771",397.661.8700,96,White,Male,Government,Current Smoker,Slightly Active,Heavy,Fair
+564,Carlos Logan,"896 Charles Circles, Carpenterborough, MT 48914",592-698-2719,66,Other,Female,Government,Never Smoked,Slightly Active,Heavy,Excellent
+565,Dustin Ruiz,"Unit 2441 Box 2525, DPO AP 56440",(487)409-6138x26970,53,Asian,Female,Commercial,Former Smoker,Sedentary,Occasional,Good
+566,Sheri Mcgee,"513 Orr Drive Apt. 310, Leeland, MD 11993",001-699-661-0834,1,Other,Male,Government,Current Smoker,Slightly Active,Moderate,Poor
+567,Suzanne Tran,"29093 Shannon Course Suite 010, Gibsonfurt, PA 22433",222.887.3759,25,White,Male,Other,Current Smoker,Sedentary,Moderate,Poor
+568,Jeffery Myers,"653 Bailey Hill Suite 422, South Lacey, MI 89182",349-983-0132x8599,91,White,Female,Uninsured,Former Smoker,Sedentary,Occasional,Good
+569,James Moore,"Unit 5849 Box 0864, DPO AE 40198",203-825-7125,58,Hispanic,Female,Commercial,Former Smoker,Moderately Active,Occasional,Fair
+570,Ann Garcia,"PSC 7469, Box 3230, APO AA 60082",425-319-7015x765,45,Black,Male,Commercial,Former Smoker,Slightly Active,Heavy,Fair
+571,Kristi Schmidt,"0975 Madison Knoll Suite 439, Griffinmouth, WA 26301",(887)830-0032x17095,38,White,Male,Uninsured,Current Smoker,Slightly Active,Occasional,Poor
+572,Christian Hernandez,"3168 Melissa Corner, New Brittanyfurt, OK 01497",(966)579-4172x6680,1,Hispanic,Male,Government,Never Smoked,Sedentary,Occasional,Poor
+573,Peter Padilla,"1192 Brenda Cliffs Apt. 184, Kevinburgh, MH 76317",(476)333-3758x751,33,White,Male,Government,Current Smoker,Very Active,Occasional,Poor
+574,Shannon Walters,"48600 Christina Terrace Suite 778, Kellyshire, DE 30548",8738160823,10,Asian,Male,Uninsured,Former Smoker,Very Active,Heavy,Good
+575,Amanda Calderon,"4470 Douglas Ranch, Lake Brent, MN 28068",925.847.6331,50,Asian,Male,Uninsured,Former Smoker,Slightly Active,Moderate,Fair
+576,Luis Anderson,"Unit 6668 Box 8286, DPO AA 20674",517-661-7825,91,Black,Female,Other,Never Smoked,Sedentary,Heavy,Fair
+577,Robert Ho,"7734 Eric Burg, Lake Andreport, CA 31863",001-410-792-7848x750,83,Asian,Male,Government,Current Smoker,Sedentary,Heavy,Fair
+578,Noah Cooper,"1081 Welch Club Apt. 278, North Eduardo, MA 87809",689.453.0289x9325,71,Asian,Male,Commercial,Never Smoked,Slightly Active,Moderate,Poor
+579,Teresa Walker,"3667 Washington Ridge Suite 431, South Justinville, RI 58566",+1-619-794-4591,93,White,Female,Uninsured,Never Smoked,Sedentary,Occasional,Poor
+580,Alyssa Coffey,"0822 Jeffrey Crossing, Choistad, OR 03541",(831)270-8532x88854,54,Asian,Non-Binary,Government,Current Smoker,Sedentary,Heavy,Good
+581,Stephanie Harrison,"26023 Bryan Lock Apt. 706, Josestad, MD 35183",001-995-909-0859,85,Asian,Male,Commercial,Former Smoker,Sedentary,Occasional,Excellent
+582,Lauren Flores,"8575 Stevenson Summit Suite 170, East Briannaville, NH 16991",839-249-7142x707,25,Asian,Female,Uninsured,Never Smoked,Very Active,Occasional,Fair
+583,David Hernandez,"PSC 7738, Box 7953, APO AP 16448",596.278.3153x58697,32,White,Female,Uninsured,Never Smoked,Moderately Active,Heavy,Fair
+584,Susan Martinez,"96154 Christina Walk Suite 165, Port Julia, MA 43520",+1-210-936-9871,40,White,Female,Uninsured,Former Smoker,Sedentary,Moderate,Fair
+585,Steven Frye,"7896 James Meadow Apt. 030, West Michaeltown, GU 92992",260.352.0520x0492,54,White,Male,Uninsured,Current Smoker,Sedentary,Moderate,Poor
+586,Alexa Aguilar,"65221 Heather Islands Suite 442, North Nicholas, NY 16760",(484)898-1846,40,Other,Male,Other,Never Smoked,Moderately Active,Moderate,Poor
+587,Tim Hernandez,"6399 Michael Stream Suite 525, Markville, GU 80616",001-244-672-9436x680,39,White,Male,Uninsured,Former Smoker,Sedentary,None,Fair
+588,David Arnold,"73300 Sarah Corners Suite 868, Lake Courtneyborough, MD 13323",562.616.6952,42,Asian,Non-Binary,Government,Current Smoker,Sedentary,Moderate,Poor
+589,Katrina Simmons,"349 Adrian Harbors, Stoutton, MT 23334",649.697.0216,53,White,Female,Uninsured,Never Smoked,Sedentary,Occasional,Fair
+590,Anthony White,"0162 Bridget Meadow, East Jeremyview, WA 71074",001-975-608-1060x5072,81,White,Female,Commercial,Current Smoker,Moderately Active,Occasional,Fair
+591,Amanda Garza,"164 Williams Plain, Heidibury, MI 16031",+1-799-848-1911x887,89,White,Female,Commercial,Never Smoked,Sedentary,Occasional,Fair
+592,Rita Mckenzie,"599 Joshua Greens, Jonesside, MH 78178",3062330844,96,Asian,Female,Government,Current Smoker,Sedentary,Heavy,Poor
+593,Daryl Patterson DVM,"2004 Norman Walk Suite 675, Reidborough, NV 43391",001-959-324-1153x48308,27,White,Female,Uninsured,Never Smoked,Sedentary,None,Poor
+594,John Chambers,"Unit 6517 Box 4724, DPO AP 55027",(702)730-4365,89,White,Male,Government,Never Smoked,Sedentary,Heavy,Excellent
+595,Jacqueline Smith,"52962 Matthew Radial Suite 804, Brendachester, NM 79362",001-973-304-5979x0054,30,White,Female,Private,Current Smoker,Sedentary,Occasional,Fair
+596,Briana Hartman,"418 Mckinney Tunnel, New Ryanport, GA 27772",001-201-389-6523,46,Hispanic,Male,Commercial,Never Smoked,Sedentary,Occasional,Fair
+597,Dr. Jaclyn Mcdaniel,"80620 Kent Squares Suite 281, Miaborough, MD 43888",8026420050,51,White,Female,Uninsured,Current Smoker,Slightly Active,Moderate,Poor
+598,Sandra Thompson,"50572 Smith Village, Ericaville, UT 32968",331-864-7655x25989,46,Asian,Female,Uninsured,Never Smoked,Slightly Active,Moderate,Poor
+599,Courtney Wilson,"1309 Miller Mews Suite 362, Danielfort, MO 12587",304.569.8484,48,White,Female,Uninsured,Current Smoker,Sedentary,Moderate,Good
+600,Wendy Walker,"07908 Caroline Drive, Alvarezport, LA 61987",(991)948-0761x818,72,White,Male,Government,Current Smoker,Sedentary,Occasional,Fair
+601,Jordan Ramirez,"0014 Thomas Rue Apt. 006, Frederickport, WY 58742",+1-355-259-0761x743,44,White,Male,Uninsured,Current Smoker,Sedentary,Moderate,Poor
+602,Lori Conley,"85894 Scott Crescent Suite 564, East Joann, NC 81433",8678633695,94,Asian,Male,Uninsured,Never Smoked,Sedentary,Occasional,Fair
+603,Kylie Cordova,"72869 Beth Key, Christophermouth, MS 18268",954.819.0752,87,Other,Female,Government,Current Smoker,Moderately Active,Moderate,Poor
+604,Dennis Brown,"81797 David Forest Apt. 600, Lake Ian, WI 62468",510.401.9881x0673,76,White,Male,Uninsured,Former Smoker,Sedentary,Occasional,Fair
+605,Jacob Villarreal,"46205 Hernandez Parkways Apt. 497, Lake John, IA 14863",+1-926-438-9846x17400,59,Asian,Other,Other,Never Smoked,Sedentary,None,Fair
+606,Derek Carter,"PSC 3019, Box 5852, APO AP 27387",733-932-6643x10775,14,Asian,Female,Government,Current Smoker,Slightly Active,Occasional,Poor
+607,Andrew Mason,"88753 Lorraine Coves Suite 653, Michelleborough, CO 16622",(923)816-8327,17,Biracial,Female,Government,Current Smoker,Slightly Active,Heavy,Good
+608,Steven Chavez IV,"447 Pamela Hills Suite 356, Hawkinsstad, CO 57619",422.802.5111x1432,3,Asian,Male,Uninsured,Former Smoker,Slightly Active,Moderate,Poor
+609,Melissa Olson,"Unit 3634 Box 2809, DPO AP 11926",264-900-6744x073,100,Asian,Female,Commercial,Former Smoker,Slightly Active,Moderate,Poor
+610,Edward Vargas,"49746 York Cape, New Amy, OH 18285",+1-544-718-9147x68099,58,White,Non-Binary,Uninsured,Never Smoked,Sedentary,Heavy,Fair
+611,Michael Davidson,"PSC 7998, Box 1669, APO AE 78850",292.652.0232x5902,61,Asian,Female,Uninsured,Current Smoker,Moderately Active,Moderate,Fair
+612,Samantha Nelson,"9483 Osborne Falls, Bobbymouth, IA 58173",(421)540-2977,44,White,Male,Government,Current Smoker,Slightly Active,None,Poor
+613,Eugene Harris,"6419 Rasmussen Manors, New Nathan, CA 67695",656.521.5657,74,Asian,Female,Commercial,Current Smoker,Sedentary,Moderate,Fair
+614,Donna Gonzales,"828 Charles Village Suite 710, Ashleyfurt, FM 70797",+1-567-900-7354x58290,52,Asian,Female,Commercial,Never Smoked,Sedentary,Heavy,Fair
+615,Dustin Hart,"28367 Bailey Ferry Apt. 975, Port Cynthiaview, NY 56307",(937)627-8984,84,Biracial,Male,Uninsured,Former Smoker,Slightly Active,Occasional,Fair
+616,Miss Kathryn Sims,"3706 Mclean Ports Apt. 505, South Brian, UT 00874",296.303.6150,37,Asian,Female,Uninsured,Current Smoker,Slightly Active,Heavy,Poor
+617,Joseph Howard,"05073 Jacobson Viaduct Apt. 680, East Jenniferbury, VT 56598",612.889.0790x966,90,White,Female,Commercial,Current Smoker,Slightly Active,Heavy,Good
+618,Michelle Roberts,"606 Cathy Road, Brownbury, FM 83916",(742)613-0638,27,White,Female,Commercial,Former Smoker,Very Active,Heavy,Fair
+619,Sean Shelton,"651 Cynthia Ranch Suite 885, Trevormouth, IN 03604",954-828-9980x10333,62,Asian,Male,Uninsured,Current Smoker,Sedentary,Occasional,Fair
+620,Vanessa Collins,"520 Williamson Rapid, Williamsborough, FL 49681",470.440.2710x81524,82,Asian,Male,Government,Former Smoker,Slightly Active,Heavy,Fair
+621,Kylie Howard,"Unit 0276 Box 4517, DPO AE 84913",001-423-467-6433x32472,99,Biracial,Male,Commercial,Never Smoked,Sedentary,Occasional,Fair
+622,Mary Aguilar,"Unit 3604 Box 2078, DPO AP 80901",(412)515-0707,58,White,Female,Uninsured,Never Smoked,Sedentary,Heavy,Fair
+623,Tracey Collins,"3623 Nicole Road Suite 870, Lake Ronaldburgh, UT 96270",221-773-7599,60,Asian,Male,Uninsured,Current Smoker,Sedentary,Moderate,Fair
+624,Tommy May,"412 Hannah Locks, Elizabethstad, UT 31554",824.259.0019,74,Other,Female,Uninsured,Never Smoked,Sedentary,Occasional,Fair
+625,Danielle Johnson,"412 Ross Roads Suite 713, Rebeccamouth, ID 93948",895.466.5780x819,54,Asian,Female,Uninsured,Former Smoker,Sedentary,Moderate,Good
+626,Diana Parks,"154 Rachel Ford Suite 542, Krauseview, PA 47963",(545)616-7077,15,White,Male,Uninsured,Current Smoker,Sedentary,None,Poor
+627,Jennifer Smith,"62052 Conley Walks, Wheelerbury, AS 37771",554.809.2716,20,White,Non-Binary,Government,Current Smoker,Sedentary,Occasional,Good
+628,Lisa Johnson,"643 Margaret Knolls Suite 056, Irwinfort, IN 87284",404.649.5482,12,Asian,Male,Uninsured,Current Smoker,Sedentary,Occasional,Poor
+629,Rachel Bailey,"PSC 1236, Box 4565, APO AE 67465",001-532-777-3140x3630,78,Asian,Male,Uninsured,Never Smoked,Moderately Active,Heavy,Fair
+630,Lisa Myers,"60679 Angela Shoals Suite 895, South Bernard, IA 39665",330.353.8025,71,Black,Male,Commercial,Never Smoked,Sedentary,Occasional,Fair
+631,Debbie Williams,"2971 Sarah Viaduct Apt. 024, Lake David, IL 25269",+1-402-396-7097x669,78,Asian,Male,Uninsured,Current Smoker,Very Active,None,Poor
+632,Vincent Crawford,"976 Hudson Station Suite 565, Pedroburgh, CT 18601",001-569-997-8675x70546,55,Black,Female,Government,Former Smoker,Sedentary,Moderate,Fair
+633,Brian Adams,"25473 Michelle Villages Suite 538, Port Jasminville, OR 51041",856.967.2982x906,23,White,Female,Uninsured,Never Smoked,Moderately Active,Occasional,Fair
+634,Christopher Adams,"7079 Stevens Rapids Apt. 220, Ericksonstad, SC 86884",819-748-9829x9698,63,Asian,Non-Binary,Uninsured,Current Smoker,Moderately Active,Occasional,Fair
+635,Marcus Howard,"764 Jordan Lights, Richardsonfurt, WY 75825",(409)398-1904,96,White,Non-Binary,Uninsured,Never Smoked,Very Active,Heavy,Fair
+636,Stephanie Cook,"525 Perkins Villages, Kyleside, SD 50902",001-861-917-7711x612,9,Hispanic,Non-Binary,Government,Never Smoked,Sedentary,Moderate,Fair
+637,Charles Davis,"Unit 4215 Box 8075, DPO AA 37513",629.803.9381,46,Black,Female,Commercial,Current Smoker,Slightly Active,None,Poor
+638,Carmen Nguyen,"Unit 3238 Box 9863, DPO AP 29586",001-384-302-4410x81162,16,White,Female,Government,Never Smoked,Sedentary,Heavy,Fair
+639,David Wang,"026 Pearson Route, West Raymondstad, IA 19065",(530)277-7834x62819,89,White,Male,Uninsured,Former Smoker,Moderately Active,Moderate,Poor
+640,Larry Noble,"866 Garner Plaza, Lake Ann, IL 35153",+1-797-367-2382x0984,6,Black,Non-Binary,Other,Never Smoked,Moderately Active,Heavy,Poor
+641,Ashley Whitehead,"531 Carla Green Apt. 730, West Katrina, NM 84748",870.398.7924,81,Asian,Male,Government,Former Smoker,Sedentary,None,Poor
+642,Joy Walker,"247 Owen Shoals, West Caroline, WV 87248",973-455-6623x461,34,White,Other,Government,Never Smoked,Sedentary,Moderate,Good
+643,Gregory Morris,"07455 Jones Coves, North Barbarashire, ND 65141",920-558-6841x84705,99,White,Female,Uninsured,Current Smoker,Sedentary,Heavy,Poor
+644,Mary Smith,"743 Simpson Stream, Valenzuelaport, IA 33465",001-751-928-0737x4359,54,White,Other,Uninsured,Former Smoker,Sedentary,Moderate,Fair
+645,Patrick Owens,"8481 Christopher Islands Apt. 337, New Jacob, CA 28922",469.417.4470x9412,5,White,Female,Uninsured,Former Smoker,Sedentary,Moderate,Poor
+646,Amanda Carter,"0173 Riley Streets, Janetmouth, NE 12972",+1-367-855-3173,76,White,Male,Commercial,Former Smoker,Sedentary,Heavy,Poor
+647,Megan Schaefer,"PSC 3217, Box 0844, APO AA 97677",869-865-3354x2975,57,Asian,Male,Other,Current Smoker,Sedentary,None,Poor
+648,Kevin Medina,"368 Nichole Crossroad Suite 261, Susanfort, FL 98715",936.277.1489,3,White,Male,Uninsured,Former Smoker,Sedentary,Occasional,Fair
+649,Monica Wright,"USCGC Miller, FPO AP 55758",898.822.3827x617,64,White,Male,Government,Former Smoker,Slightly Active,Moderate,Excellent
+650,Destiny Williamson,"03830 Ramirez Points Suite 726, Michelletown, GU 54664",4142165301,98,White,Female,Uninsured,Current Smoker,Sedentary,Occasional,Fair
+651,Jason Cruz,"57537 Garcia Cliff Apt. 127, Gutierrezberg, OR 35759",595.896.5146,34,Black,Female,Uninsured,Current Smoker,Slightly Active,Heavy,Fair
+652,Jason Norman,"0289 Erik Fall, Port Nicholasland, MN 96176",+1-400-481-6592x6352,48,Black,Male,Uninsured,Former Smoker,Sedentary,Heavy,Fair
+653,Jeremy Smith,"858 Johnson Pines Suite 599, Adamsside, LA 45554",001-582-432-6208x428,73,White,Female,Uninsured,Current Smoker,Slightly Active,Occasional,Fair
+654,William Moody,"4015 Morgan Land, East Monique, PR 53438",+1-252-767-8673x357,4,Asian,Male,Government,Former Smoker,Sedentary,Moderate,Fair
+655,Kevin Murphy,"3492 Thomas Stravenue Suite 162, Smithberg, CA 55312",(459)315-4174,36,Biracial,Non-Binary,Private,Never Smoked,Sedentary,Occasional,Poor
+656,Dana Elliott,"006 Joel Estates, Melissaville, OK 66256",001-968-689-3906x27669,8,Hispanic,Male,Uninsured,Former Smoker,Sedentary,Moderate,Fair
+657,Nicole Decker,"84506 Thomas Wells, Michaelborough, HI 37501",316-259-7582,39,Asian,Female,Commercial,Current Smoker,Slightly Active,Moderate,Fair
+658,Amanda Valencia,"486 Jones Stream Suite 276, Meyerville, NV 46509",463-781-9076x345,3,Hispanic,Male,Commercial,Current Smoker,Sedentary,Moderate,Poor
+659,Tiffany Miller,"112 Martin Crossroad, Jeremiahport, VI 94407",+1-416-935-9961x36300,83,White,Male,Uninsured,Former Smoker,Slightly Active,Moderate,Poor
+660,Melissa Clements,"PSC 0211, Box 9089, APO AE 56225",(583)768-4077x9288,23,Biracial,Female,Other,Never Smoked,Sedentary,Occasional,Fair
+661,Michael Jones,"28707 Jesse Lock, East Brittanyside, VA 64519",939-670-3859,83,White,Female,Private,Never Smoked,Sedentary,Moderate,Fair
+662,Megan Burton,"408 Ronald Ridges, Stephaniebury, WI 76076",908.939.7629x329,13,Asian,Other,Commercial,Current Smoker,Sedentary,Heavy,Good
+663,Diana Peterson,"1672 Sarah Village Apt. 712, West Rose, AR 69785",001-612-503-4835x7046,51,White,Male,Uninsured,Never Smoked,Slightly Active,Occasional,Fair
+664,Seth Noble,"792 Johnson Trace, Lake Angela, PW 76965",336.519.5937x96057,68,Asian,Non-Binary,Government,Former Smoker,Sedentary,Heavy,Fair
+665,Anna Nielsen,"006 Barbara Street, Mendozaland, WA 65068",+1-742-752-3324x144,19,White,Female,Commercial,Current Smoker,Sedentary,Moderate,Good
+666,Donna Wang,"12321 Stein Glens Suite 973, Phillipston, IN 52736",372-223-6622x15980,98,White,Female,Other,Current Smoker,Sedentary,None,Good
+667,Kenneth Clark,"94524 Mcgee Plaza, West Jim, UT 12204",001-494-388-1744x109,59,White,Female,Government,Never Smoked,Sedentary,Occasional,Poor
+668,David Perry,"179 Kevin Springs, Smithhaven, CO 83896",+1-845-502-6546x93448,90,White,Female,Government,Current Smoker,Slightly Active,Heavy,Fair
+669,Carla Romero,"571 Ramirez Drives Apt. 366, Lake Richardshire, NC 01232",547-264-0098x2684,26,White,Female,Uninsured,Never Smoked,Sedentary,Occasional,Excellent
+670,Laurie Collins,"24313 Garcia Inlet Apt. 724, South Patricia, ME 41137",001-892-431-3910x68683,19,Asian,Male,Uninsured,Current Smoker,Moderately Active,Moderate,Fair
+671,Brandon Peterson,"665 Michelle Inlet Apt. 781, Allenton, CA 62679",950-989-8632x02558,96,Asian,Female,Uninsured,Current Smoker,Sedentary,Moderate,Poor
+672,Melissa Jones,"PSC 7151, Box 2936, APO AE 04848",966-328-0737x1678,91,Asian,Female,Uninsured,Current Smoker,Slightly Active,Moderate,Fair
+673,Timothy Wilson,"9761 Melissa Hill, North Michael, OH 79727",646-416-8889x651,28,Asian,Male,Uninsured,Never Smoked,Moderately Active,Moderate,Poor
+674,Gail Garrett,"5539 Spencer Union, Madelinefurt, KY 22554",6932875872,60,Asian,Non-Binary,Government,Former Smoker,Sedentary,Occasional,Fair
+675,Mary Garcia,"5666 Lisa Grove, Antonioside, AR 93318",001-396-403-6398x81933,85,Black,Male,Other,Current Smoker,Sedentary,Moderate,Fair
+676,John Cobb,"PSC 3268, Box 1478, APO AP 05571",316-435-8297,58,White,Male,Government,Current Smoker,Sedentary,Heavy,Fair
+677,Melissa Kelly,"98395 Justin Causeway Suite 848, East Charles, OH 53283",466.558.1689x86167,55,Asian,Male,Uninsured,Current Smoker,Sedentary,Moderate,Fair
+678,Jerry Price,"2975 Willis Parkways, West Jamietown, SC 22432",2722677165,90,White,Other,Private,Former Smoker,Slightly Active,Occasional,Poor
+679,Nicholas Obrien,"9619 Angel Meadow Suite 479, Christophermouth, TN 06605",001-996-961-3137x27373,9,Hispanic,Non-Binary,Uninsured,Former Smoker,Sedentary,Moderate,Poor
+680,Christine Ward MD,"80650 Roberts Shore Suite 201, Josebury, FM 49530",+1-883-746-3628,100,Hispanic,Female,Commercial,Current Smoker,Sedentary,Occasional,Poor
+681,Stephanie Alexander,"84858 Rodney Squares, Collinshaven, NY 01879",(260)407-8638x2037,7,Hispanic,Male,Government,Current Smoker,Moderately Active,Occasional,Fair
+682,Heather Keith,"2988 Cannon Lakes Apt. 781, Blakefurt, MN 83027",+1-956-838-3144x9630,11,White,Male,Uninsured,Current Smoker,Sedentary,Occasional,Poor
+683,Allen Ray,"57553 Matthew Extension Apt. 674, Christinefort, WA 51677",(881)900-8782x6806,98,White,Female,Government,Current Smoker,Sedentary,Occasional,Poor
+684,Lucas Bridges,"693 Samantha Street, North Markbury, LA 43717",+1-641-417-0106x20194,39,White,Female,Uninsured,Former Smoker,Moderately Active,None,Good
+685,Casey Whitaker,"033 Brown Overpass, New Madisonmouth, AR 52795",914-809-0588,24,Asian,Female,Uninsured,Current Smoker,Sedentary,Moderate,Excellent
+686,David Garcia,"988 Warren Well Apt. 656, New Erinmouth, PW 18253",809.216.4913x61472,43,White,Female,Government,Never Smoked,Sedentary,Moderate,Poor
+687,Cynthia Hanna,"330 Alexis Vista Apt. 593, South Kendraport, FM 11381",970-348-4715,49,White,Female,Uninsured,Never Smoked,Moderately Active,Moderate,Good
+688,Misty Greene,"2585 Charles Junction, North Thomas, OK 74715",245.556.9181,14,White,Male,Government,Current Smoker,Sedentary,Occasional,Fair
+689,Trevor Miller,"105 Esparza Turnpike Suite 084, Tommyshire, OH 66876",530-410-3562x06922,11,Asian,Female,Private,Never Smoked,Moderately Active,Heavy,Poor
+690,Jesse Barnes,"630 Evans Land, Jasminshire, PA 22837",+1-502-985-2695x0092,65,White,Female,Uninsured,Current Smoker,Slightly Active,Heavy,Fair
+691,Angel Khan,"040 Adrian Island, Lake Donna, IL 09733",593-476-7114x764,56,Hispanic,Female,Uninsured,Current Smoker,Slightly Active,Heavy,Fair
+692,Anthony Hurley,"78177 Laurie Coves Apt. 146, Heidifurt, TX 84658",001-929-295-5317x3159,39,Hispanic,Male,Uninsured,Never Smoked,Sedentary,Occasional,Fair
+693,Maria Preston,"42352 Obrien Way Suite 674, South Garystad, MT 88732",837-256-7917,94,White,Female,Commercial,Former Smoker,Sedentary,Heavy,Fair
+694,Shirley Nguyen,"720 Sheila Views Suite 745, South Carolineshire, TN 61174",001-449-908-2884,52,White,Male,Uninsured,Former Smoker,Slightly Active,Occasional,Poor
+695,Latasha White,"2886 Wilkins Shore Suite 538, East Michaelbury, IA 59856",001-279-462-2260x2016,98,Hispanic,Male,Government,Never Smoked,Sedentary,Moderate,Fair
+696,Laura Young,"58327 Anthony Loop Apt. 482, Larrychester, MD 52585",001-517-851-6013,100,Hispanic,Other,Government,Former Smoker,Sedentary,Occasional,Poor
+697,Danielle Cabrera,"323 Hernandez Hollow Suite 387, Janetmouth, TX 14628",(703)861-3217x49004,50,White,Male,Government,Never Smoked,Sedentary,Heavy,Fair
+698,Jared Perez,"1629 Banks Camp, North Kimberlyfurt, VI 57055",+1-497-532-0205x777,30,Hispanic,Female,Uninsured,Former Smoker,Very Active,Moderate,Excellent
+699,Jason Grant,"96891 Pam Coves, West Williamfurt, ID 59497",413.766.9617x5206,40,Biracial,Other,Government,Current Smoker,Sedentary,None,Good
+700,Allison Haas,"PSC 6014, Box 1403, APO AE 85161",4582669670,13,White,Female,Uninsured,Never Smoked,Slightly Active,Occasional,Poor
+701,Troy Leach,"522 Edward Estate, East Mikaylastad, MA 48381",001-779-931-1541,26,Asian,Male,Commercial,Current Smoker,Sedentary,Heavy,Fair
+702,Karen Hughes,"4429 Powers Plains, Goldentown, IN 47049",964.465.0563x822,61,Hispanic,Male,Other,Current Smoker,Sedentary,Occasional,Poor
+703,Bradley Davis,"672 Michael Centers Suite 441, East Tyrone, MH 96577",001-953-390-5190,80,White,Male,Private,Current Smoker,Sedentary,Heavy,Poor
+704,Javier Adams,"9660 Jones Walks, Edwardbury, PR 63144",865-569-2896,79,Asian,Male,Uninsured,Never Smoked,Sedentary,Occasional,Fair
+705,Mary Klein,"31419 Liu Row Suite 036, Toddshire, VI 83572",001-928-884-0214x449,71,White,Male,Private,Former Smoker,Sedentary,Moderate,Good
+706,Jill Holden,"0648 Garcia Glens, Jodiside, MI 50608",7965877247,85,Asian,Female,Government,Never Smoked,Sedentary,Heavy,Good
+707,Paul Carter,"113 Rodriguez Flat, New James, TN 79635",976-494-9877x9077,85,White,Other,Uninsured,Current Smoker,Sedentary,Heavy,Poor
+708,Thomas Brown,"6723 Anderson Pines, North Erica, NY 96055",+1-547-349-2932,15,Asian,Male,Commercial,Never Smoked,Sedentary,Heavy,Fair
+709,Jeffery Banks,"55376 Jennifer Falls, Adamhaven, MP 56961",764-303-0370x421,54,Asian,Female,Commercial,Former Smoker,Sedentary,None,Fair
+710,Carrie Pierce,"7196 Green Shoals, Vargasbury, GU 39899",797-927-5859x350,21,Asian,Non-Binary,Private,Former Smoker,Slightly Active,Heavy,Good
+711,Scott Anderson,"57964 Rachel Spurs Suite 676, Monicaland, PR 42025",755-594-3905,41,White,Male,Uninsured,Former Smoker,Slightly Active,Occasional,Poor
+712,Jason Dorsey,"870 Underwood Shoal, Paulport, ND 50279",+1-694-995-9524x301,51,Asian,Male,Uninsured,Never Smoked,Moderately Active,Moderate,Fair
+713,Michael Perry,"991 Angela Place Apt. 337, East Cheryl, LA 56430",(706)768-8549,91,White,Female,Commercial,Current Smoker,Sedentary,Heavy,Fair
+714,Brian Jones,"88035 Keith Fort, Michellemouth, OR 30181",2293161419,83,White,Female,Uninsured,Current Smoker,Sedentary,Occasional,Fair
+715,Mr. Frank Morris,"73753 Brittney Ranch, Port Juliafort, IN 80377",268.224.8999x826,14,Asian,Male,Government,Never Smoked,Moderately Active,Occasional,Poor
+716,Mark Rogers,"36497 Terri Glen Suite 010, New Russellview, PW 97692",(757)494-7730x0575,24,Hispanic,Male,Government,Current Smoker,Very Active,Occasional,Fair
+717,Lisa Ford,"4015 Danny Ferry Suite 043, Port Kevinstad, TN 25693",001-395-469-1021x859,35,Asian,Male,Uninsured,Former Smoker,Slightly Active,Occasional,Fair
+718,Mark Avery,"145 Alexander Wells Apt. 486, South Joshuabury, FL 35732",001-768-309-3530,1,Hispanic,Female,Uninsured,Never Smoked,Very Active,Moderate,Poor
+719,William Oneal,"9524 Jonathan Turnpike, Rogermouth, LA 11735",481-941-0971x93984,49,Asian,Female,Government,Current Smoker,Slightly Active,Heavy,Poor
+720,Michael Bennett,"8087 Wright Rapid Suite 259, Salazarton, CT 74605",(814)783-4325,62,White,Male,Uninsured,Current Smoker,Slightly Active,Occasional,Fair
+721,Kim Franklin,"71594 Richardson Freeway Suite 685, East Eric, FM 67526",335.206.4943x095,53,Biracial,Female,Government,Former Smoker,Sedentary,Occasional,Fair
+722,Tamara Nelson,"75107 Schroeder Port Suite 644, Scottport, PW 15807",4229780453,90,Hispanic,Male,Government,Former Smoker,Slightly Active,Heavy,Poor
+723,Robert Schmitt,"0994 Lawrence Brooks Suite 725, South Virginiaport, MH 80105",+1-467-998-4039x8712,12,Hispanic,Other,Commercial,Never Smoked,Sedentary,Occasional,Fair
+724,Angelica Parker,"04983 Schaefer Mission, Michaelside, DE 59209",677.585.1657,57,Asian,Male,Uninsured,Never Smoked,Moderately Active,Occasional,Fair
+725,Stephen Ellis,"072 Wanda Glen Suite 831, Martinezland, GA 96726",+1-425-322-5767x21756,37,White,Female,Private,Current Smoker,Sedentary,Moderate,Fair
+726,Michael Mcneil,"79252 William Junctions Suite 330, Port Melindabury, OR 84876",001-254-947-0019x5479,67,Black,Other,Government,Former Smoker,Sedentary,Moderate,Good
+727,Rachel Flores,"194 Pitts Island Apt. 263, Martinfurt, SD 91546",449.702.0647x782,50,Asian,Male,Uninsured,Current Smoker,Slightly Active,Moderate,Poor
+728,Benjamin Williams,"USNV Crosby, FPO AE 85574",518-795-5999x188,65,Asian,Non-Binary,Uninsured,Former Smoker,Slightly Active,Heavy,Fair
+729,Dr. Lisa Roberts,"Unit 7716 Box 1327, DPO AA 16625",804-866-4223,57,Asian,Female,Uninsured,Current Smoker,Slightly Active,Occasional,Poor
+730,Joshua Blackburn,"1794 Crystal Center Apt. 513, Ellentown, PA 11959",514.571.8202x71617,32,White,Male,Private,Never Smoked,Sedentary,Moderate,Good
+731,Tina Allen,"702 Kathleen Locks Apt. 613, Port Brandon, ID 20163",(215)520-8635x857,53,Hispanic,Female,Government,Never Smoked,Sedentary,Heavy,Fair
+732,Caitlin Martinez,"13552 Allison Streets, Barkerport, MT 14931",001-714-921-1024x4266,7,Black,Female,Government,Former Smoker,Slightly Active,Moderate,Good
+733,Justin Fletcher,"0479 Thompson Mews, Juanhaven, NH 93827",+1-728-425-3811x502,94,Asian,Female,Private,Never Smoked,Sedentary,Occasional,Fair
+734,Jeffrey Johnson,"733 Ross Square, Lake Nicholas, NH 15160",258-807-7844x372,87,Biracial,Female,Uninsured,Never Smoked,Slightly Active,Occasional,Good
+735,Shelley Weaver,"81970 Nichols Lodge Apt. 630, Brucestad, NV 33733",001-948-908-9468x8973,1,White,Non-Binary,Other,Former Smoker,Slightly Active,Occasional,Good
+736,Cathy Freeman,"80495 Mcdaniel Prairie Apt. 187, Port James, DC 98242",313.714.1248x697,100,Asian,Male,Uninsured,Never Smoked,Sedentary,Heavy,Fair
+737,Erica Medina,"15520 Kristen Ways Suite 379, East Holly, MS 48247",(267)569-0102x359,50,White,Non-Binary,Government,Never Smoked,Sedentary,Moderate,Fair
+738,Dr. Amanda Johnson,"64200 Amy Oval, South Michael, NV 46850",9779638045,46,Black,Female,Other,Never Smoked,Sedentary,Moderate,Fair
+739,Timothy Baker,"1125 Beth Ports, Lake Justinhaven, MD 34940",3745229237,67,Asian,Male,Uninsured,Former Smoker,Slightly Active,Moderate,Fair
+740,Brent Russell,"10117 Travis Oval, Lake Graceburgh, NE 33972",359.995.6572,6,Black,Male,Private,Current Smoker,Sedentary,Moderate,Good
+741,Robin Oconnor,"8335 Stanley Street Apt. 967, Port Peterland, OR 22780",+1-558-318-5485,4,White,Female,Uninsured,Current Smoker,Sedentary,Occasional,Fair
+742,Heidi Blevins,"5243 Philip Cape Suite 531, Starkfort, IN 19763",274-639-1844,64,Asian,Non-Binary,Government,Former Smoker,Sedentary,Occasional,Fair
+743,Monique Hernandez,"91521 Heather Mountain, South Anthonyhaven, PW 81886",(910)297-3817,25,Black,Female,Commercial,Never Smoked,Moderately Active,Moderate,Poor
+744,Joseph Santos,"682 Anthony Shoal, South Heather, ME 22888",880-231-7219x598,34,White,Non-Binary,Government,Current Smoker,Sedentary,Moderate,Fair
+745,Travis Montgomery,"74133 Wright Causeway, Garciahaven, PW 14309",264-932-6602,93,Biracial,Female,Government,Former Smoker,Sedentary,Moderate,Fair
+746,Stephen Kim,"4294 White Camp, Hansonmouth, IN 57438",2798240361,58,Asian,Female,Other,Former Smoker,Sedentary,Moderate,Fair
+747,Taylor Tate,"023 James Avenue Apt. 907, Smithbury, IL 12195",996-945-3967,33,Asian,Male,Commercial,Current Smoker,Moderately Active,None,Fair
+748,Brittany Snyder,"300 Jason Ford, Castanedachester, CA 82816",710-985-8802,69,Asian,Female,Government,Never Smoked,Moderately Active,Heavy,Fair
+749,Matthew Alexander,"629 Morgan Plains, West Lindamouth, VT 98815",596-766-9566x0140,28,Asian,Male,Commercial,Never Smoked,Slightly Active,Occasional,Fair
+750,Levi Stevens,"741 Murphy Oval Suite 874, Robertfort, DE 89756",254.640.3767,24,Hispanic,Male,Government,Current Smoker,Slightly Active,Moderate,Fair
+751,James Archer,"PSC 3629, Box 2317, APO AE 39115",955-792-1786x873,92,Hispanic,Female,Government,Current Smoker,Sedentary,Heavy,Fair
+752,David Mitchell,"PSC 3712, Box 2222, APO AA 77545",598-489-1643x9604,89,Black,Female,Uninsured,Former Smoker,Moderately Active,Occasional,Poor
+753,Brittany Rios,"67082 Robert Mills, Annetteview, PW 89579",(444)574-2270x7627,7,Black,Male,Government,Current Smoker,Slightly Active,None,Good
+754,Michael Fox,"688 Amy Key Apt. 229, Samueltown, NE 97177",001-277-832-2905,15,Black,Other,Government,Former Smoker,Sedentary,Occasional,Fair
+755,Cheryl Bailey,"651 Bond Cove, Georgeview, AS 23602",(991)810-4404,16,Black,Non-Binary,Government,Former Smoker,Sedentary,Occasional,Fair
+756,Christine White,"7696 Courtney Lakes, East Kevin, VA 80875",502-371-1245,90,White,Male,Government,Current Smoker,Sedentary,Moderate,Fair
+757,Danielle Floyd,"28653 Baker Rapid, Shahview, NJ 63471",(542)853-9670x0441,57,Biracial,Female,Government,Never Smoked,Slightly Active,Heavy,Good
+758,Kara Lang,"404 Castillo Roads, Lake Jerry, PR 84069",001-481-891-0114x1326,67,White,Male,Private,Current Smoker,Sedentary,Moderate,Fair
+759,Matthew Mills,"824 Jasmine Shoal, North Brianna, IL 28493",4543816114,29,Black,Other,Government,Never Smoked,Sedentary,Occasional,Fair
+760,Sierra Davis,"224 Elliott Estates Suite 256, Pennyfurt, FL 19416",+1-822-577-3840x15644,61,White,Female,Uninsured,Former Smoker,Sedentary,Occasional,Poor
+761,Paul Cordova,"281 Jessica Neck Suite 329, Wonghaven, NM 40695",001-834-715-9141x300,49,Black,Male,Government,Current Smoker,Sedentary,Moderate,Fair
+762,Calvin Best,"62603 Garcia Forges Apt. 682, Lisaview, MP 75928",548.392.8657x0343,46,Asian,Female,Uninsured,Former Smoker,Sedentary,Moderate,Poor
+763,Taylor Howell,"0526 Richards Fall, Jarvisstad, UT 48323",552-302-2811x40803,85,Asian,Female,Uninsured,Current Smoker,Sedentary,Occasional,Poor
+764,Danielle Rodriguez,"670 Daniel Pike, Toddchester, MD 78858",4302412911,21,Hispanic,Male,Commercial,Current Smoker,Slightly Active,Occasional,Fair
+765,Andrew Taylor,"685 Scott Stream Apt. 233, Richhaven, OR 07971",(900)886-1936x611,3,White,Male,Uninsured,Former Smoker,Sedentary,Moderate,Fair
+766,Johnny Fischer,"743 Mckinney Park Suite 785, Angelamouth, RI 07032",960-980-1474x2074,83,White,Non-Binary,Commercial,Former Smoker,Slightly Active,Moderate,Poor
+767,Stephen Williams,"9407 Davenport Islands Apt. 517, Coxmouth, PW 05595",415.216.5585,80,Asian,Male,Uninsured,Current Smoker,Slightly Active,Occasional,Fair
+768,Randy Burnett,"61710 Galloway Gateway Suite 721, Lake Robert, KS 56145",363-476-2093,46,Biracial,Male,Uninsured,Never Smoked,Sedentary,Occasional,Fair
+769,Patrick Sullivan,"533 Christine Unions Apt. 611, Lauratown, IA 57411",(326)904-4144x059,77,Asian,Male,Commercial,Former Smoker,Sedentary,Occasional,Fair
+770,Charles Morrison,"1915 Linda Lodge, Elizabethbury, IN 26097",787-962-0092,98,White,Female,Uninsured,Current Smoker,Slightly Active,Heavy,Poor
+771,Elaine Huber,"610 Sanders Dam, Kimberlyland, AL 31820",351.322.9695x8078,74,Asian,Other,Commercial,Current Smoker,Slightly Active,Occasional,Excellent
+772,Maureen Mann,"723 Simmons Motorway Apt. 383, Rogersburgh, WA 67804",(765)775-3116,16,White,Male,Private,Former Smoker,Slightly Active,Moderate,Poor
+773,James Moon,"1066 Scott Mission, Marqueztown, GA 93093",213-464-9636,20,Hispanic,Female,Uninsured,Current Smoker,Sedentary,None,Excellent
+774,Brandon Horton,"1303 Allen Parks, Nicholasview, LA 58599",895-569-3517,36,White,Female,Government,Current Smoker,Moderately Active,Moderate,Good
+775,James Gibson,"19543 Gates Street, South Garrettchester, AZ 19732",+1-922-208-7333,8,Biracial,Female,Commercial,Current Smoker,Sedentary,Moderate,Fair
+776,Joshua Lopez,"346 Angela Cove, Collinsshire, AR 57946",490-955-0311x53142,98,Hispanic,Female,Uninsured,Current Smoker,Sedentary,Moderate,Poor
+777,Ellen Collins,"9268 Christopher Pine, New Jeremy, TN 97150",4562934984,39,Black,Female,Government,Never Smoked,Sedentary,Moderate,Fair
+778,Tiffany Hill,"7245 Joe Knoll, Lewisfurt, MD 84387",(428)935-6122x7185,51,Biracial,Male,Government,Former Smoker,Sedentary,Moderate,Fair
+779,Michael Kaiser,"205 Melanie Roads, Paulaside, VI 04019",+1-698-602-6788x081,60,Other,Non-Binary,Uninsured,Current Smoker,Slightly Active,None,Fair
+780,Jason Daniels,"343 Villegas Terrace, South Sandra, DE 41097",(401)252-5717x83513,58,Hispanic,Female,Commercial,Never Smoked,Sedentary,None,Good
+781,Gary Bentley,"29675 Jordan Trail, Port Williamside, CO 44977",(229)603-1652x188,39,White,Female,Government,Current Smoker,Sedentary,None,Fair
+782,Robert Smith,"814 Martin Burg Apt. 518, Maxwellview, NM 09531",(275)232-9042x9138,7,Hispanic,Non-Binary,Commercial,Current Smoker,Slightly Active,Occasional,Poor
+783,Taylor Russell,"2547 Smith Grove Apt. 831, Port Samuel, KS 11543",9295760351,38,Hispanic,Male,Uninsured,Former Smoker,Sedentary,Occasional,Poor
+784,Daniel Crosby,"63326 Shaun Highway, Port Dale, RI 86681",3778090520,63,Asian,Male,Other,Current Smoker,Sedentary,Occasional,Good
+785,Erin Miller,"27201 Robert Ville, West David, VA 71442",(932)556-7303x2791,16,Asian,Female,Uninsured,Former Smoker,Sedentary,Moderate,Poor
+786,Diana Thomas,"658 Melissa Pass Apt. 799, New Nancyborough, AZ 58633",824.870.0291x95063,36,White,Non-Binary,Commercial,Former Smoker,Sedentary,Moderate,Excellent
+787,Sara Wright,"99285 Webb Forge, Marymouth, IN 08923",(297)578-4017x1973,88,Asian,Male,Other,Never Smoked,Slightly Active,Moderate,Poor
+788,Christina West,"2008 Rivera Expressway Apt. 586, East Angelicaburgh, WI 93543",549-535-1420,23,Hispanic,Female,Uninsured,Former Smoker,Sedentary,None,Poor
+789,Anthony Francis,"PSC 6805, Box 3690, APO AP 24048",+1-312-378-8337x03640,30,White,Female,Commercial,Never Smoked,Very Active,Moderate,Fair
+790,Michael Cobb,"879 Eric Stravenue Apt. 639, Port Bethbury, DC 35263",3116440397,8,Other,Female,Uninsured,Former Smoker,Sedentary,Heavy,Fair
+791,Amanda Rodriguez,"3743 Bowman Landing Apt. 421, South Kelly, CO 50021",3189291616,26,Black,Female,Uninsured,Never Smoked,Sedentary,Moderate,Poor
+792,Angel Richards,"33105 Joel Unions, Paulastad, WA 16703",(983)446-5618x73578,95,Biracial,Male,Uninsured,Former Smoker,Slightly Active,Moderate,Poor
+793,Thomas Hopkins,"254 Prince Parks Apt. 940, West Aliciaborough, ME 89139",(240)876-5008x156,32,Biracial,Male,Private,Current Smoker,Sedentary,Occasional,Fair
+794,Ann Arnold,"133 Fleming Green Suite 439, North Johnfort, UT 93529",(365)641-4740x625,47,Asian,Female,Other,Current Smoker,Slightly Active,Moderate,Fair
+795,Lisa Calderon,"8417 Thompson Ridges Apt. 702, Floresfurt, PA 73108",213-609-1930x96376,36,Other,Male,Government,Current Smoker,Very Active,Occasional,Fair
+796,Madison Cannon,"163 Glenn Walk, North Dale, CO 69144",+1-987-570-2622x30591,67,Asian,Male,Government,Former Smoker,Sedentary,Moderate,Good
+797,Brandon Allen,"92632 Larsen Port Apt. 677, Elizabethfurt, PA 17703",281.215.1768x83655,86,Asian,Female,Uninsured,Current Smoker,Moderately Active,Heavy,Poor
+798,Christopher Chen,"990 Jacob Locks, South Peter, MT 15021",589-985-7928x1325,54,White,Female,Uninsured,Current Smoker,Sedentary,Heavy,Poor
+799,Hayden Carter,"1718 Kelly Pike Apt. 113, Wrightfort, MP 87170",256.366.2994x9518,76,White,Male,Government,Former Smoker,Sedentary,Heavy,Excellent
+800,Ruth Bruce,"47012 Brian Mews, Jeremyport, AL 41004",342.752.5151,15,Black,Female,Government,Never Smoked,Slightly Active,Moderate,Poor
+801,John Snow,"751 Harris Pass Apt. 754, Port Jesse, VA 61836",760-288-5598,81,Hispanic,Female,Commercial,Current Smoker,Sedentary,Moderate,Good
+802,Michelle Mitchell,"903 William Valleys Suite 783, North Andrewville, DE 53567",(870)762-6789,73,Asian,Female,Government,Former Smoker,Sedentary,Moderate,Fair
+803,Tracy Melendez,"19471 Jonathan Field, South Joshuaborough, OH 24468",7424466533,69,Biracial,Female,Government,Current Smoker,Slightly Active,Occasional,Good
+804,Donna Bonilla,"4666 Robbins Roads Apt. 529, Port Sarahshire, AL 33084",484-391-4591x620,20,White,Male,Uninsured,Current Smoker,Sedentary,Heavy,Poor
+805,Sarah Brown,"PSC 2605, Box 2985, APO AA 07462",+1-880-967-1186x517,73,Asian,Male,Government,Never Smoked,Sedentary,Occasional,Fair
+806,Carrie Obrien,"015 Roberson Drive, Carolinebury, NM 70359",(239)989-4984x0184,44,Asian,Male,Uninsured,Current Smoker,Sedentary,None,Poor
+807,Stephanie Escobar,"197 Duncan View Suite 936, East Kylieborough, NV 49951",(717)984-0047x8555,78,White,Female,Government,Former Smoker,Slightly Active,Moderate,Fair
+808,Dr. Julie Mckay,"27098 Ballard Walks Suite 357, Johnchester, ME 59351",262-259-1041x6360,89,Asian,Male,Government,Never Smoked,Moderately Active,Heavy,Good
+809,Jason Hicks,"10623 Smith Glen, South Wayneshire, HI 05500",001-588-540-6768x71348,10,Hispanic,Male,Uninsured,Former Smoker,Slightly Active,Moderate,Fair
+810,Brenda Colon,"Unit 0797 Box 5461, DPO AE 27409",001-628-240-1718x19467,17,Asian,Male,Uninsured,Former Smoker,Moderately Active,None,Poor
+811,Mr. Kevin Hickman,"028 Brett Gardens, Michaelport, NC 58458",(837)654-4849x127,65,Hispanic,Other,Uninsured,Never Smoked,Sedentary,Moderate,Fair
+812,Heather Simpson,"USNV Walton, FPO AE 41760",+1-702-758-8220,32,Hispanic,Male,Other,Former Smoker,Slightly Active,None,Good
+813,Connie Anderson,"PSC 4900, Box 3434, APO AE 89746",611.955.0372x915,48,Black,Male,Uninsured,Former Smoker,Sedentary,Moderate,Fair
+814,Stephanie Davis,"USNS Warner, FPO AA 88990",(408)419-0336x09860,65,Asian,Female,Uninsured,Current Smoker,Sedentary,Occasional,Fair
+815,Caleb Hunter,"102 Brianna Cliffs Suite 580, Merrittbury, NH 45670",550-980-7779,70,Biracial,Other,Government,Current Smoker,Slightly Active,Moderate,Fair
+816,Eric Conley,"601 Michael Lock Apt. 608, Johnhaven, PR 61790",001-426-861-9400x2666,95,Asian,Female,Uninsured,Former Smoker,Slightly Active,Heavy,Fair
+817,Todd Clark,"52395 Andrew Walks, West Alexander, WV 94222",+1-772-773-5414,3,Asian,Male,Commercial,Former Smoker,Sedentary,Heavy,Fair
+818,Erin Walters,"17638 Rodgers Estate, North Adamfurt, OK 40479",001-309-212-4094,45,White,Male,Government,Current Smoker,Slightly Active,Heavy,Fair
+819,Kiara Gonzalez,"8874 Davis Islands, South Annachester, NY 59962",8573963886,11,White,Male,Uninsured,Former Smoker,Sedentary,Heavy,Poor
+820,Anita Parker,"8028 William Isle, South Peter, MN 88227",9232942561,3,Native American or Alaskan Native,Male,Commercial,Never Smoked,Moderately Active,Heavy,Good
+821,Susan Hoffman,"3056 Price Turnpike, Lisaberg, AS 08951",369-460-9207x255,11,White,Female,Government,Current Smoker,Slightly Active,Moderate,Fair
+822,Melinda Brock,"29145 Todd Stream Apt. 438, Ramirezberg, IA 17843",474.520.5020,60,White,Male,Uninsured,Current Smoker,Slightly Active,Heavy,Poor
+823,Nicholas Anderson,"6430 Howard Plains Apt. 245, Juliaville, IA 24564",001-974-788-9299x2142,68,White,Non-Binary,Uninsured,Current Smoker,Sedentary,None,Fair
+824,Thomas Patterson,"69300 Andres Run, Larsonberg, CT 81116",720-742-6307x795,10,Black,Non-Binary,Government,Current Smoker,Moderately Active,Heavy,Fair
+825,Henry Davis,"17210 Gallegos Forges Suite 345, North Kelly, IL 80466",(734)638-0209x661,78,White,Female,Other,Never Smoked,Slightly Active,Heavy,Good
+826,Victoria Evans,"67957 William Vista, East Malloryville, IN 39140",223.444.3698x5434,71,Native American or Alaskan Native,Male,Uninsured,Former Smoker,Sedentary,Moderate,Poor
+827,Peter Allen,"22981 Miller Lakes, Blaketown, OK 65356",001-987-823-5767x6521,84,Asian,Female,Uninsured,Never Smoked,Sedentary,Moderate,Poor
+828,Nicholas Mooney,"5343 Clarence Plains Suite 827, Tinamouth, CA 93182",960.910.5499,6,Asian,Male,Government,Former Smoker,Slightly Active,Moderate,Fair
+829,David Haynes,"0075 George Extensions Apt. 856, South Laurie, VA 99900",(223)627-6310,14,Hispanic,Male,Government,Former Smoker,Sedentary,Moderate,Fair
+830,Ashley Spence,"Unit 8408 Box 9229, DPO AA 60980",646.734.1021x4624,48,Asian,Female,Commercial,Never Smoked,Sedentary,Moderate,Poor
+831,Julia Mason,"643 Willie Dam, Youngside, IA 27241",+1-581-944-7900x18229,19,Asian,Female,Uninsured,Never Smoked,Sedentary,Moderate,Poor
+832,Michelle Porter,"96827 William Forges, North Tiffanyburgh, OK 43729",(543)851-3560,72,Asian,Male,Government,Current Smoker,Sedentary,Moderate,Fair
+833,Shannon Williams,"64197 Timothy Rapids Apt. 361, East Stefanie, MA 53068",771-586-0361x306,41,Biracial,Female,Government,Current Smoker,Slightly Active,Moderate,Fair
+834,Daniel Carlson,"0985 Martinez Stream Suite 918, West Ryanland, MA 87571",+1-900-777-1888x2814,12,Asian,Female,Uninsured,Current Smoker,Slightly Active,Moderate,Poor
+835,Angel Santana,"192 Roberts Mews, Lake Danielmouth, CO 52211",617.750.2942x103,84,White,Female,Uninsured,Former Smoker,Sedentary,Occasional,Poor
+836,Christina Waller,"19453 Jones Station, South Morganville, OR 04264",605.203.7500x507,84,White,Female,Government,Never Smoked,Sedentary,Moderate,Fair
+837,Elizabeth Kim,"95667 Tara Skyway Suite 250, New Michael, PR 85148",451.499.5193,50,Hispanic,Female,Commercial,Current Smoker,Sedentary,Moderate,Poor
+838,Larry Gibson,"692 Jennifer Glen Apt. 660, West Michaelfort, VI 72486",001-797-303-9547x3699,9,Asian,Other,Uninsured,Never Smoked,Slightly Active,Moderate,Fair
+839,Kenneth Mendoza,"424 Steven Square Apt. 776, Buckville, MA 11215",639.461.2218x391,16,Asian,Male,Uninsured,Never Smoked,Sedentary,None,Poor
+840,Amber Chambers,"970 Heidi Viaduct Suite 746, North David, MA 72658",001-206-749-7786x1904,57,Asian,Male,Uninsured,Never Smoked,Sedentary,Occasional,Poor
+841,Mason Tanner,"14058 Michael Green Apt. 786, Billyborough, AS 37797",(463)765-3499,66,White,Male,Uninsured,Current Smoker,Sedentary,Heavy,Fair
+842,Chris Johnson,"7524 Hall Springs, Ericksonton, WY 61071",941.635.2013,25,Asian,Female,Uninsured,Current Smoker,Very Active,Heavy,Poor
+843,Adam Cooper,"345 Jeffrey Trail Apt. 960, Port Daniel, OK 76069",439-919-8950,43,White,Female,Government,Current Smoker,Moderately Active,Occasional,Poor
+844,Nancy Campbell DVM,"95292 Rebecca Road, North Sarah, MP 96877",(940)350-2889x9809,57,White,Female,Government,Current Smoker,Sedentary,Moderate,Excellent
+845,Megan Morris,"91113 Chase Brooks Suite 726, Medinaburgh, AZ 91819",(635)754-2692x5458,56,Hispanic,Male,Uninsured,Former Smoker,Sedentary,Moderate,Good
+846,Douglas Alvarez,"035 Carroll Summit Apt. 829, Port Lanceberg, ID 14230",(370)929-0091,42,Biracial,Female,Government,Current Smoker,Sedentary,Moderate,Poor
+847,Taylor Moore,"8147 Gallegos Landing Apt. 841, Port Mark, GU 16993",+1-850-452-2269x253,57,Hispanic,Female,Commercial,Current Smoker,Very Active,Heavy,Fair
+848,Dr. Michael Young,"561 Wesley Village Suite 561, Angelshire, OR 13131",(656)673-7854,21,White,Female,Commercial,Never Smoked,Sedentary,Occasional,Excellent
+849,Randall Sharp,"60859 Spence Locks, South Alyssa, HI 51342",001-505-720-4080x868,78,Asian,Non-Binary,Commercial,Former Smoker,Sedentary,None,Fair
+850,Rachel Rubio,"30655 Fields Mission, Robinstad, CT 21157",001-528-854-1746x1407,37,Asian,Male,Commercial,Former Smoker,Sedentary,Moderate,Good
+851,Raymond Neal,"57696 Bradley Expressway Suite 818, West Nathan, MT 93621",+1-528-543-6913,5,Black,Female,Uninsured,Current Smoker,Sedentary,Heavy,Fair
+852,Jacqueline Foster,"750 Williams Center Apt. 590, Staceyborough, TN 43847",379.586.8261x9549,3,Asian,Male,Government,Former Smoker,Slightly Active,Moderate,Fair
+853,Jerry Durham,"1085 Williams Motorway, Nielsenfort, ME 28303",(385)776-2732x4700,27,Asian,Male,Commercial,Current Smoker,Moderately Active,Moderate,Poor
+854,Jason Thomas,"9211 Cathy Lakes Suite 777, Port Dale, NE 82963",905-385-6802,70,Asian,Male,Uninsured,Former Smoker,Sedentary,Moderate,Good
+855,Anthony Brown,"482 Collins Branch Apt. 309, East Linda, NM 80288",232.556.8918x13327,80,Black,Female,Uninsured,Current Smoker,Sedentary,Heavy,Fair
+856,Eric Peterson,"64494 Susan Bypass, New Jameston, CT 21475",670-837-3834x9906,81,White,Male,Commercial,Former Smoker,Moderately Active,Occasional,Excellent
+857,Samantha Thompson,"344 Stephanie Branch Apt. 549, New Natalie, NJ 86683",(414)838-7583,32,Asian,Female,Government,Current Smoker,Slightly Active,Moderate,Fair
+858,Melissa Stanley,"0084 Adrian Corner Apt. 541, Lake Charlesside, PR 02725",001-817-919-7740,7,Asian,Female,Government,Former Smoker,Sedentary,Occasional,Fair
+859,Tracy Smith,"3781 Osborn Brook Suite 202, Lake Kelly, MT 69436",442-857-2346,40,Asian,Female,Uninsured,Current Smoker,Very Active,Occasional,Excellent
+860,Kristi Nielsen,"818 Payne Road, New William, AS 29706",(365)244-8207x96995,2,Other,Male,Uninsured,Never Smoked,Sedentary,Moderate,Fair
+861,Jesus Moore,"Unit 8343 Box 4967, DPO AE 29593",656.480.8394x068,8,Asian,Male,Government,Former Smoker,Sedentary,Moderate,Fair
+862,Courtney Brown,"271 Cassandra Creek Apt. 036, New Ronaldfort, KS 08431",001-206-287-9626x8226,67,White,Female,Other,Never Smoked,Sedentary,Moderate,Fair
+863,Rachel Stanley,"PSC 8868, Box 9480, APO AA 34485",+1-495-807-4524,65,White,Non-Binary,Government,Never Smoked,Sedentary,Moderate,Fair
+864,Vanessa Carter DVM,"39969 Holly Turnpike Suite 466, North Christopher, MP 81061",001-918-738-2984x39800,96,Hispanic,Female,Uninsured,Never Smoked,Slightly Active,Heavy,Fair
+865,Martha Robinson,"0382 Laurie Springs, Lopezberg, NV 58990",001-293-515-7033x01817,45,Asian,Female,Uninsured,Current Smoker,Sedentary,None,Poor
+866,Michael Page,"355 Lawrence Ville Suite 086, South Michael, WA 78515",4807054571,64,Black,Male,Uninsured,Current Smoker,Sedentary,Heavy,Poor
+867,Jennifer Allison,"8726 Nathan Rapids Apt. 059, Martintown, UT 51652",343-955-3069x9245,57,White,Male,Government,Former Smoker,Slightly Active,Moderate,Fair
+868,James Thompson,"5691 Christopher Summit, Smithtown, GU 69203",377-597-7162,80,Other,Male,Private,Never Smoked,Sedentary,Heavy,Good
+869,John Klein,"7805 Jessica Crescent, South Teresashire, NC 85289",8658231130,19,Asian,Male,Government,Never Smoked,Slightly Active,Occasional,Good
+870,Jessica Campbell,"9549 Amanda Junction Suite 852, Amberstad, WV 72656",700.804.4582x7780,1,Hispanic,Male,Commercial,Former Smoker,Sedentary,Occasional,Fair
+871,Eric Elliott,"PSC 1037, Box 3886, APO AA 55245",001-932-984-0777x790,85,Asian,Male,Uninsured,Current Smoker,Slightly Active,Heavy,Good
+872,James Moore,"060 Kathy Estates Apt. 104, West Tylerside, PR 37721",933-539-7655x9965,26,Biracial,Female,Uninsured,Current Smoker,Sedentary,Moderate,Excellent
+873,Aaron Carter,"06494 Wilson Avenue, Rileyberg, IN 99280",669.889.7353x7526,20,Asian,Female,Uninsured,Never Smoked,Slightly Active,Moderate,Fair
+874,Sharon Holland,"66575 Brian Stravenue, New David, MA 94640",+1-394-279-0371x49383,89,White,Male,Government,Current Smoker,Moderately Active,Occasional,Fair
+875,Mrs. Carol Alexander MD,"20563 Bonnie Key Apt. 300, Theresatown, PW 91020",265-568-5178,79,White,Male,Commercial,Never Smoked,Slightly Active,Occasional,Fair
+876,Brian Foster,"442 Brad Parkways, North Gabriellaton, ME 56795",(833)958-0930x88315,70,Asian,Female,Commercial,Former Smoker,Sedentary,Heavy,Poor
+877,Amanda Reed,"65067 Watkins Rue, Wongtown, IN 15386",816.870.0153,10,White,Male,Government,Current Smoker,Sedentary,Moderate,Good
+878,Angela Warner,"848 Alvarez Forges Apt. 428, Wrightport, MD 00740",482-304-3016x3945,64,Asian,Male,Uninsured,Current Smoker,Sedentary,Heavy,Fair
+879,Alexander Taylor,"PSC 5425, Box 1376, APO AP 74294",634-754-4163x238,92,Asian,Other,Private,Never Smoked,Sedentary,Occasional,Poor
+880,James Garcia,"56550 Rivera Squares Suite 265, East Brandymouth, VT 26054",+1-368-353-5185,59,Asian,Non-Binary,Private,Former Smoker,Sedentary,Heavy,Poor
+881,Dylan Petty,"42748 Carlos Brook, Hollytown, WY 52353",001-271-751-1551x9230,60,Asian,Non-Binary,Private,Current Smoker,Very Active,Moderate,Fair
+882,Caroline Romero,"491 Knight Loop, West Ashley, WI 28784",8844667549,18,Asian,Female,Commercial,Current Smoker,Moderately Active,Moderate,Fair
+883,Thomas Powell,"996 Henry Island, Lake Timothy, AS 51150",671-265-0880x8420,2,Biracial,Female,Government,Former Smoker,Sedentary,Occasional,Poor
+884,Diana Pineda,"Unit 6662 Box 3229, DPO AE 07162",6329770373,44,Asian,Female,Private,Current Smoker,Sedentary,Occasional,Fair
+885,Stacey Rodriguez,"143 Espinoza Isle Apt. 315, New Brittany, CO 03729",217.485.7480,64,Asian,Male,Government,Former Smoker,Moderately Active,Moderate,Poor
+886,Jason Kline,"82428 Ronald Pine Apt. 489, Hickmanmouth, GU 67130",(280)276-2329x76933,88,White,Male,Government,Former Smoker,Sedentary,Occasional,Fair
+887,Ryan Kim,"PSC 2122, Box 4277, APO AA 49422",+1-646-634-7636x592,6,White,Female,Government,Former Smoker,Slightly Active,Heavy,Fair
+888,Alyssa Adams,"577 Ward Fords, South Jorgetown, VA 18120",(726)763-5101x97927,84,Asian,Female,Government,Current Smoker,Sedentary,Heavy,Poor
+889,Mary Thomas,"326 Steven Field Suite 829, South Madisonville, RI 72025",001-984-908-3506,40,Hispanic,Male,Uninsured,Current Smoker,Sedentary,Moderate,Fair
+890,Christopher Fitzpatrick,"90963 Larry Ports, South Kyle, FL 83128",001-622-610-6258,7,Asian,Male,Government,Never Smoked,Moderately Active,Heavy,Fair
+891,Kelly Davidson,"42830 Kenneth Tunnel Suite 006, East Tanner, SD 08940",(763)880-1237x033,44,White,Male,Government,Current Smoker,Slightly Active,Occasional,Fair
+892,Scott Bartlett,"7436 White Islands, East Kathryn, AZ 61441",001-649-260-6756x701,93,White,Male,Uninsured,Never Smoked,Sedentary,Moderate,Poor
+893,Sergio Abbott,"USNV Dalton, FPO AE 86545",392.470.7968x05200,60,Asian,Male,Commercial,Former Smoker,Slightly Active,Moderate,Good
+894,Christopher Lopez,"6379 Christopher Stream, East Erikamouth, MD 82954",+1-403-225-8453x54578,100,White,Male,Government,Never Smoked,Sedentary,Moderate,Poor
+895,Rachel Santana,"7139 Wilson Vista Suite 059, New Angel, TN 01739",910-241-1655,15,Hispanic,Other,Uninsured,Never Smoked,Moderately Active,Occasional,Excellent
+896,Cynthia Harris,"74980 Janice Ferry Apt. 534, South Garyside, MH 43680",314.296.0508x636,74,Hispanic,Male,Government,Current Smoker,Very Active,Heavy,Good
+897,Brett Simmons,"7243 Melanie Inlet, Dicksonborough, IN 54402",+1-700-908-1264x3555,28,White,Female,Commercial,Never Smoked,Sedentary,Occasional,Fair
+898,Matthew Ford,"35900 Jonathan Pike Suite 117, East Larry, AL 70268",001-324-799-8783,96,Other,Non-Binary,Government,Former Smoker,Slightly Active,None,Fair
+899,Lindsay Flores,"580 Robert Views Suite 801, Perkinsstad, MP 14045",724.281.7531x14359,97,Asian,Male,Uninsured,Former Smoker,Slightly Active,Moderate,Good
+900,David Robinson,"170 Manning Road, Johnsonbury, KS 88996",2045494638,97,Biracial,Non-Binary,Uninsured,Former Smoker,Sedentary,Moderate,Fair
+901,Mrs. Kimberly Archer,"73280 Robert Fields, Caldwellton, MD 39486",457-384-3561x30299,95,Black,Female,Government,Current Smoker,Sedentary,Moderate,Fair
+902,Jesus Barnes,"49138 Rogers Islands, Lake Mitchell, KY 68928",847-374-2852x577,23,Black,Female,Uninsured,Current Smoker,Slightly Active,Occasional,Excellent
+903,Clifford Wright,"2555 Stephanie Junction, Lake Lisaburgh, KY 10898",+1-663-439-7345,49,Black,Female,Uninsured,Current Smoker,Sedentary,Moderate,Fair
+904,Kristina Guzman,"31919 Guerra Course Apt. 191, Collinsview, NJ 53828",(358)343-6766x37250,36,White,Male,Government,Former Smoker,Slightly Active,Moderate,Poor
+905,Kristi Farrell,"289 Christopher Haven, Wardport, NM 58267",681-614-3331x7458,26,White,Male,Private,Never Smoked,Moderately Active,Occasional,Poor
+906,Stephanie Franklin,"46378 Richard Heights Suite 303, Vancefurt, TX 85623",711-493-0788x015,99,White,Female,Uninsured,Former Smoker,Sedentary,Moderate,Fair
+907,Robert Peterson,"362 Robin Crossing Apt. 636, Gonzalezmouth, RI 53719",(889)351-0394x27489,28,Asian,Male,Government,Former Smoker,Sedentary,Occasional,Excellent
+908,Savannah Johnson,"4030 Maldonado Ports Apt. 246, North Shelbyton, CA 18872",752-336-3021x78399,85,Asian,Female,Government,Current Smoker,Sedentary,Moderate,Fair
+909,Dennis Soto,"3851 Donald Hollow Apt. 458, Hernandezville, GA 53601",(674)717-0728,66,White,Male,Uninsured,Former Smoker,Sedentary,Occasional,Fair
+910,Kevin Pratt,"608 Joel Lodge, North Christine, MS 04413",858-582-9553,2,Asian,Male,Uninsured,Current Smoker,Very Active,Occasional,Fair
+911,Regina Henderson,"USCGC Woodard, FPO AE 74274",+1-495-348-7240x53257,91,Black,Male,Government,Former Smoker,Moderately Active,Heavy,Poor
+912,William Rowe,"6923 Michael Court Apt. 103, North Jennifermouth, MS 89242",408.271.1668x6362,26,White,Female,Uninsured,Former Smoker,Sedentary,Occasional,Poor
+913,Jeffery Walker,"0755 Patricia Island Suite 171, North Marissa, NM 22108",483.834.1801,86,White,Female,Uninsured,Former Smoker,Sedentary,Heavy,Fair
+914,Matthew Moreno,"Unit 5489 Box 7028, DPO AE 97327",(683)683-2619,50,Black,Male,Government,Never Smoked,Sedentary,Moderate,Fair
+915,Joseph Torres,"USCGC Hall, FPO AA 73477",(475)269-8416x8548,38,White,Male,Other,Current Smoker,Sedentary,Occasional,Excellent
+916,Cindy Barrett,"1080 Green Drives Apt. 999, East Amandafurt, AR 07704",5222011973,47,Asian,Male,Government,Former Smoker,Slightly Active,Heavy,Poor
+917,Gina Hernandez,"880 Tammy Station, North Maryshire, UT 10500",489.814.4926x6737,90,Asian,Male,Government,Current Smoker,Sedentary,Occasional,Excellent
+918,Mary Cummings,"3222 Valenzuela Stream Apt. 800, South Randy, MD 79754",739-990-9718,38,Asian,Female,Uninsured,Never Smoked,Slightly Active,Occasional,Poor
+919,Rebecca Johnson,"36783 Nicole Station, West Charleschester, VA 90022",(536)557-3877x045,73,Asian,Male,Commercial,Current Smoker,Sedentary,Moderate,Fair
+920,John Ford,"53364 Marisa Springs Suite 991, West Jason, MI 23640",5354657464,78,Biracial,Female,Government,Never Smoked,Sedentary,Moderate,Good
+921,Mr. Brandon Johnson,"PSC 7473, Box 9655, APO AP 21392",612.421.5893x848,76,White,Female,Commercial,Current Smoker,Slightly Active,Heavy,Fair
+922,Barbara King,"2030 Boyd Circles Suite 140, Amberfort, AK 32526",524-316-5388x56843,5,Asian,Other,Government,Never Smoked,Slightly Active,Occasional,Fair
+923,Misty Lee,"Unit 4676 Box 9993, DPO AP 34008",001-759-777-7883,78,Asian,Female,Uninsured,Current Smoker,Slightly Active,Moderate,Excellent
+924,Charles Lambert,"149 Veronica Coves Apt. 669, Port Monique, WA 59100",(446)364-8533x71990,19,Other,Male,Other,Former Smoker,Sedentary,Moderate,Excellent
+925,Shannon Jensen,"4525 Robert Rue Apt. 199, Lake Anthonyton, KS 18990",649.291.0985,8,White,Female,Uninsured,Never Smoked,Sedentary,Heavy,Good
+926,Ronald Davis,"57684 Debra Forks Suite 611, East Matthew, OH 43924",(256)987-1827,60,Asian,Female,Uninsured,Former Smoker,Sedentary,Moderate,Poor
+927,Lori Garcia,"35239 Barbara Creek Suite 711, North Joshua, AR 26385",449.931.4624x3077,12,White,Male,Uninsured,Never Smoked,Sedentary,Moderate,Fair
+928,Jeffrey Reid,"82715 Kevin Street Apt. 485, Port Charleston, MO 23801",001-736-714-9267x976,24,White,Male,Private,Former Smoker,Moderately Active,Moderate,Good
+929,Debra Castro,"216 Avery Lake, Holdertown, DE 30086",525.222.8247x957,70,Asian,Male,Uninsured,Current Smoker,Sedentary,Occasional,Fair
+930,Jesse Graham,"781 Louis Village, West Alisonberg, OR 81271",862-467-9472,86,Hispanic,Other,Commercial,Current Smoker,Very Active,Occasional,Poor
+931,Mary Cannon,"0872 Lam Cliff Apt. 926, New David, PA 42039",447-684-7200x2596,5,White,Male,Uninsured,Current Smoker,Sedentary,None,Fair
+932,Amy Jones,"6025 Toni Walk Suite 432, East Bethview, VA 49075",+1-329-755-9574x2981,56,Black,Female,Uninsured,Never Smoked,Sedentary,None,Fair
+933,Elaine Williams,"30541 Kelly Viaduct Suite 191, Tanyastad, MD 55828",426.890.1495,42,White,Non-Binary,Commercial,Current Smoker,Sedentary,Occasional,Poor
+934,Jesus Jones,"0592 Matthews Highway, Austinmouth, DC 81716",638.960.0696x11440,92,White,Other,Other,Current Smoker,Sedentary,None,Fair
+935,Tyler Hahn,"01646 Gordon Falls Suite 840, Cummingsmouth, CA 46722",(452)910-8577,72,White,Male,Commercial,Never Smoked,Slightly Active,Occasional,Good
+936,Stacy Johnson,"PSC 4728, Box 7381, APO AA 84921",377-567-5349,53,Other,Other,Commercial,Current Smoker,Moderately Active,Moderate,Excellent
+937,Lisa Stephens,"398 Jeffrey Shores Apt. 292, Jennifermouth, PR 67926",(303)566-6913,19,White,Male,Government,Current Smoker,Sedentary,Moderate,Fair
+938,Mrs. Hailey Hobbs,"PSC 0033, Box 4866, APO AA 01931",+1-380-576-1405x525,94,Asian,Female,Uninsured,Current Smoker,Moderately Active,Occasional,Fair
+939,Victor Lyons,"9795 Snow Glen Apt. 701, North Davidstad, ME 61965",549-595-1225x8127,11,Biracial,Male,Government,Current Smoker,Very Active,Moderate,Poor
+940,Sandra Hubbard,"0989 Holly Unions Apt. 196, Lorihaven, AR 19666",(388)339-5752x151,49,Hispanic,Male,Uninsured,Current Smoker,Slightly Active,Occasional,Excellent
+941,Allison Hicks,"96127 Chavez Gardens Suite 224, Davidtown, FL 68921",744-903-0629,75,Black,Male,Government,Former Smoker,Sedentary,Moderate,Poor
+942,Hailey Lee,"43770 Young Manor Suite 986, Kellyland, PW 14366",001-504-438-6932x544,93,Asian,Male,Uninsured,Current Smoker,Sedentary,None,Fair
+943,William Robinson,"42199 Williams Rest, Vargaschester, AR 07502",(858)397-2455x6120,99,Black,Female,Government,Former Smoker,Sedentary,Heavy,Excellent
+944,Brendan Allen,"337 William Ferry, Benjaminfurt, OR 08661",997-311-0328,25,Asian,Male,Government,Never Smoked,Very Active,Heavy,Fair
+945,Erika Marsh,"71694 Keith Via Suite 689, Stevenbury, KS 04231",(847)587-4786,94,Biracial,Female,Uninsured,Never Smoked,Sedentary,Heavy,Fair
+946,Julie Young,"80140 Scott Lake Suite 629, Lake Melissa, WY 27244",001-433-277-3435x8138,73,Other,Female,Other,Current Smoker,Slightly Active,Moderate,Poor
+947,Joshua Steele,"64857 Johnson Pines Apt. 994, Lake Randy, GA 65297",834-903-0317x3656,28,Asian,Female,Government,Current Smoker,Sedentary,Occasional,Fair
+948,David Vasquez,"03918 Jenkins Courts Apt. 225, South Thomastown, PR 58768",416.973.1534x390,44,White,Male,Uninsured,Never Smoked,Sedentary,Moderate,Poor
+949,Yvonne Smith,"594 Mark Parks, Davidview, MP 52826",575-251-1381x78490,58,Other,Male,Commercial,Former Smoker,Sedentary,Heavy,Poor
+950,Johnny Davis,"643 Burke Curve Apt. 583, Ericahaven, AK 46730",+1-292-597-3891x2500,65,White,Female,Uninsured,Former Smoker,Sedentary,None,Poor
+951,Lauren Golden,"PSC 6160, Box 2951, APO AP 78723",743.488.4279x2556,20,Asian,Other,Commercial,Former Smoker,Slightly Active,Occasional,Fair
+952,Michael Hendrix,"302 Chad Camp Apt. 530, Edwardsberg, NJ 67929",(829)455-2649x3933,41,Native American or Alaskan Native,Female,Private,Current Smoker,Sedentary,Occasional,Poor
+953,Rachel Salinas,"7929 Greene Brooks Suite 134, Brandonfurt, SC 75003",788-665-4602x93860,90,Hispanic,Female,Commercial,Current Smoker,Slightly Active,Occasional,Good
+954,Kathleen Pace,"6491 Snyder Roads, West Davidville, DE 94451",267.937.4867x128,43,White,Female,Commercial,Never Smoked,Sedentary,Occasional,Poor
+955,Tami Reyes,"4631 Adam Glen, West Molly, CO 89436",387.307.3636x94777,45,Native American or Alaskan Native,Female,Government,Never Smoked,Sedentary,Heavy,Fair
+956,Emily Moran,"996 Torres Lodge, East Jeffreyburgh, IN 95220",(469)303-7148x76933,80,Asian,Male,Government,Former Smoker,Slightly Active,Occasional,Poor
+957,Chloe Wood,"228 Patel Rue, Donaldville, KS 97426",001-297-246-4236x13824,48,White,Female,Other,Former Smoker,Sedentary,Occasional,Fair
+958,Deanna Patterson,"7089 Stephanie Islands, Martinburgh, NY 80990",(319)546-6062x535,56,White,Female,Uninsured,Current Smoker,Slightly Active,None,Poor
+959,Christine Robertson,"5714 Mckenzie Station Apt. 888, Smithville, CO 88579",001-885-286-0287x89829,56,White,Female,Uninsured,Never Smoked,Sedentary,Moderate,Poor
+960,Brooke Harris,"3653 Pamela Via, Martinport, MA 12652",675.406.0579x58703,44,Asian,Female,Other,Never Smoked,Slightly Active,Occasional,Good
+961,Raymond Wilson,"688 Charles Place Suite 431, Leonardton, WI 25862",(935)367-9751,2,Other,Female,Government,Current Smoker,Sedentary,Moderate,Fair
+962,Elizabeth Edwards,"034 Kelly Shore, Rodriguezmouth, NM 74596",429.631.5874,47,White,Male,Private,Former Smoker,Sedentary,Moderate,Poor
+963,Joshua Nelson,"42883 April Street, North Heather, WV 68233",901.208.4623x428,82,Asian,Non-Binary,Government,Former Smoker,Sedentary,None,Poor
+964,Andrew Wright,"535 Bailey Stravenue Apt. 541, Maldonadomouth, KS 42171",298-833-7576x49722,97,Other,Female,Other,Former Smoker,Sedentary,Moderate,Fair
+965,Nicole Tate,"9024 Craig Springs Suite 474, Alexismouth, AK 87127",(779)340-5206x562,68,Other,Male,Government,Never Smoked,Sedentary,Moderate,Fair
+966,Corey Evans,"28466 Hamilton Loop, Johnmouth, MH 04434",936.694.4417x82381,70,Asian,Male,Commercial,Current Smoker,Sedentary,Occasional,Fair
+967,Yolanda Cohen,"112 Lucas Freeway Apt. 798, New Wendyport, NH 59049",8297689100,81,White,Male,Uninsured,Never Smoked,Slightly Active,Moderate,Fair
+968,Roberto Perry,"684 Paige Rapid Apt. 226, Port Dalton, CA 91637",490.538.0408x7084,43,Asian,Male,Uninsured,Former Smoker,Sedentary,Occasional,Excellent
+969,Sara Jackson,"32637 Rivers Grove, Michealburgh, NC 53505",+1-728-264-6784x7546,22,Other,Male,Government,Current Smoker,Very Active,Occasional,Poor
+970,Russell Kidd,"008 Stanley Squares, Lake Chrisberg, WY 12328",914.402.0393x849,89,Asian,Female,Commercial,Current Smoker,Sedentary,Moderate,Poor
+971,Angela Chen,"36761 Kristina Mission Apt. 052, East Jamesland, CO 15920",(740)526-4186,91,White,Male,Government,Current Smoker,Sedentary,Occasional,Poor
+972,Stacey Gomez,"Unit 2934 Box 0330, DPO AA 81452",416-291-5989,99,White,Male,Government,Current Smoker,Sedentary,Occasional,Fair
+973,Angela Armstrong,"524 Barry Loaf, Lake Johnny, AR 89983",001-270-657-2985x968,38,White,Male,Commercial,Never Smoked,Slightly Active,Moderate,Fair
+974,Joseph Chandler,"55696 David Pass, North John, OH 72785",942.249.4323x18899,19,Asian,Male,Commercial,Former Smoker,Moderately Active,Heavy,Fair
+975,Calvin Walker,"Unit 1084 Box 4662, DPO AA 29965",+1-267-404-6428,4,White,Female,Uninsured,Never Smoked,Sedentary,None,Good
+976,Adam Booker,"529 Watkins Creek Suite 748, Davisbury, PA 53344",364.716.4684,78,Hispanic,Non-Binary,Government,Current Smoker,Slightly Active,Moderate,Fair
+977,Dr. Steven Guerrero,"695 Samantha Rue Apt. 020, Port Michael, AR 01467",001-797-797-6131x70393,6,Native American or Alaskan Native,Male,Uninsured,Never Smoked,Sedentary,Heavy,Good
+978,Scott Parker,"Unit 2591 Box 5655, DPO AE 24526",559.508.2747,75,Asian,Male,Government,Current Smoker,Moderately Active,Moderate,Poor
+979,Christina Glenn,"84638 Campbell Brook Suite 481, Alexanderton, LA 66788",685-647-2944x56000,100,Hispanic,Other,Uninsured,Never Smoked,Sedentary,Moderate,Poor
+980,Charles Wood,"782 Natalie Knolls, Cardenasside, SC 91166",001-930-675-3154x5177,67,Asian,Male,Other,Current Smoker,Slightly Active,Moderate,Good
+981,Jenny Wu,"Unit 3538 Box 1421, DPO AA 73017",(917)509-0986x85526,4,Asian,Male,Other,Current Smoker,Moderately Active,Moderate,Fair
+982,Alyssa Foster,"6985 Price Unions Suite 662, Hernandezshire, SC 98076",441.322.2533x529,19,Asian,Female,Government,Never Smoked,Sedentary,Occasional,Excellent
+983,Timothy Newton,"447 Flowers Mountain Apt. 236, West Paulchester, SD 41670",+1-810-544-0281x142,26,White,Male,Uninsured,Current Smoker,Sedentary,Moderate,Fair
+984,Chad Keller,"52687 Esparza Pass, South Matthew, PW 19432",2646944845,86,White,Female,Commercial,Current Smoker,Sedentary,Heavy,Fair
+985,William Mccann,"48084 Gibson Club Suite 629, Abbottborough, PW 55828",456.439.7290,18,White,Female,Uninsured,Current Smoker,Sedentary,Moderate,Good
+986,Felicia Taylor,"7137 Michael Vista Suite 992, West Christinastad, NE 23055",001-549-248-7700,25,Asian,Male,Government,Former Smoker,Very Active,None,Fair
+987,Bradley Scott,"7703 Wells Shoal, East Nicoleside, VA 58361",001-272-604-6602x253,90,Native American or Alaskan Native,Male,Government,Former Smoker,Slightly Active,Occasional,Poor
+988,Samantha Mcmahon,"7591 Tran Fall, East Alyssatown, SC 21966",568.410.4726x975,27,Asian,Male,Private,Never Smoked,Slightly Active,Heavy,Fair
+989,Andrea Brock,"260 Alexis Hills Apt. 201, New Dakota, VA 53781",001-918-424-0600x7214,25,White,Non-Binary,Government,Former Smoker,Slightly Active,None,Poor
+990,Emily Fry,"64494 Tracy Points, Dicksonfurt, CT 16909",570.530.0556x68236,26,White,Male,Uninsured,Current Smoker,Sedentary,Moderate,Poor
+991,Tiffany Medina,"191 Paula Key, New Anna, PA 09418",(866)529-4998x410,87,Black,Female,Uninsured,Never Smoked,Slightly Active,Moderate,Fair
+992,Mrs. Jill Porter,"62064 Harrell Dale Apt. 215, Jamesbury, WY 94642",224.562.4319,81,Asian,Female,Uninsured,Never Smoked,Slightly Active,None,Fair
+993,Amber French,"66989 Casey Well Apt. 338, Penafort, SC 82480",001-392-530-1704x4616,83,Hispanic,Female,Uninsured,Never Smoked,Slightly Active,Occasional,Poor
+994,Peter Baker,"497 Lewis Cliff Suite 024, Bassside, NC 18234",441.950.4742x390,73,Black,Female,Uninsured,Current Smoker,Sedentary,Moderate,Good
+995,Taylor Miller,"12676 Dana Ferry, Clarkland, SD 72374",411.265.9656x4847,11,Other,Male,Uninsured,Current Smoker,Sedentary,Moderate,Poor
+996,Brandon Jackson,"Unit 9341 Box 1178, DPO AA 87008",3985398456,53,White,Male,Uninsured,Former Smoker,Sedentary,Heavy,Fair
+997,Anna Byrd,"298 Gregory Valley Suite 091, East Amandaside, MD 67777",589.509.9351,77,Asian,Male,Uninsured,Never Smoked,Sedentary,Moderate,Fair
+998,Jeffrey Harris,"89906 Maddox Trace Apt. 171, East James, ME 62152",916.549.8810x53715,84,Asian,Female,Other,Former Smoker,Moderately Active,None,Fair
+999,Daniel Holmes,"5334 Smith Extension, Sandrachester, KY 94649",001-581-649-1989x30363,15,Asian,Male,Uninsured,Current Smoker,Sedentary,Moderate,Fair
