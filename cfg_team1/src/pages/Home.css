@@ -5,11 +5,10 @@
 }
 
 .chatBox-Size {
-  height: 100%!important;
-  width: 100%!important; 
+  height: 100% !important;
+  width: 100% !important;
   font-family: Inter, sans-serif, Avenir, Helvetica, Arial;
   font-size: 0.9rem;
-   
 }
 
 /* Sidebar Styling */
@@ -24,11 +23,10 @@
 }
 
 .profile-icon {
-  width: 80px;
-  height: 80px;
-  background-color: #ddd;
+  width: 130px;
+  height: 130px;
   border-radius: 50%;
-  margin-bottom: 20px;
+  object-fit: cover;
 }
 
 .sidebar-item {

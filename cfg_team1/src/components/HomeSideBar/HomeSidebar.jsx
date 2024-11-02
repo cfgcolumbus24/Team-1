@@ -1,4 +1,5 @@
 import {useNavigate} from 'react-router-dom';
+import logo from '../../assets/logo.png';
 
 const HomeSidebar = () => {
   const navigate = useNavigate();
@@ -6,11 +7,12 @@ const HomeSidebar = () => {
     <>
       {/* Sidebar */}
       <div className='sidebar'>
-        <div
+        <img
+          src={logo}
           className='profile-icon'
           onClick={() => navigate('/')} // Navigate to home page when clicked
           style={{cursor: 'pointer'}}
-        ></div>
+        />
         <div
           className='sidebar-item'
           onClick={() => navigate('/patient-overview')}
