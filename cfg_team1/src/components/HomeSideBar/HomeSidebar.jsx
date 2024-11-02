@@ -1,15 +1,30 @@
+import React from 'react';
+import {useNavigate} from 'react-router-dom';
+
 const HomeSidebar = () => {
+  const navigate = useNavigate();
   return (
     <>
       {/* Sidebar */}
-      <div className='home-sidebar'>
-        <div className='profile-icon'>
+      <div className='sidebar'>
+        <div
+          className='profile-icon'
+          onClick={() => navigate('/')} // Navigate to home page when clicked
+          style={{cursor: 'pointer'}}
+        ></div>
+        <div
+          className='sidebar-item'
+          onClick={() => navigate('/paitentoverview')}
+        >
           {' '}
-          {/* Placeholder for Profile Icon */}{' '}
+          Paitient Page
         </div>
-        <div className='sidebar-item'>Home Page</div>
-        <div className='sidebar-item'>Reports</div>
-        <div className='sidebar-item'>Log Off</div>
+        <div className='sidebar-item' onClick={() => navigate('/HR_report')}>
+          Reports
+        </div>
+        <div className='sidebar-item' onClick={() => navigate('/logout')}>
+          Log Off
+        </div>
       </div>
     </>
   );
