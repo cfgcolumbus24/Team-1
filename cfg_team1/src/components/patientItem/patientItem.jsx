@@ -2,7 +2,7 @@
 import React from 'react';
 import './patientItem.css';
 
-const patientItem = ({ name }) => {
+const PatientItem = ({ name }) => {
   return (
     <div className="patient-item">
       <div className="patient-image"></div>
@@ -11,4 +11,4 @@ const patientItem = ({ name }) => {
   );
 };
 
-export default patientItem;
+export default PatientItem;
