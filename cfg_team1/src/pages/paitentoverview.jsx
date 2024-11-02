@@ -92,11 +92,15 @@ const PatientOverview = () => {
         <div className='patient-list'>
           {Array.isArray(filteredPatients) &&
             filteredPatients.map((patient) => (
-              <div className='patient-item' key={patient.id}>
+              <div className='patient-item' key={patient.patient_id}>
                 {/* <div className="patient-image"></div> */}
                 <span
                   className='patient-name'
-                  onClick={() => navigate(`/single-patient-overview`)}
+                  onClick={() =>
+                    navigate(
+                      `/single-patient-overview?id=${patient.patient_id}`,
+                    )
+                  }
                 >
                   {patient.name}
                 </span>

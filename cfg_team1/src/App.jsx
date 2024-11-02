@@ -13,9 +13,9 @@ function App() {
     <BrowserRouter>
       {/* Routing setup */}
       <Routes>
-        <Route path='/' element={<Home />} />
+        <Route path='/chat' element={<Home />} />
         <Route path='/hr-report' element={<HR_Report />} />
-        <Route path='/login' element={<Login />} />
+        <Route path='/' element={<Login />} />
         <Route path='/patient-overview' element={<PatientOverview />} />
         <Route
           path='/single-patient-overview'
