@@ -2,10 +2,10 @@
 ## Netcare Access  
 Netcare Access is a behavioral health organization in Central Ohio, focused on delivering critical mental health and substance use support services to residents of Ohio. Netcare Access provides continuous, community-oriented care, including 24/7 crisis support, specialized assessments, residential services, and forensic evaluations for the county's court systems.
 
-## Care Connect Mission Statment
+### Care Connect Mission Statement
 Our mission is to empower healthcare providers with streamlined access to comprehensive patient insights and reports, fostering improved care coordination and efficiency. Through a user-centered, accessible interface, our app facilitates seamless navigation across patient data, from detailed individual profiles to aggregate HR reports. We aim to support healthcare teams in delivering exceptional, informed care, enhancing both patient outcomes and provider workflows
 
-## How users interact with Care Connect 
+### How users interact with Care Connect 
 Users start on the Login page, entering their credentials to access the app. After logging in, they arrive at the Home dashboard, where a central Search bar allows quick access to patient records by entering keywords or identifiers.
 
 A sidebar on the left offers easy navigation to features like the HR_Report section for comprehensive HR data. Selecting "Patient Overview" presents a list of all patient profiles, with options to click into detailed Single Patient Overviews for individual medical information.
