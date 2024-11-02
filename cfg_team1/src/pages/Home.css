@@ -4,6 +4,14 @@
   font-family: Arial, sans-serif;
 }
 
+.chatBox-Size {
+  height: 100%!important;
+  width: 100%!important; 
+  font-family: Inter, sans-serif, Avenir, Helvetica, Arial;
+  font-size: 0.9rem;
+   
+}
+
 /* Sidebar Styling */
 .sidebar {
   width: 200px;
