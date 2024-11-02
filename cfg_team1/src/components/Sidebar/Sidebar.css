@@ -1,0 +1,13 @@
+.eclipse {
+  width: 280px;
+  height: 252px;
+  border-radius: 50%;
+  background: #e3f0ff;
+}
+
+.sidebar {
+  position: absolute;
+  width: 536px;
+  height: 100vh;
+  background: #d9d9d9;
+}
