@@ -2,7 +2,7 @@ const HomeSidebar = () => {
   return (
     <>
       {/* Sidebar */}
-      <div className='sidebar'>
+      <div className='home-sidebar'>
         <div className='profile-icon'>
           {' '}
           {/* Placeholder for Profile Icon */}{' '}
