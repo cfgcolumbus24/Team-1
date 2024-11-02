@@ -1,7 +1,7 @@
 import HomeSidebar from '../components/HomeSideBar/HomeSidebar';
 import './patientoverview.css'; // Add your custom CSS for styling
 import './patientoverview.css';
-import patientItem from '../components/patientItem/patientItem';
+// import patientItem from '../components/patientItem/patientItem';
 
 const PaintentOverview = () => {
   return (
