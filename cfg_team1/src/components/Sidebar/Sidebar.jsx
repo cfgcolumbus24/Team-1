@@ -2,7 +2,7 @@ import './Sidebar.css';
 
 const Sidebar = () => {
   return (
-    <div className='sidebar'>
+    <div className='single-sidebar'>
       <div className='eclipse'></div>
       <p className='name'>NAME</p>
       <div className='ageFlex'>
