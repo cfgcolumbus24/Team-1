@@ -114,35 +114,50 @@ def handle_query():
 
     query = request.json['query']
 
-    # Hugging Face API URL and headers
-    API_URL = "https://api-inference.huggingface.co/models/EleutherAI/gpt-neo-2.7B"
-    headers = {"Authorization": "Bearer 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"}
-#     payload = {
-#     "inputs": f"Generate an SQL query using the following database structure: patient_id, name, address, phone_number, age, race, gender, insurance, smoking, physical_activity, alcohol, support_system. Query: {query}"
-# }
-    payload = f"Generate an SQL query using the following database structure: patient_id, name, address, phone_number, age, race, gender, insurance, smoking, physical_activity, alcohol, support_system. Query: {query}"
-
+    # Construct the payload for content generation
+    payload = f"Generate only the SQL query with no additional text based on this structure. The database is called patient. Do not wrap it in code formatting, just plaintext: patient_id, name, address, phone_number, age, race, gender, insurance, smoking, physical_activity, alcohol, support_system. Query: {query}"
 
     try:
-        # Make the API request
-        # response = requests.post(API_URL, headers=headers, json=payload)\
-        # response.raise_for_status()
-        # response_json = response.json()
-
+        # Generate content using the model
         response = model.generate_content(payload)
         print("Hugging Face API response:", response)  # Debug line
 
-        # Check if a valid response was returned
-        # generated_response = response_json[0]['generated_text'] if response_json else ''
+        # Extract the text content from the response
+        generated_response = response.text
 
-        if not response:
+        if not generated_response:
             abort(500, description='Error: Failed to generate response from the API')
 
-        return jsonify({"response": response})
+       # Execute the generated SQL query
+        conn = connect_to_db()
+        cursor = conn.cursor(dictionary=True)
+        try:
+            cursor.execute(generated_response)
+            result_data = cursor.fetchall()
+        except mysql.connector.Error as err:
+            print(f"Error executing generated query: {err}")
+            abort(500, description='Error executing generated query')
+        finally:
+            cursor.close()
+            conn.close()
 
-    except requests.exceptions.RequestException as e:
-        print(f"Error calling Hugging Face API: {e}")
+        # Use the result data to generate a response with the model
+        data_summary_payload = f"Summarize the following data: {json.dumps(result_data)}"
+        response_summary = model.generate_content(data_summary_payload)
+        print("Generated summary response:", response_summary)  # Debug line
+
+        summary_text = response_summary.text
+
+        if not summary_text:
+            abort(500, description='Error: Failed to generate summary from the API')
+
+        return jsonify({"response": summary_text})
+
+
+    except Exception as e:
+        print(f"Error processing the request: {e}")
         abort(500, description='Error processing the request')
+
 
 # Run the app
 if __name__ == '__main__':
