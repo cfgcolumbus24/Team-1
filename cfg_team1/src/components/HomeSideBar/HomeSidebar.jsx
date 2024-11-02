@@ -25,7 +25,7 @@ const HomeSidebar = () => {
           <div className='sidebar-item' onClick={() => navigate('/hr-report')}>
             Reports
           </div>
-          <div className='sidebar-item' onClick={() => navigate('/logout')}>
+          <div className='sidebar-item' onClick={() => navigate('/')}>
             Log Off
           </div>
         </div>
