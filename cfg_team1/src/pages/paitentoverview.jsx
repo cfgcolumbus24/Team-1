@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import './patientoverview.css';
+import HomeSidebar from '../components/HomeSideBar/HomeSidebar';
 
 const PatientOverview = () => {
   const [patients, setPatients] = useState([]);
@@ -62,12 +63,7 @@ const PatientOverview = () => {
 
   return (
     <div className='home-container'>
-      <div className='sidebar'>
-        <div className='profile-icon'>{/* Placeholder for Profile Icon */}</div>
-        <div className='sidebar-item'>Home Page</div>
-        <div className='sidebar-item'>Reports</div>
-        <div className='sidebar-item'>Log Off</div>
-      </div>
+      <HomeSidebar />
 
       <div className='content'>
         <form className='search-bar' onSubmit={handleFilterClick}>
