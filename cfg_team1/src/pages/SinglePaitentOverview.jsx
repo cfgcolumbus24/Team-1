@@ -1,9 +1,9 @@
-import React from 'react';
+import Sidebar from '../components/Sidebar';
 
 const SinglePaitentOverview = () => {
   return (
     <div>
-      <h1>single paintent overview</h1>
+      <Sidebar />
     </div>
   );
 };

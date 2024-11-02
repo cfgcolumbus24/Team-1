@@ -1,5 +1,3 @@
-import React from 'react';
-
 const HR_Report = () => {
   return (
     <div>
