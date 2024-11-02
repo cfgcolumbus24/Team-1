@@ -5,7 +5,6 @@ const Home = () => {
   return (
     <div className='home-container'>
       <HomeSidebar />
-
       {/* Main Chat Area */}
       <div className='main-content'>
 
