@@ -1,11 +1,13 @@
 import React, { useEffect, useState } from 'react';
 import './patientoverview.css';
 import HomeSidebar from '../components/HomeSideBar/HomeSidebar';
+import {useNavigate} from 'react-router-dom';
 
 const PatientOverview = () => {
   const [patients, setPatients] = useState([]);
   const [filteredPatients, setFilteredPatients] = useState([]); // Ensure this is initialized as an array
   const [name, setName] = useState("");
+  const navigate = useNavigate();
 
   useEffect(() => {
     const fetchPatients = async () => {
@@ -82,7 +84,7 @@ const PatientOverview = () => {
           {Array.isArray(filteredPatients) && filteredPatients.map(patient => (
             <div className="patient-item" key={patient.id}>
               {/* <div className="patient-image"></div> */}
-              <span className="patient-name">{patient.name}</span>
+              <span className="patient-name" onClick={() => navigate('/single-patient-overview')}>{patient.name}</span>
             </div>
           ))}
         </div>
