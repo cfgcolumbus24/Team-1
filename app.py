@@ -13,7 +13,6 @@ CORS(app)
 
 # Add gemini
 genai.configure(api_key=os.getenv('GENAI_API_KEY'))
-print(os.getenv('GENAI_API_KEY'))
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 # Connect to the MySQL database
@@ -87,7 +86,7 @@ def get_all_patients():
         conn.close()
 
 # Endpoint to get a specific patient by ID
-@app.route('/patients/<id>', methods=['GET'])
+@app.route('/patient/<id>', methods=['GET'])
 def get_patient_by_id(id):
     print(f"GET /patients/{id} endpoint called")  # Debug line
     conn = connect_to_db()
@@ -109,13 +108,13 @@ def get_patient_by_id(id):
 # Endpoint to process a query using Hugging Face API
 @app.route('/query', methods=['POST'])
 def handle_query():
-    if not request.json or 'query' not in request.json:
+    if not request.json or 'messages' not in request.json:
         abort(400, description='Invalid request: missing query parameter')
 
-    query = request.json['query']
+    query = request.json['messages'][0]['text']
 
     # Construct the payload for content generation
-    payload = f"Generate only the SQL query with no additional text based on this structure. The database is called patient. Do not wrap it in code formatting, just plaintext: patient_id, name, address, phone_number, age, race, gender, insurance, smoking, physical_activity, alcohol, support_system. Query: {query}"
+    payload = f"Generate only the SQL query with no additional text based on this structure. DO NOT INCLUDE ANY NEWLINES OR SPECIAL CHARATERS IN THE RESPONSE. The database is called patient. Do not wrap it in code formatting, just plaintext. If the query has nothing to do with data, just respond with an emoticon smiley face: patient_id, name, address, phone_number, age, race, gender, insurance, smoking, physical_activity, alcohol, support_system. Query: {query}"
 
     try:
         # Generate content using the model
@@ -126,7 +125,8 @@ def handle_query():
         generated_response = response.text
 
         if not generated_response:
-            abort(500, description='Error: Failed to generate response from the API')
+            return jsonify({"text": "The bot was unable to generate a prompt to retrieve the data. Please try again."})
+            # abort(500, description='Error: Failed to generate response from the API')
 
        # Execute the generated SQL query
         conn = connect_to_db()
@@ -136,7 +136,8 @@ def handle_query():
             result_data = cursor.fetchall()
         except mysql.connector.Error as err:
             print(f"Error executing generated query: {err}")
-            abort(500, description='Error executing generated query')
+            return jsonify({"text": "The bot was unable to generate a prompt to retrieve the data. Please try again."})
+            # abort(500, description='Error executing generated query')
         finally:
             cursor.close()
             conn.close()
@@ -151,7 +152,7 @@ def handle_query():
         if not summary_text:
             abort(500, description='Error: Failed to generate summary from the API')
 
-        return jsonify({"response": summary_text})
+        return jsonify({"text": summary_text})
 
 
     except Exception as e:
