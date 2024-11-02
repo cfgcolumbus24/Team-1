@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react';
+import {useEffect, useState} from 'react';
 import './patientoverview.css';
 import HomeSidebar from '../components/HomeSideBar/HomeSidebar';
 
@@ -6,6 +6,8 @@ const PatientOverview = () => {
   const [patients, setPatients] = useState([]);
   const [filteredPatients, setFilteredPatients] = useState([]); // Ensure this is initialized as an array
   const [name, setName] = useState('');
+
+  console.log(patients)
 
   useEffect(() => {
     const fetchPatients = async () => {
