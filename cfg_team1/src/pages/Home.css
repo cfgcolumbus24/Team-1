@@ -1,0 +1,159 @@
+/* Container Styling */
+.home-container {
+  display: flex;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff; /* Soft blue background */
+}
+
+.chatBox-Size {
+  height: 100% !important;
+  width: 100% !important;
+  font-family: 'Inter', 'Avenir', 'Helvetica', Arial, sans-serif;
+  font-size: 0.9rem;
+}
+
+/* Sidebar Styling */
+.sidebar {
+  width: 220px;
+  background-color: #1f3b57; /* Dark blue */
+  color: #ffffff; /* White text for contrast */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  border-right: 2px solid #0d253f;
+}
+
+.profile-icon {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #ffffff; /* White border */
+}
+
+.sidebar-item {
+  margin: 20px 0;
+  font-weight: bold;
+  cursor: pointer;
+  text-align: center;
+  color: #ffffff;
+  transition: color 0.3s;
+}
+
+.sidebar-item:hover {
+  color: #a3d1ff; /* Light blue on hover */
+}
+
+/* Main Content Styling */
+.main-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background-color: #f0f8ff; /* Light blue background */
+}
+
+.chat-area {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 20px;
+  overflow-y: auto;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.chat-bubble {
+  max-width: 75%;
+  padding: 12px;
+  border-radius: 12px;
+  margin: 6px 0;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.user-query {
+  align-self: flex-end;
+  background-color: #cce7ff; /* Light blue for user */
+  color: #0d253f;
+}
+
+.response {
+  align-self: flex-start;
+  background-color: #b3d4fc; /* Light blue for response */
+  color: #1f3b57;
+}
+
+/* Input Area Styling */
+.input-area {
+  display: flex;
+  align-items: center;
+}
+
+.chat-input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #a3d1ff; /* Light blue border */
+  border-radius: 8px;
+  outline: none;
+  font-size: 1rem;
+  color: #1f3b57;
+  background-color: #f0f8ff;
+}
+
+.chat-input:focus {
+  border-color: #66a6ff; /* Brighter blue on focus */
+  box-shadow: 0 0 5px rgba(102, 166, 255, 0.5);
+}
+
+/* Accessibility Enhancements */
+.sidebar, .chat-bubble, .input-area {
+  color: #1f3b57;
+}
+
+.sidebar-item:focus,
+.sidebar-item:active {
+  outline: 2px solid #a3d1ff;
+}
+
+.sidebar {
+  width: 220px;
+  background-color: #1f3b57;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  border-right: 2px solid #0d253f;
+}
+
+.profile-icon-wrapper {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  border: 2px solid #ffffff;
+  margin-bottom: 30px; /* Increased space between logo and first item */
+}
+
+.sidebar-item {
+  margin: 30px 0; /* Increased space between sidebar items */
+  font-weight: bold;
+  cursor: pointer;
+  text-align: center;
+  color: #ffffff;
+  transition: color 0.3s;
+}
+
+.sidebar-item:hover {
+  color: #a3d1ff; /* Light blue on hover */
+}

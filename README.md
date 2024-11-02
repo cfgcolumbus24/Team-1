@@ -68,7 +68,10 @@ $ pip freeze > requirements.txt
 This ensures that anyone else working on the project will have access to the updated dependencies.
 
 
-
+- add npm install & npm run dev
+- summary for non-profit & mission statement
+- how user would use the website
+- 
 
 
 
