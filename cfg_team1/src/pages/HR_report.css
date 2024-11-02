@@ -1,0 +1,162 @@
+:root {
+  --font-family-roboto: 'Roboto', sans-serif;
+}
+
+.rectangle-4138-2 {
+  width: 300px;
+  height: 1140px;
+  background-color: rgba(217, 217, 217, 1);
+}
+
+.text-3 {
+  width: 157px;
+  height: 28px;
+  font-size: 40px;
+  font-family: var(--font-family-roboto);
+  font-weight: normal;
+  line-height: 28px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+
+.line-3-4 {
+  width: 307.0016174316406px;
+  height: 0px;
+  border: 1px solid rgba(0, 0, 0, 1);
+}
+
+.text-5 {
+  width: 171px;
+  height: 28px;
+  font-size: 40px;
+  font-family: var(--font-family-roboto);
+  font-weight: normal;
+  line-height: 28px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+
+.text-6 {
+  width: 171px;
+  height: 28px;
+  font-size: 40px;
+  font-family: var(--font-family-roboto);
+  font-weight: normal;
+  line-height: 28px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+
+.text-7 {
+  width: 162px;
+  height: 28px;
+  font-size: 24px;
+  font-family: var(--font-family-roboto);
+  font-weight: normal;
+  line-height: 28px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+
+.text-8 {
+  width: 155px;
+  height: 28px;
+  font-size: 24px;
+  font-family: var(--font-family-roboto);
+  font-weight: normal;
+  line-height: 28px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+
+.text-9 {
+  width: 131px;
+  height: 28px;
+  font-size: 24px;
+  font-family: var(--font-family-roboto);
+  font-weight: normal;
+  line-height: 28px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+
+.line-2-10 {
+  width: 307.0016174316406px;
+  height: 0px;
+  border: 1px solid rgba(0, 0, 0, 1);
+}
+
+.ellipse-1-11 {
+  width: 190px;
+  height: 174px;
+}
+
+.text-12 {
+  width: 0px;
+  height: 28px;
+  border: 1px solid rgba(0, 0, 0, 1);
+  font-size: 32px;
+  font-family: var(--font-family-roboto);
+  font-weight: normal;
+  line-height: 28px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+
+.line-1-13 {
+  width: 307.0016174316406px;
+  height: 0px;
+  border: 1px solid rgba(0, 0, 0, 1);
+}
+
+.ellipse-2-14 {
+  width: 67px;
+  height: 60px;
+}
+
+.polygon-1-15 {
+  width: 72px;
+  height: 88px;
+}
+
+.image-1-16 {
+  width: 584px;
+  height: 307px;
+  width: 100%;
+  height: auto;
+}
+
+.image-2-17 {
+  width: 738px;
+  height: 208px;
+  width: 100%;
+  height: auto;
+}
+
+.image-3-18 {
+  width: 386px;
+  height: 177px;
+  width: 100%;
+  height: auto;
+}
+
+.image-4-19 {
+  width: 324px;
+  height: 291px;
+  width: 100%;
+  height: auto;
+}
+
+.image-5-20 {
+  width: 563px;
+  height: 220px;
+  width: 100%;
+  height: auto;
+}
+
+.hr-report-1 {
+  /* height: 1117px; */
+  width: 100%;
+  height: auto;
+  background-color: rgba(255, 255, 255, 1);
+}

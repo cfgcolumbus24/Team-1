@@ -1,0 +1,39 @@
+.pRecord {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+
+.sPatientOverview {
+  display: flex;
+  height: 100vh;
+}
+
+.patientdiv {
+  width: 100%;
+  height: 309px;
+  background: #d9d9d9;
+  margin-top: 0.9rem;
+}
+
+.pRecordDiv {
+  width: calc(100vw - 436px);
+  padding: 3rem;
+  overflow-y: auto;
+}
+
+.patient {
+  margin-top: 1.5rem;
+}
+
+.ph9q {
+  margin-top: 5rem;
+}
+
+.image {
+  width: 100%;
+  height: 309px;
+  margin-top: 0.9rem;
+}
