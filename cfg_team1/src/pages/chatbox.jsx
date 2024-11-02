@@ -5,10 +5,11 @@ const ChatBox = () => {
     return(
     <deep-chat class='chatBox-Size'
     connect='{
-    "url": "https://customapi.com/message",
-    "method": "POST",
-    "headers": {"customName": "customHeaderValue"},
-    "additionalBodyProps": {"customBodyField": "customBodyValue"}}'
+        "url": "http://ec2-3-80-140-21.compute-1.amazonaws.com:3000/query",
+        "method": "POST",
+        "headers": {"Content-Type": "application/json"}
+      }' 
+        images="true"
 ></deep-chat>
     )
 };
