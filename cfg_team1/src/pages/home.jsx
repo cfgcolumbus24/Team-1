@@ -8,10 +8,6 @@ const Home = () => {
 
       {/* Main Chat Area */}
       <div className='main-content'>
-        {/* Search Bar */}
-        <div className='search-bar'>
-          <input type='text' placeholder='Search' className='search-input' />
-        </div>
 
         {/* Chat Area */}
         <div className='chat-area'>

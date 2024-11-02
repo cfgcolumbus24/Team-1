@@ -24,7 +24,7 @@
   }
   
   .sidebar-item {
-    margin: 10px 0;
+    margin: 20px 0;
     font-weight: bold;
     cursor: pointer;
     text-align: center;
@@ -37,17 +37,6 @@
     flex-direction: column;
     padding: 20px;
     background-color: #fafafa;
-  }
-  
-  .search-bar {
-    margin-bottom: 20px;
-  }
-  
-  .search-input {
-    width: 100%;
-    padding: 10px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
   }
   
   .chat-area {
