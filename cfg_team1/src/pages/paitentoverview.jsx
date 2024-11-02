@@ -1,16 +1,20 @@
-import React, { useEffect, useState } from 'react';
+import {useEffect, useState} from 'react';
 import './patientoverview.css';
 import HomeSidebar from '../components/HomeSideBar/HomeSidebar';
 
 const PatientOverview = () => {
   const [patients, setPatients] = useState([]);
   const [filteredPatients, setFilteredPatients] = useState([]); // Ensure this is initialized as an array
-  const [name, setName] = useState("");
+  const [name, setName] = useState('');
+
+  console.log(patients)
 
   useEffect(() => {
     const fetchPatients = async () => {
       try {
-        const response = await fetch('http://ec2-3-80-140-21.compute-1.amazonaws.com:3000/patients');
+        const response = await fetch(
+          'http://ec2-3-80-140-21.compute-1.amazonaws.com:3000/patients',
+        );
         const data = await response.json();
         setPatients(data); // Assuming the response is an array of patients
         setFilteredPatients(data); // Initialize filteredPatients with all patients
@@ -45,7 +49,10 @@ const PatientOverview = () => {
 
   async function searchPatientsByName(name) {
     try {
-      const response = await fetch('http://ec2-3-80-140-21.compute-1.amazonaws.com:3000/patients/search?name=' + encodeURIComponent(name));
+      const response = await fetch(
+        'http://ec2-3-80-140-21.compute-1.amazonaws.com:3000/patients/search?name=' +
+          encodeURIComponent(name),
+      );
       const data = await response.json();
 
       if (response.ok) {
@@ -67,24 +74,27 @@ const PatientOverview = () => {
 
       <div className='content'>
         <form className='search-bar' onSubmit={handleFilterClick}>
-          <input 
-            type='text' 
-            placeholder='Search' 
-            className='search-input' 
-            value={name} 
-            onChange={handleInputChange} 
+          <input
+            type='text'
+            placeholder='Search'
+            className='search-input'
+            value={name}
+            onChange={handleInputChange}
             onKeyPress={handleKeyPress} // Listen for key presses
           />
-          <button type="submit" className="filter-button">Filter</button>
+          <button type='submit' className='filter-button'>
+            Filter
+          </button>
         </form>
 
         <div className='patient-list'>
-          {Array.isArray(filteredPatients) && filteredPatients.map(patient => (
-            <div className="patient-item" key={patient.id}>
-              {/* <div className="patient-image"></div> */}
-              <span className="patient-name">{patient.name}</span>
-            </div>
-          ))}
+          {Array.isArray(filteredPatients) &&
+            filteredPatients.map((patient) => (
+              <div className='patient-item' key={patient.id}>
+                {/* <div className="patient-image"></div> */}
+                <span className='patient-name'>{patient.name}</span>
+              </div>
+            ))}
         </div>
       </div>
     </div>

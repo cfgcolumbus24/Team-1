@@ -38,4 +38,3 @@ const HR_report = () => {
 };
 
 export default HR_report;
-
