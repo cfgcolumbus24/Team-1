@@ -1,0 +1,58 @@
+.eclipse {
+  width: 200px;
+  height: 202px;
+  border-radius: 50%;
+  background: #e3f0ff;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sidebar {
+  width: 436px;
+  background: #d9d9d9;
+  padding: 1.5rem;
+}
+
+.name {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 28px;
+  color: #000000;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.ageFlex {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0.9rem;
+}
+
+.age {
+  width: 160px;
+  height: 50px;
+  background: #e3f0ff;
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  font-size: 18px;
+  font-weight: 500;
+  padding-left: 0.6rem;
+}
+
+.race {
+  width: 180px;
+}
+
+.address {
+  height: 50px;
+  background: #e3f0ff;
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 0.9rem;
+  padding-left: 0.6rem;
+}

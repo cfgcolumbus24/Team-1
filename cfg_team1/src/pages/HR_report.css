@@ -1,0 +1,26 @@
+.hr-report {
+  height: 100vh;
+  display: flex;
+}
+
+.revFlex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.revFlex > img {
+  width: 45%;
+}
+
+.revBody {
+  overflow-y: auto;
+  padding: 1.5rem;
+}
+
+.rev {
+  margin-top: 2rem;
+}
+
+.reportsParagraph {
+  font-size: 19px;
+}
