@@ -1,0 +1,16 @@
+Patient ID,First Name,Last Name,Age,Gender,Blood Type,Condition,Admission Date,Contact Number,Allergies,Medications,Emergency Contact,Doctor Assigned,Room Number
+P001,John,Doe,45,Male,O+,Hypertension,2024-10-01,123-456-7890,Penicillin,Lisinopril,Mary Doe (Wife) - 987-654-3210,Dr. Brown,101
+P002,Jane,Smith,34,Female,A-,Asthma,2024-10-05,987-654-3210,None,Albuterol,Lisa Smith (Sister) - 456-789-1230,Dr. Patel,102
+P003,Carlos,Garcia,29,Male,B+,Diabetes Type 2,2024-10-10,555-123-4567,Nuts,Metformin,Maria Garcia (Mother) - 321-654-9870,Dr. Johnson,103
+P004,Mary,Johnson,62,Female,AB+,Osteoporosis,2024-09-28,444-555-6666,Latex,Calcium supplements,Peter Johnson (Son) - 654-987-1234,Dr. Kim,104
+P005,Fatima,Ali,50,Female,O-,Hypertension,2024-10-12,321-456-7891,Aspirin,Amlodipine,Ahmed Ali (Husband) - 789-123-4561,Dr. Brown,105
+P006,Ahmed,Khan,40,Male,B-,Heart Disease,2024-10-11,654-321-0987,Pollen,Atenolol,Saira Khan (Wife) - 321-678-9012,Dr. Patel,205
+P007,Emily,Davis,73,Female,A+,Arthritis,2024-10-02,222-333-4444,None,Ibuprofen,John Davis (Son) - 555-666-7777,Dr. Kim,312
+P008,Robert,Miller,56,Male,O+,COPD,2024-09-30,777-888-9999,Sulfa drugs,Tiotropium,Lisa Miller (Daughter) - 888-999-1111,Dr. Brown,108
+P009,Sara,Lee,38,Female,AB-,Migraine,2024-10-06,111-222-3333,Shellfish,Sumatriptan,Henry Lee (Brother) - 123-789-4560,Dr. Johnson,217
+P010,William,Carter,60,Male,A-,"Hypertension, Kidney Stones",2024-10-13,444-123-7890,Latex,"Lisinopril, Hydrochlorothiazide",Margaret Carter (Wife) - 123-456-7890,Dr. Patel,304
+P011,Olivia,Wilson,22,Female,B+,Anxiety,2024-10-09,333-444-5555,Gluten,Sertraline,Nathan Wilson (Father) - 456-789-1234,Dr. Kim,110
+P012,Henry,Smith,50,Male,O-,Diabetes Type 1,2024-10-14,555-666-7777,None,Insulin,Carol Smith (Wife) - 987-123-6543,Dr. Brown,208
+P013,Amelia,Clark,30,Female,AB+,Asthma,2024-10-03,222-555-8888,Cats,Fluticasone,George Clark (Brother) - 321-987-6543,Dr. Johnson,109
+P014,James,Baker,67,Male,B+,Alzheimer’s,2024-10-07,666-777-8888,None,Donepezil,Emma Baker (Daughter) - 654-321-4567,Dr. Kim,316
+P015,Zoe,Martinez,48,Female,A+,"Hypertension, Obesity",2024-10-08,999-111-2222,None,"Amlodipine, Metformin",Carlos Martinez (Brother) - 432-987-6789,Dr. Patel,305
