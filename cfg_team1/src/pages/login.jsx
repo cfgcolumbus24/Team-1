@@ -1,6 +1,7 @@
 import {useState} from 'react';
 import {useNavigate} from 'react-router-dom'; // Import useNavigate for navigation
 import './Login.css';
+import login_logo from '../assets/login_logo.jpeg';
 
 const Login = () => {
   const [username, setUsername] = useState('');
@@ -18,34 +19,39 @@ const Login = () => {
   };
 
   return (
-    <div className='login-container'>
-      <h2>Login</h2>
-      <form onSubmit={handleLogin}>
-        <div className='form-group'>
-          <label htmlFor='username'>Username:</label>
-          <input
-            type='text'
-            id='username'
-            value={username}
-            onChange={(e) => setUsername(e.target.value)}
-            required
-          />
-        </div>
-        <div className='form-group'>
-          <label htmlFor='password'>Password:</label>
-          <input
-            type='password'
-            id='password'
-            value={password}
-            onChange={(e) => setPassword(e.target.value)}
-            required
-          />
-        </div>
-        <button type='submit' className='login-button'>
-          Submit
-        </button>
-      </form>
-    </div>
+    <>
+      <div className='logo_div'>
+        <img src={login_logo} className='login_logo' alt='logo' />
+      </div>
+      <div className='login-container'>
+        <h2>Login</h2>
+        <form onSubmit={handleLogin}>
+          <div className='form-group'>
+            <label htmlFor='username'>Username:</label>
+            <input
+              type='text'
+              id='username'
+              value={username}
+              onChange={(e) => setUsername(e.target.value)}
+              required
+            />
+          </div>
+          <div className='form-group'>
+            <label htmlFor='password'>Password:</label>
+            <input
+              type='password'
+              id='password'
+              value={password}
+              onChange={(e) => setPassword(e.target.value)}
+              required
+            />
+          </div>
+          <button type='submit' className='login-button'>
+            Submit
+          </button>
+        </form>
+      </div>
+    </>
   );
 };
 
